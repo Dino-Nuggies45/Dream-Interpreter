@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Spectral&display=swap');
+
+body {
+    margin: 0;
+    background: radial-gradient(ellipse at center, #0b1a33, #000010);
+    color: #eee;
+    font-family: 'Spectral', serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    padding: 2rem;
+    text-align: center;
+}
+
+.container{
+    max-width: 600px;
+    background: rgba(15, 23, 43, 0.85);
+    padding: 2rem;
+    border-radius: 15px;
+    box-shadow: 0  0 20px 5px #4a6eff99;
+}
+
+h1 {
+    font-size: 3rem;
+    margin-bottom: 0.5rem;
+    text-shadow: 0 0 8px #7fb7ff;
+}
+
+textarea {
+    width: 100%;
+    height: 120px;
+    border-radius: 12px;
+    border: none;
+    padding: 1rem;
+    font-size: 1.1rem;
+    background: #0c1731;
+    color: #cc37ff;
+    resize: vertical;
+    box-shadow: inset 0 0 6px #385eff;
+    margin-bottom: 1rem;
+}
+
+button {
+    background: #4a6eff;
+    color: white;
+    font-size: 1.2rem;
+    border: none;
+    border-radius: 12px;
+    padding: 0.75rem 2rem;
+    cursor: pointer;
+    transition: background 0.3s ease;
+    box-shadow: 0 0 12px #4a6eff;
+}
