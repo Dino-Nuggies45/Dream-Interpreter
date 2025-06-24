@@ -52,3 +52,17 @@ button {
     transition: background 0.3s ease;
     box-shadow: 0 0 12px #4a6eff;
 }
+
+button:hover {
+    background: #698eff;
+}
+
+#oracleOutput {
+    margin-top: 2rem;
+    font-size: 1.25em;
+    min-height: 4rem;
+    line-height: 1.5;
+    font-style: italic;
+    color: #a0d4ff;
+    text-shadow: 0 0 5px #a0d4ff88;
+}
