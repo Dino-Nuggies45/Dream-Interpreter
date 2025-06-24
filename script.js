@@ -17,13 +17,27 @@ function getRandomInterpretation() {
     return interpretations[index];
 }
 
+function formatDreamText(text) {
+    const trimmed = text.trim();
+    const capitalized = trimmed.charAt(0).toUpperCase() + trimmed.slice(1);
+    return capitalized.replace(/\s+/g, ' ');
+}
+
 interpretBtn.addEventListener('click', () => {
-    const dreamText = dreamInput.value.trim();
+    const rawDream = dreamInput.value
+    const dreamText = formatDreamText(rawDream);
+    
     if (!dreamText) {
         oracleOutput.textContent = "Please share your dream to receive the oracles insight.";
+        return;
+    }
+
+    if (!dreamText || dreamText.length < 10) {
+        oracleOutput.textContent = "The stars need more to go on. Share a deeper vision with them...";
         return;
     }
 
     const response = getRandomInterpretation();
     oracleOutput.textContent = response;
 });
+
