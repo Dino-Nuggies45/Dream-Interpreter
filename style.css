@@ -83,3 +83,29 @@ select {
     border: 1px solid #385eff;
     box-shadow: 0 0 6px #4a6eff88;
 }
+
+body::before{
+    content: '';
+    position: fixed;
+    top: 0; left: 0;
+    width: 100%;
+    height: 100%;
+    background: transparent url('https://raw.githubusercontent.com/kayellpeee/starfield/master/starfield.gif') repeat;
+    opacity: 0.2;
+    z-index: -1;
+    animation: scrollStars 100s linear infinite;
+}
+
+@keyframes scrollStars {
+    0%{ background-position: 0 0; }
+    100% { background-position: -1000px 1000px; }
+}
+
+.fade-in{
+    animation: fadeIn 2s ease forwards;
+}
+
+@keyframes fadeIn{
+    0%{ opacity: 0; transform: translateY(10px); }
+    100% { opacity: 1; transform: translateY(0);}
+}
