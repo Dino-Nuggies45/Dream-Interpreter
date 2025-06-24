@@ -11,6 +11,14 @@
             <h1>Starwhale Oracle</h1>
             <p>Type your dream and let the oracle reveal its mysteries...</p>
             <textarea id="dreamInput" placeholder="Describe your dream here..."></textarea>
+            <label for="toneSelect">How did the dream feel?</label>
+            <select id="toneSelect">
+                <option value="mysterious">Mysterious</option>
+                <option value="peaceful">Peaceful</option>
+                <option value="chaotic">Chaotic</option>
+                <option value="romantic">Romantic</option>
+                <option value="nightmare">Nightmare</option>
+            </select>
             <button id="interpreterBtn">Interpret Dream</button>
             <section id="oracleOutput" aria-live="polite"></section>
         </main>

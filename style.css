@@ -66,3 +66,20 @@ button:hover {
     color: #a0d4ff;
     text-shadow: 0 0 5px #a0d4ff88;
 }
+
+label, select {
+    display: block;
+    margin: 1rem auto;
+    font-size: 1.1rem;
+    color: #cce7ff;
+    background: none;
+}
+
+select {
+    padding: 0.5rem 1rem;
+    border-radius: 10px;
+    background: #0c1731;
+    color: #a0d4ff;
+    border: 1px solid #385eff;
+    box-shadow: 0 0 6px #4a6eff88;
+}

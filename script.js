@@ -1,6 +1,7 @@
 const interpretBtn = document.getElementById('interpretBtn');
 const dreamInput = document.getElementById('dreamInput');
 const oracleOutput = document.getElementById('oracleOutput');
+const tone = document.getElementById('toneSelect').value;
 
 const interpretations = [
     "The stars whisper secerts hidden deep within your soul...",
@@ -37,7 +38,13 @@ interpretBtn.addEventListener('click', () => {
         return;
     }
 
-    const response = getRandomInterpretation();
-    oracleOutput.textContent = response;
+    oracleOutput.textContent = "The oracle is interpretating yout dream...";
+    oracleOutput.classList.add('fade-in');
+
+    setTimeout(() => {
+        oracleOutput.textContent = `${getRandomInterpretation()} (${tone} undertones)`;
+        oracleOutput.classList.add('fade-in');
+    }, 1200);
+ 
 });
 
