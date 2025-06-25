@@ -34,34 +34,34 @@ const interpretationMap = {
     "Heaven is the gentle embrace that soothes the weary heart, a timeless sanctuary where the soul finds rest beneath skies painted with the colors of eternity."
   ],
   haven: [
-    "",
-    "",
-    ""
+    "A sheltered refuge amidst chaos and storm, the haven offers solace a quiet harbor where the spirit may anchor and gather strength before venturing forth anew.",
+    "This sacred place whispers safety and warmth, a bastion of light in the tempest, inviting weary travelers to lay down their burdens and heal within its embrace.",
+    "The haven cradles the fragile seeds of renewal, a sanctuary carved from shadows and light where hope is nurtured like a tender flame against the dark."
   ],
   haze: [
-    "",
-    "",
-    ""
+    "A misty veil that blurs the boundaries between known and unknown, haze cloaks the mind in soft uncertainty an invitation to explore the twilight realms of possibility.",
+    "This shimmering fog drifts through memory and dream alike, diffusing sharp edges and weaving mysteries in the liminal space where reality begins to waver.",
+    "Haze is the gentle obscuring that softens the world’s harsh lines, allowing the heart to wander freely amid whispers of forgotten truths and veiled promises."
     ],
    frost: [
-    "",
-    "",
-    ""
+    "A crystalline breath of winter’s quiet touch, frost encases the world in fragile beauty a moment frozen in time where stillness reigns and secrets lie beneath the ice.",
+    "The frost is the delicate armor of solitude, sparkling with cold clarity yet harboring the warmth of life beneath its shimmering surface.",
+    "In frost’s icy grasp, transformation is paused a serene interlude between endings and beginnings, where the soul gathers strength beneath a veil of glistening silence."
   ],
   story: [
-    "",
-    "",
-    ""
+    "The ever-unfolding tapestry of moments, story weaves your journey in threads of light and shadow each scene a verse in the epic sung by your own becoming.",
+    "This living narrative is carved from dreams and memories, a sacred text written by the heart’s quiet hand, chronicling the invisible paths that shape your soul’s voyage.",
+    "Story is the song the universe hums through you, a radiant dance of endings and beginnings entwined, inviting you to become both author and witness of your unfolding legend."
   ],
   echo: [
-    "",
-    "",
-    ""
+    "A distant voice reverberating through the corridors of time, echo carries the weight of forgotten prayers and half-remembered dreams, returning to stir the soul’s depths.",
+    "This lingering sound is the shadow of a whispered truth, a reminder that what is lost in the moment can be found again in the quiet spaces between heartbeats.",
+    "Echo is the soul’s soft murmur across the void, a delicate call and response that binds past to present, memory to longing, in an endless celestial dance."
   ],
    dusk: [
-    "",
-    "",
-    ""
+    "The sacred hour where day kisses night goodbye, dusk is a fleeting embrace of shadow and light a liminal veil where transformation quietly unfolds.",
+    "This twilight moment hums with secrets and sighs, painting the sky in hues of longing and promise, inviting the soul to wander beyond the known horizon.",
+    "Dusk is the threshold between worlds, a whispered pause where dreams begin their slow unfurling beneath the first stars’ watchful eyes."
   ],
   dawn: [
     "",
@@ -551,4 +551,3 @@ interpretBtn.addEventListener('click', () => {
     }, 1200);
  
 });
-
