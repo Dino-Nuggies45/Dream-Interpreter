@@ -90,7 +90,7 @@ const interpretationMap = {
     "Abyss is the silent call to surrender, to dive deep beneath surface illusions and swim within the endless currents of the unknown."
   ],
    blackhole: [
-    "A swirling vortex of cosmic silence, blackhole devours light and time alike — a paradox of destruction and creation where reality bends and reshapes.",
+    "A swirling vortex of cosmic silence, blackhole devours light and time alike a paradox of destruction and creation where reality bends and reshapes.",
     "This dark maw is the universe’s secret heart, pulling all into its endless spiral, reminding the dreamer of the infinite cycles of death and rebirth.",
     "Blackhole is the mysterious void where past and future collapse, a celestial enigma that draws the soul into the depths of timeless transformation."
   ],
@@ -107,7 +107,7 @@ const interpretationMap = {
    wormhole: [
     "A shimmering tunnel through the fabric of space and time, wormhole bends reality to connect distant realms, offering passage to hidden possibilities and new horizons.",
     "This secret gateway invites the dreamer to step beyond linear existence, to explore the folds of the universe where time and space intertwine",
-    "Wormhole is the bridge between what was, what is, and what may be — a portal of endless wonder and the promise of discovery beyond the veil."
+    "Wormhole is the bridge between what was, what is, and what may be a portal of endless wonder and the promise of discovery beyond the veil."
   ],
   constellation: [
     "A celestial pattern woven from distant stars, constellation tells ancient stories written across the night, guiding the soul with light and legend.",
@@ -230,7 +230,7 @@ const interpretationMap = {
     "Reflection is the sacred dialogue between soul and surface, a moment to see clearly the light and shadow intertwined within."
   ],
   doppelganger: [
-    "A haunting double lurking just beyond perception, doppelganger embodies the shadow self — the parts hidden, denied, or feared.",
+    "A haunting double lurking just beyond perception, doppelganger embodies the shadow self the parts hidden, denied, or feared.",
     "This mysterious twin challenges the dreamer to confront their inner paradoxes and integrate fragmented pieces of identity.",
     "Doppelganger is the eerie echo of the soul’s depths, a call to embrace wholeness through the reconciliation of light and dark."
   ],
@@ -240,84 +240,84 @@ const interpretationMap = {
     "Silence is the canvas upon which dreams are painted and the quiet river where inner light flows freely and pure."
   ],
   blindness: [
-    "",
-    "",
-    ""
+    "A temporary veil over the eyes that shifts perception from sight to inner knowing, blindness invites trust in unseen guidance.",
+    "This darkness is not loss but transformation, a passage through shadow to discover deeper vision beyond the physical realm.",
+    "Blindness is the sacred test of faith, a journey inward where the soul learns to navigate by intuition and the whispers of the heart."
   ],
   faceless: [
-    "",
-    "",
-    ""
+    "An absence of identity that speaks of universality and the mystery of self beyond form, faceless is both loss and liberation.",
+    "This empty visage invites the dreamer to explore the infinite masks worn by the soul and the freedom found in shedding them.",
+    "Faceless is the silent call to embrace the unknown within, to discover the self as a shifting, boundless presence beyond faces and names."
   ],
   puppet: [
-    "",
-    "",
-    ""
+    "A delicate marionette dancing on unseen strings, puppet symbolizes control, manipulation, and the quest for freedom of will.",
+    "This fragile figure invites reflection on the forces shaping one’s path and the power to cut loose and reclaim autonomy.",
+    "Puppet is the dance of destiny and choice, a reminder that even when bound, the spirit holds the spark of rebellion and transformation."
   ],
    fear: [
-    "",
-    "",
-    ""
+    "A shadowy flame flickering in the depths of the heart, fear both warns and challenges, shaping the contours of courage and growth.",
+    "This primal pulse is the guardian of boundaries, urging caution while inviting the dreamer to step beyond and discover strength anew.",
+    "Fear is the silent teacher cloaked in darkness, a call to awaken bravery by embracing the unknown and transforming dread into power."
   ],
   joy: [
-    "",
-    "",
-    ""
+    "A radiant burst of light that lifts the spirit on wings of laughter and delight, joy is the soul’s celebration of life’s beauty and wonder.",
+    "This shimmering flame ignites hope and connection, a gentle balm that heals wounds and awakens gratitude for each precious moment.",
+    "Joy is the dance of the heart unbound, a sacred hymn sung by the universe in every smile and every breath of sweet freedom."
   ],
   confusion: [
-    "",
-    "",
-    ""
+    "A swirling mist that clouds the mind and stirs the soul, confusion is the sacred chaos where old certainties dissolve and new truths emerge.",
+    "This tempest invites surrender to uncertainty, opening the way for transformation and the birth of deeper understanding beyond clarity.",
+    "Confusion is the wild garden where seeds of insight grow in tangled vines, urging patience and trust in the unfolding mystery."
   ],
    longing: [
-    "",
-    "",
-    ""
+    "A tender ache that stretches across time and space, longing is the soul’s call toward what is lost, hidden, or yet to be found.",
+    "This quiet yearning weaves threads of desire and hope, a delicate thread connecting heart and horizon in a dance of eternal pursuit.",
+    "Longing is the sacred hunger for wholeness, a flame that fuels the journey beyond boundaries and into the vastness of becoming."
   ],
   isolation: [
-    "",
-    "",
-    ""
+    "A silent island adrift in the sea of being, isolation offers both refuge and challenge a space for introspection and the forging of inner strength.",
+    "This sacred solitude calls the dreamer to listen deeply to the whispers of the self, to find company in the stillness within.",
+    "Isolation is the quiet crucible where transformation is born, a sacred pause that nurtures growth beyond the noise of the world."
   ],
   regret: [
-    "",
-    "",
-    ""
+    "A shadow cast by choices once made, regret is the heavy echo of paths left untaken and words forever unspoken.",
+    "This touching memory carries lessons wrapped in sorrow, urging the dreamer toward forgiveness, release, and the courage to begin anew.",
+    "Regret is the silent river that carves wisdom through the soul’s landscape, transforming pain into the fertile soil of growth."
   ],
    acceptance: [
-    "",
-    "",
-    ""
+    "A gentle surrender to what is, acceptance is the opening of the heart to life’s unfolding with grace and resilience.",
+    "This quiet embrace dissolves resistance and invites peace, allowing the dreamer to move forward with clarity and strength.",
+    "Acceptance is the sacred balm that heals wounds and frees the spirit to dance lightly upon the winds of change."
   ],
   rebirth: [
-    "",
-    "",
-    ""
+    "The sacred phoenix rising from ashes of past selves, rebirth signals the eternal cycle of death and renewal within the soul’s journey.",
+    "This radiant awakening shines with the promise of new beginnings, illuminating the path beyond endings and transformation.",
+    "Rebirth is the luminous dance of light and shadow, a testament to resilience and the endless potential held within every moment."
   ],
   danger: [
-    "",
-    "",
-    ""
+    "A sharp edge of shadow lurking beneath the surface, danger warns of trials that test the spirit’s mettle and resolve.",
+    "This primal signal calls the dreamer to vigilance and courage, a challenge to face fears and navigate the unknown with wisdom.",
+    "Danger is the crucible of growth, forging strength and clarity amid the wild tides of uncertainty and change."
   ],
   peace: [
-    "",
-    "",
-    ""
+    "A still lake reflecting the quiet sky, peace is the soul’s resting place amidst life’s storms and restless journeys.",
+    "This gentle calm invites healing and balance, a sacred pause where the heart finds harmony and renewal.",
+    "Peace is the radiant light that softens shadows, a sanctuary where the spirit breathes freely and rests in timeless grace."
   ],
   stranger: [
-    "",
-    "",
-    ""
+    "A mysterious presence crossing the dreamer’s path, stranger holds the promise of new encounters and untold stories.",
+    "This unknown traveler carries secrets and wisdom from distant realms, inviting curiosity and openness to the unfamiliar.",
+    "Stranger is the gateway to transformation through connection, a symbol of the unexpected gifts found beyond comfort’s borders."
   ],
   child: [
-    "",
-    "",
-    ""
+    "The innocent spark of life and wonder, child embodies purity, potential, and the joy of discovery.",
+    "This tender spirit invites playfulness and renewal, reminding the dreamer of the magic found in simple moments and open hearts.",
+    "Child is the eternal wellspring of hope and imagination, a beacon calling the soul to remember its boundless beginnings."
   ],
    mother: [
-    "",
-    "",
-    ""
+    "The nurturing heart that cradles and sustains, mother is the sacred source of love, protection, and life’s enduring flow.",
+    "This gentle presence offers comfort and strength, a refuge where the soul finds safety and belonging.",
+    "Mother is the eternal embrace of creation and compassion, the warm hearth that kindles the spirit’s flame and guides its growth."
   ],
   twin: [
     "",
@@ -745,84 +745,84 @@ const dreamKeywords = {
     negative: "Suppression, fear of speaking out."
   },
   blindness: {
-    emoji: "🌊",
-    positive: "Bringing freedom, emotional release, and deep exploration.",
-    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+    emoji: "🙈",
+    positive: "Letting go of judgment, trusting intuition.",
+    negative: "Ignorance, willful avoidance of truth."
   },
   faceless: {
-    emoji: "🌊",
-    positive: "Bringing freedom, emotional release, and deep exploration.",
-    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+    emoji: "👤",
+    positive: "Breaking free of identity, embracing fluidity.",
+    negative: "Loss of self, anonymity, feeling erased."
   },
   puppet: {
-    emoji: "🌊",
-    positive: "Bringing freedom, emotional release, and deep exploration.",
-    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+    emoji: "🪆",
+    positive: "Recognizing external influence, time to reclaim power.",
+    negative: "Manipulation, loss of autonomy, control."
   },
    fear: {
-    emoji: "🌊",
-    positive: "Bringing freedom, emotional release, and deep exploration.",
-    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+    emoji: "😨",
+    positive: "An invitation to confront the shadow self.",
+    negative: "Paralysis, self-doubt, emotional sabotage."
   },
   joy: {
-    emoji: "🌊",
-    positive: "Bringing freedom, emotional release, and deep exploration.",
-    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+    emoji: "😊",
+    positive: "Emotional release, healing through warmth.",
+    negative: "Denial of pain, fleeting happiness."
   },
   confusion: {
-    emoji: "🌊",
-    positive: "Bringing freedom, emotional release, and deep exploration.",
-    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+    emoji: "💫",
+    positive: "State before clarity, shifting awareness.",
+    negative: "Disorientation, decision paralysis."
   },
    longing: {
-    emoji: "🌊",
-    positive: "Bringing freedom, emotional release, and deep exploration.",
-    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+    emoji: "🥺",
+    positive: "Connection to deeper desires and dreams.",
+    negative: "Emotional ache, unfulfilled needs."
   },
   isolation: {
-    emoji: "🌊",
-    positive: "Bringing freedom, emotional release, and deep exploration.",
-    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+    emoji: "🧍‍♂️",
+    positive: "Time for reflection and inner work.",
+    negative: "Loneliness, abandonment, withdrawal."
   },
   regret: {
-    emoji: "🌊",
-    positive: "Bringing freedom, emotional release, and deep exploration.",
-    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+    emoji: "😔",
+    positive: "Learning from the past, healing.",
+    negative: "Stagnation, guilt, unresolved wounds."
   },
    acceptance: {
-    emoji: "🌊",
-    positive: "Bringing freedom, emotional release, and deep exploration.",
-    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+    emoji: "🤝",
+    positive: "Peace with what is, inner surrender.",
+    negative: "Giving up prematurely, apathy."
   },
   rebirth: {
-    emoji: "🌊",
-    positive: "Bringing freedom, emotional release, and deep exploration.",
-    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+    emoji: "🦋",
+    positive: "Transformation, rising anew with strength.",
+    negative: "Painful transition, loss of old self."
   },
   danger: {
-    emoji: "🌊",
-    positive: "Bringing freedom, emotional release, and deep exploration.",
-    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+    emoji: "⚠️",
+    positive: "Heightened awareness, protective instincts.",
+    negative: "Overwhelm, fight-or-flight response."
   },
   peace: {
-    emoji: "🌊",
-    positive: "Bringing freedom, emotional release, and deep exploration.",
-    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+    emoji: "🕊️",
+    positive: "Calm, balance, and emotional stability.",
+    negative: "Avoidance, detachment, forced harmony."
   },
   stranger: {
-    emoji: "🌊",
-    positive: "Bringing freedom, emotional release, and deep exploration.",
-    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+    emoji: "🚶‍♂️",
+    positive: "New perspective, unknown part of self.",
+    negative: "Fear of unfamiliar, rejection."
   },
   child: {
-    emoji: "🌊",
-    positive: "Bringing freedom, emotional release, and deep exploration.",
-    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+    emoji: "🧒",
+    positive: "Innocence, hope, pure joy.",
+    negative: "Naivety, vulnerability, fear of neglect."
   },
    mother: {
-    emoji: "🌊",
-    positive: "Bringing freedom, emotional release, and deep exploration.",
-    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+    emoji: "👩‍🍼",
+    positive: "Nurturing, unconditional love, inner caretaker.",
+    negative: "Overdependence, smothering energy."
   },
   twin: {
     emoji: "🌊",
