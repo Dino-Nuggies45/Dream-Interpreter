@@ -37,7 +37,7 @@ const interpretationMap = {
   story: [
     "The ever-unfolding tapestry of moments, story weaves your journey in threads of light and shadow each scene a verse in the epic sung by your own becoming.",
     "This living narrative is carved from dreams and memories, a sacred text written by the heart’s quiet hand, chronicling the invisible paths that shape your soul’s voyage.",
-    "Story is the song the universe hums through you, a radiant dance of endings and beginnings entwined, inviting you to become botho authr and witness of your unfolding legend."
+    "Story is the song the universe hums through you, a radiant dance of endings and beginnings entwined, inviting you to become author and witness of your unfolding legend."
   ],
   echo: [
     "A distant voice reverberating through the corridors of time, echo carries the weight of forgotten prayers and half-remembered dreams, returning to stir the soul’s depths.",
@@ -55,7 +55,7 @@ const interpretationMap = {
     "Dawn is the sacred chorus of awakening, where darkness fades and possibility blooms, inviting the soul to dance with the unfolding light."
   ],
   cocoon: [
-    "A delicate chrysalis spun from patience and quiet strength, cocoon holds the sacred pause where transformation breathes its slow, inevitable magic.",
+    "A delicate shell spun from patience and quiet strength, cocoon holds the sacred pause where transformation breathes its slow, inevitable magic.",
     "Within this tender shelter, the soul retreats to gather power and wisdom, wrapping itself in threads of hope before bursting forth renewed and radiant.",
     "The cocoon is the sanctuary of becoming, a whispered promise that even in stillness, profound change is silently blossoming beneath the surface."
   ],
@@ -101,7 +101,7 @@ const interpretationMap = {
   ],
   antimatter: [
     "The shadow twin of creation itself, antimatter is the unseen force of balance and contradiction that dances at the edge of existence and nonexistence.",
-    "This paradoxical essence embodies both destruction and possibility, reminding the soul that every ending contains the seed of a new beginning.",
+    "This out of world essence embodies both destruction and possibility, reminding the soul that every ending contains the seed of a new beginning.",
     "Antimatter is the cosmic tension between light and dark, a silent power that challenges perception and beckons transformation beyond the known."
   ],
    wormhole: [
@@ -150,49 +150,49 @@ const interpretationMap = {
     "Skeleton is the hidden scaffold of dreams, the quiet strength that persists beneath the shifting forms of life and death alike."
   ],
    dragon: [
-    "",
-    "",
-    ""
+    "A fierce guardian of ancient wisdom and untamed power, dragon embodies the primal forces of creation, destruction, and transformation.",
+    "This mythical beast breathes fire and shadow, challenging the dreamer to confront their deepest fears and ignite their inner flame.",
+    "Dragon is the eternal flame of courage and mystery, a symbol of strength that both destroys and protects in the endless dance of life."
   ],
   sphinx: [
-    "",
-    "",
-    ""
+    "A riddle wrapped in ancient stone, sphinx guards the secrets of knowledge and the threshold between mystery and revelation.",
+    "This enigmatic watcher challenges the dreamer to seek truth beyond appearances, to listen to the silent questions whispered by the soul.",
+    "Sphinx is the silent guardian of wisdom’s gate, inviting those who dare to step into the unknown and unlock the hidden paths of destiny."
   ],
   phoenix: [
-    "",
-    "",
-    ""
+    "A radiant bird rising from ashes, phoenix embodies the sacred cycle of death and rebirth, of endings transforming into new beginnings.",
+    "This fiery spirit soars through the night, a blazing testament to resilience and the eternal flame of hope burning within the soul.",
+    "Phoenix is the timeless dance of destruction and renewal, a reminder that from every ending springs the possibility of glorious rebirth."
   ],
    temple: [
-    "",
-    "",
-    ""
+    "A sacred sanctuary carved from stone and spirit, temple holds the quiet prayers and ancient echoes of devotion and transformation.",
+    "This hallowed place invites the soul to enter, to find refuge and revelation amidst pillars of light and shadow.",
+    "Temple is the inner sanctuary where dreams and reality intertwine, a sacred space for contemplation, healing, and awakening."
   ],
   oracle: [
-    "",
-    "",
-    ""
+    "A voice beyond time, oracle whispers the hidden truths that ripple beneath the surface of waking thought and dreaming mind.",
+    "This mystical messenger channels the silent currents of destiny, offering guidance wrapped in metaphor and mystery.",
+    "Oracle is the sacred conduit between worlds, a beacon of insight illuminating the dark waters of uncertainty with shimmering light."
   ],
   crown: [
-    "",
-    "",
-    ""
+    "A symbol of sovereignty and inner authority, crown rests lightly upon the dreamer’s brow, a reminder of the power and responsibility within.",
+    "This shining circlet carries the weight of wisdom and the promise of ascendance, marking the path of the soul’s noble journey.",
+    "Crown is the radiant emblem of mastery and grace, a beacon calling forth the dreamer’s highest potential and truth."
   ],
   sigil: [
-    "",
-    "",
-    ""
+    "An arcane symbol etched in spirit and shadow, sigil holds the power to bind, protect, and reveal hidden truths.",
+    "This mysterious mark weaves together magic and meaning, a silent language that speaks directly to the soul’s deepest knowing.",
+    "Sigil is the sacred cipher of intention, a talisman forged from will and mystery that guides the dreamer through unseen realms."
   ],
   rune: [
-    "",
-    "",
-    ""
+    "Ancient letters carved into stone and memory, rune holds the keys to forgotten wisdom and the sacred art of transformation.",
+    "These cryptic symbols are the voice of the earth itself, whispering secrets to those who listen with heart and mind open wide.",
+    "Rune is the mystical script that connects the mortal and divine, a timeless language that shapes destiny and unveils hidden paths."
   ],
   obsidian: [
-    "",
-    "",
-    ""
+    "A glassy shard forged in volcanic fire, obsidian holds the power of shadow and reflection, guarding secrets buried deep within the soul.",
+    "This dark mirror captures both light and darkness, revealing the hidden facets of self in its gleaming depths.",
+    "Obsidian is the sharp edge of truth and protection, a guardian stone that cuts through illusion to reveal the core of being."
   ],
    labyrinth: [
     "",
@@ -515,164 +515,164 @@ const dreamKeywords = {
     negative: "Emotional numbness, loss of purpose, inner void."
   },
   hell: {
-    emoji: "🌊",
-    positive: "Bringing freedom, emotional release, and deep exploration.",
-    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+    emoji: "🔥",
+    positive: "Confronting your worst fears head-on.",
+    negative: "Overwhelming guilt, inner torment, chaos."
   },
    heaven: {
-    emoji: "🌊",
-    positive: "Bringing freedom, emotional release, and deep exploration.",
-    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+    emoji: "☁️",
+    positive: "Peace, transcendence, higher self alignment.",
+    negative: "Escaping reality, disconnection, false hope."
   },
   haven: {
-    emoji: "🌊",
-    positive: "Bringing freedom, emotional release, and deep exploration.",
-    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+    emoji: "🏝️",
+    positive: "Safety, sanctuary, comfort and healing.",
+    negative: "Overprotection, refusal to grow, stagnation."
   },
   haze: {
-    emoji: "🌊",
-    positive: "Bringing freedom, emotional release, and deep exploration.",
-    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+    emoji: "🌫️",
+    positive: "Mystery, the unknown gently unfolding.",
+    negative: "Confusion, lack of direction, mental fog."
   },
    frost: {
-    emoji: "🌊",
-    positive: "Bringing freedom, emotional release, and deep exploration.",
-    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+    emoji: "❄️",
+    positive: "Stillness, reflection, emotional preservation.",
+    negative: "Coldness, isolation, emotional distance."
   },
   story: {
-    emoji: "🌊",
-    positive: "Bringing freedom, emotional release, and deep exploration.",
-    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+    emoji: "📖",
+    positive: "Narrative of the self, journey toward growth.",
+    negative: "Being trapped in old narratives or roles."
   },
   echo: {
-    emoji: "🌊",
-    positive: "Bringing freedom, emotional release, and deep exploration.",
-    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+    emoji: "📢",
+    positive: "Messages from the past, intuitive reminders.",
+    negative: "Repeating old mistakes, unresolved pain."
   },
    dusk: {
-    emoji: "🌊",
-    positive: "Bringing freedom, emotional release, and deep exploration.",
-    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+    emoji: "🌆",
+    positive: "Closing a chapter, peaceful reflection.",
+    negative: "Fear of endings, uncertainty, fading hope."
   },
   dawn: {
-    emoji: "🌊",
-    positive: "Bringing freedom, emotional release, and deep exploration.",
-    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+    emoji: "🌅",
+    positive: "New beginnings, optimism, rebirth.",
+    negative: "Fear of change, pressure to start anew."
   },
   cocoon: {
-    emoji: "🌊",
-    positive: "Bringing freedom, emotional release, and deep exploration.",
-    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+    emoji: "🪰",
+    positive: "Transformation in progress, protection.",
+    negative: "Avoidance, resistance to emerge, fear."
   },
   cliff: {
-    emoji: "🌊",
-    positive: "Bringing freedom, emotional release, and deep exploration.",
-    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+    emoji: "⛰️",
+    positive: "Perspective, courage at the edge of change.",
+    negative: "Fear of the unknown, feeling pushed."
   },
   chasm: {
-    emoji: "🌊",
-    positive: "Bringing freedom, emotional release, and deep exploration.",
-    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+    emoji: "🕳️",
+    positive: "Opportunity to cross into something new.",
+    negative: "Disconnection, emotional rift, danger."
   },
   cascade: {
-    emoji: "🌊",
-    positive: "Bringing freedom, emotional release, and deep exploration.",
-    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+    emoji: "💦",
+    positive: "Flowing emotions, cleansing release.",
+    negative: "Overwhelmed, feeling swept away."
   },
    bloom: {
-    emoji: "🌊",
-    positive: "Bringing freedom, emotional release, and deep exploration.",
-    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+    emoji: "🌸",
+    positive: "Growth, beauty, emotional awakening.",
+    negative: "Pressure to thrive, vulnerability."
   },
   arcane: {
-    emoji: "🌊",
-    positive: "Bringing freedom, emotional release, and deep exploration.",
-    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+    emoji: "🪄",
+    positive: "Mystical knowledge, power within.",
+    negative: "Obsession with the unknown, delusion."
   },
   abyss: {
-    emoji: "🌊",
-    positive: "Bringing freedom, emotional release, and deep exploration.",
-    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+    emoji: "🕳️",
+    positive: "Surrender to the deep unknown.",
+    negative: "Loss of control, consuming darkness."
   },
    blackhole: {
-    emoji: "🌊",
-    positive: "Bringing freedom, emotional release, and deep exploration.",
-    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+    emoji: "🌀",
+    positive: "Absorption of toxic energies, reset.",
+    negative: "Emptiness, being drained, annihilation."
   },
   starwhale: {
-    emoji: "🌊",
-    positive: "Bringing freedom, emotional release, and deep exploration.",
-    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+    emoji: "🐋",
+    positive: "Cosmic guidance, ancestral wisdom.",
+    negative: "Overwhelming destiny, loss in vastness."
   },
   antimatter: {
-    emoji: "🌊",
-    positive: "Bringing freedom, emotional release, and deep exploration.",
-    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+    emoji: "🧪",
+    positive: "The power of paradox, spiritual tension.",
+    negative: "Conflict of self, emotional erasure."
   },
    wormhole: {
-    emoji: "🌊",
-    positive: "Bringing freedom, emotional release, and deep exploration.",
-    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+    emoji: "🌌",
+    positive: "Shortcut to transformation, dimensional growth.",
+    negative: "Unstable change, skipped lessons."
   },
   constellation: {
-    emoji: "🌊",
-    positive: "Bringing freedom, emotional release, and deep exploration.",
-    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+    emoji: "✨",
+    positive: "Clarity in chaos, finding patterns.",
+    negative: "Trying to force meaning, anxiety."
   },
   galaxy: {
-    emoji: "🌊",
-    positive: "Bringing freedom, emotional release, and deep exploration.",
-    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+    emoji: "🌠",
+    positive: "Limitless possibilities, expansion.",
+    negative: "Feeling insignificant, overwhelmed."
   },
   void: {
-    emoji: "🌊",
-    positive: "Bringing freedom, emotional release, and deep exploration.",
-    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+    emoji: "🕳️",
+    positive: "Spiritual quiet, deep reset.",
+    negative: "Loss of identity, emotional numbness."
   },
   guardian: {
-    emoji: "🌊",
-    positive: "Bringing freedom, emotional release, and deep exploration.",
-    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+    emoji: "🛡️",
+    positive: "Inner strength, divine protection.",
+    negative: "Control issues, dependency."
   },
   tomb: {
-    emoji: "🌊",
-    positive: "Bringing freedom, emotional release, and deep exploration.",
-    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+    emoji: "⚰️",
+    positive: "Burial of the past, letting go.",
+    negative: "Clinging to loss, fear of endings."
   },
    prophet: {
-    emoji: "🌊",
-    positive: "Bringing freedom, emotional release, and deep exploration.",
-    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+    emoji: "🧙‍♂️",
+    positive: "Guidance, insight, intuition awakened.",
+    negative: "False foresight, ego distortion."
   },
   prophecy: {
-    emoji: "🌊",
-    positive: "Bringing freedom, emotional release, and deep exploration.",
-    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+    emoji: "📜",
+    positive: "Clarity of purpose, higher message.",
+    negative: "Fatalism, rigid destiny."
   },
   skeleton: {
-    emoji: "🌊",
-    positive: "Bringing freedom, emotional release, and deep exploration.",
-    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+    emoji: "💀",
+    positive: "Truth laid bare, acceptance of reality.",
+    negative: "Fear of death, suppressed past."
   },
    dragon: {
-    emoji: "🌊",
-    positive: "Bringing freedom, emotional release, and deep exploration.",
-    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+    emoji: "🐉",
+    positive: "Power, strength, primal energy.",
+    negative: "Unchecked rage, ego dominance."
   },
   sphinx: {
-    emoji: "🌊",
-    positive: "Bringing freedom, emotional release, and deep exploration.",
-    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+    emoji: "🦁",
+    positive: "Mystery, riddle of self, protection.",
+    negative: "Hidden motives, blocked insight."
   },
   phoenix: {
-    emoji: "🌊",
-    positive: "Bringing freedom, emotional release, and deep exploration.",
-    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+    emoji: "🕊️",
+    positive: "Rebirth, rising through fire.",
+    negative: "Painful change, ego death."
   },
    temple: {
-    emoji: "🌊",
-    positive: "Bringing freedom, emotional release, and deep exploration.",
-    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+    emoji: "🏛️",
+    positive: "Spiritual awakening, sacred space.",
+    negative: "fear of the divine."
   },
   oracle: {
     emoji: "🌊",
