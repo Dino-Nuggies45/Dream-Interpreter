@@ -501,3 +501,507 @@ const interpretationMap = {
   ],
 
 }
+
+
+const dreamKeywords = {
+    illusion: {
+    emoji: "🫥",
+    positive: "Creative imagination, escapism from pain.",
+    negative: "Self-deception, distorted reality, denial."
+  },
+  hollow: {
+    emoji: "🕳️",
+    positive: "Emptiness before transformation, spiritual stillness.",
+    negative: "Emotional numbness, loss of purpose, inner void."
+  },
+  hell: {
+    emoji: "🌊",
+    positive: "Bringing freedom, emotional release, and deep exploration.",
+    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+  },
+   heaven: {
+    emoji: "🌊",
+    positive: "Bringing freedom, emotional release, and deep exploration.",
+    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+  },
+  haven: {
+    emoji: "🌊",
+    positive: "Bringing freedom, emotional release, and deep exploration.",
+    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+  },
+  haze: {
+    emoji: "🌊",
+    positive: "Bringing freedom, emotional release, and deep exploration.",
+    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+  },
+   frost: {
+    emoji: "🌊",
+    positive: "Bringing freedom, emotional release, and deep exploration.",
+    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+  },
+  story: {
+    emoji: "🌊",
+    positive: "Bringing freedom, emotional release, and deep exploration.",
+    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+  },
+  echo: {
+    emoji: "🌊",
+    positive: "Bringing freedom, emotional release, and deep exploration.",
+    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+  },
+   dusk: {
+    emoji: "🌊",
+    positive: "Bringing freedom, emotional release, and deep exploration.",
+    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+  },
+  dawn: {
+    emoji: "🌊",
+    positive: "Bringing freedom, emotional release, and deep exploration.",
+    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+  },
+  cocoon: {
+    emoji: "🌊",
+    positive: "Bringing freedom, emotional release, and deep exploration.",
+    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+  },
+  cliff: {
+    emoji: "🌊",
+    positive: "Bringing freedom, emotional release, and deep exploration.",
+    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+  },
+  chasm: {
+    emoji: "🌊",
+    positive: "Bringing freedom, emotional release, and deep exploration.",
+    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+  },
+  cascade: {
+    emoji: "🌊",
+    positive: "Bringing freedom, emotional release, and deep exploration.",
+    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+  },
+   bloom: {
+    emoji: "🌊",
+    positive: "Bringing freedom, emotional release, and deep exploration.",
+    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+  },
+  arcane: {
+    emoji: "🌊",
+    positive: "Bringing freedom, emotional release, and deep exploration.",
+    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+  },
+  abyss: {
+    emoji: "🌊",
+    positive: "Bringing freedom, emotional release, and deep exploration.",
+    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+  },
+   blackhole: {
+    emoji: "🌊",
+    positive: "Bringing freedom, emotional release, and deep exploration.",
+    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+  },
+  starwhale: {
+    emoji: "🌊",
+    positive: "Bringing freedom, emotional release, and deep exploration.",
+    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+  },
+  antimatter: {
+    emoji: "🌊",
+    positive: "Bringing freedom, emotional release, and deep exploration.",
+    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+  },
+   wormhole: {
+    emoji: "🌊",
+    positive: "Bringing freedom, emotional release, and deep exploration.",
+    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+  },
+  constellation: {
+    emoji: "🌊",
+    positive: "Bringing freedom, emotional release, and deep exploration.",
+    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+  },
+  galaxy: {
+    emoji: "🌊",
+    positive: "Bringing freedom, emotional release, and deep exploration.",
+    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+  },
+  void: {
+    emoji: "🌊",
+    positive: "Bringing freedom, emotional release, and deep exploration.",
+    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+  },
+  guardian: {
+    emoji: "🌊",
+    positive: "Bringing freedom, emotional release, and deep exploration.",
+    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+  },
+  tomb: {
+    emoji: "🌊",
+    positive: "Bringing freedom, emotional release, and deep exploration.",
+    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+  },
+   prophet: {
+    emoji: "🌊",
+    positive: "Bringing freedom, emotional release, and deep exploration.",
+    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+  },
+  prophecy: {
+    emoji: "🌊",
+    positive: "Bringing freedom, emotional release, and deep exploration.",
+    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+  },
+  skeleton: {
+    emoji: "🌊",
+    positive: "Bringing freedom, emotional release, and deep exploration.",
+    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+  },
+   dragon: {
+    emoji: "🌊",
+    positive: "Bringing freedom, emotional release, and deep exploration.",
+    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+  },
+  sphinx: {
+    emoji: "🌊",
+    positive: "Bringing freedom, emotional release, and deep exploration.",
+    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+  },
+  phoenix: {
+    emoji: "🌊",
+    positive: "Bringing freedom, emotional release, and deep exploration.",
+    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+  },
+   temple: {
+    emoji: "🌊",
+    positive: "Bringing freedom, emotional release, and deep exploration.",
+    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+  },
+  oracle: {
+    emoji: "🌊",
+    positive: "Bringing freedom, emotional release, and deep exploration.",
+    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+  },
+  crown: {
+    emoji: "🌊",
+    positive: "Bringing freedom, emotional release, and deep exploration.",
+    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+  },
+  sigil: {
+    emoji: "🌊",
+    positive: "Bringing freedom, emotional release, and deep exploration.",
+    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+  },
+  rune: {
+    emoji: "🌊",
+    positive: "Bringing freedom, emotional release, and deep exploration.",
+    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+  },
+  obsidian: {
+    emoji: "🌊",
+    positive: "Bringing freedom, emotional release, and deep exploration.",
+    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+  },
+   labyrinth: {
+    emoji: "🌊",
+    positive: "Bringing freedom, emotional release, and deep exploration.",
+    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+  },
+  hourglass: {
+    emoji: "🌊",
+    positive: "Bringing freedom, emotional release, and deep exploration.",
+    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+  },
+  rainfall: {
+    emoji: "🌊",
+    positive: "Bringing freedom, emotional release, and deep exploration.",
+    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+  },
+   aurora: {
+    emoji: "🌊",
+    positive: "Bringing freedom, emotional release, and deep exploration.",
+    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+  },
+  comet: {
+    emoji: "🌊",
+    positive: "Bringing freedom, emotional release, and deep exploration.",
+    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+  },
+  eclipse: {
+    emoji: "🌊",
+    positive: "Bringing freedom, emotional release, and deep exploration.",
+    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+  },
+   reflection: {
+    emoji: "🌊",
+    positive: "Bringing freedom, emotional release, and deep exploration.",
+    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+  },
+  doppelganger: {
+    emoji: "🌊",
+    positive: "Bringing freedom, emotional release, and deep exploration.",
+    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+  },
+  silence: {
+    emoji: "🌊",
+    positive: "Bringing freedom, emotional release, and deep exploration.",
+    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+  },
+  blindness: {
+    emoji: "🌊",
+    positive: "Bringing freedom, emotional release, and deep exploration.",
+    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+  },
+  faceless: {
+    emoji: "🌊",
+    positive: "Bringing freedom, emotional release, and deep exploration.",
+    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+  },
+  puppet: {
+    emoji: "🌊",
+    positive: "Bringing freedom, emotional release, and deep exploration.",
+    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+  },
+   fear: {
+    emoji: "🌊",
+    positive: "Bringing freedom, emotional release, and deep exploration.",
+    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+  },
+  joy: {
+    emoji: "🌊",
+    positive: "Bringing freedom, emotional release, and deep exploration.",
+    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+  },
+  confusion: {
+    emoji: "🌊",
+    positive: "Bringing freedom, emotional release, and deep exploration.",
+    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+  },
+   longing: {
+    emoji: "🌊",
+    positive: "Bringing freedom, emotional release, and deep exploration.",
+    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+  },
+  isolation: {
+    emoji: "🌊",
+    positive: "Bringing freedom, emotional release, and deep exploration.",
+    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+  },
+  regret: {
+    emoji: "🌊",
+    positive: "Bringing freedom, emotional release, and deep exploration.",
+    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+  },
+   acceptance: {
+    emoji: "🌊",
+    positive: "Bringing freedom, emotional release, and deep exploration.",
+    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+  },
+  rebirth: {
+    emoji: "🌊",
+    positive: "Bringing freedom, emotional release, and deep exploration.",
+    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+  },
+  danger: {
+    emoji: "🌊",
+    positive: "Bringing freedom, emotional release, and deep exploration.",
+    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+  },
+  peace: {
+    emoji: "🌊",
+    positive: "Bringing freedom, emotional release, and deep exploration.",
+    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+  },
+  stranger: {
+    emoji: "🌊",
+    positive: "Bringing freedom, emotional release, and deep exploration.",
+    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+  },
+  child: {
+    emoji: "🌊",
+    positive: "Bringing freedom, emotional release, and deep exploration.",
+    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+  },
+   mother: {
+    emoji: "🌊",
+    positive: "Bringing freedom, emotional release, and deep exploration.",
+    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+  },
+  twin: {
+    emoji: "🌊",
+    positive: "Bringing freedom, emotional release, and deep exploration.",
+    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+  },
+  shadow: {
+    emoji: "🌊",
+    positive: "Bringing freedom, emotional release, and deep exploration.",
+    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+  },
+   crowd: {
+    emoji: "🌊",
+    positive: "Bringing freedom, emotional release, and deep exploration.",
+    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+  },
+  ghost: {
+    emoji: "🌊",
+    positive: "Bringing freedom, emotional release, and deep exploration.",
+    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+  },
+  animal: {
+    emoji: "🌊",
+    positive: "Bringing freedom, emotional release, and deep exploration.",
+    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+  },
+   hunter: {
+    emoji: "🌊",
+    positive: "Bringing freedom, emotional release, and deep exploration.",
+    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+  },
+  guide: {
+    emoji: "🌊",
+    positive: "Bringing freedom, emotional release, and deep exploration.",
+    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+  },
+  ocean: {
+    emoji: "🌊",
+    positive: "Bringing freedom, emotional release, and deep exploration.",
+    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+  },
+  fire: {
+    emoji: "🌊",
+    positive: "Bringing freedom, emotional release, and deep exploration.",
+    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+  },
+  forest: {
+    emoji: "🌊",
+    positive: "Bringing freedom, emotional release, and deep exploration.",
+    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+  },
+  moon: {
+    emoji: "🌊",
+    positive: "Bringing freedom, emotional release, and deep exploration.",
+    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+  },
+   storm: {
+    emoji: "🌊",
+    positive: "Bringing freedom, emotional release, and deep exploration.",
+    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+  },
+  cave: {
+    emoji: "🌊",
+    positive: "Bringing freedom, emotional release, and deep exploration.",
+    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+  },
+  desert: {
+    emoji: "🌊",
+    positive: "Bringing freedom, emotional release, and deep exploration.",
+    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+  },
+   mountain: {
+    emoji: "🌊",
+    positive: "Bringing freedom, emotional release, and deep exploration.",
+    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+  },
+  river: {
+    emoji: "🌊",
+    positive: "Bringing freedom, emotional release, and deep exploration.",
+    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+  },
+  eclipse: {
+    emoji: "🌊",
+    positive: "Bringing freedom, emotional release, and deep exploration.",
+    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+  },
+   bed: {
+    emoji: "🌊",
+    positive: "Bringing freedom, emotional release, and deep exploration.",
+    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+  },
+  doorframe: {
+    emoji: "🌊",
+    positive: "Bringing freedom, emotional release, and deep exploration.",
+    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+  },
+  key: {
+    emoji: "🌊",
+    positive: "Bringing freedom, emotional release, and deep exploration.",
+    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+  },
+  window: {
+    emoji: "🌊",
+    positive: "Bringing freedom, emotional release, and deep exploration.",
+    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+  },
+  stairs: {
+    emoji: "🌊",
+    positive: "Bringing freedom, emotional release, and deep exploration.",
+    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+  },
+  rope: {
+    emoji: "🌊",
+    positive: "Bringing freedom, emotional release, and deep exploration.",
+    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+  },
+   mask: {
+    emoji: "🌊",
+    positive: "Bringing freedom, emotional release, and deep exploration.",
+    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+  },
+  mirror: {
+    emoji: "🌊",
+    positive: "Bringing freedom, emotional release, and deep exploration.",
+    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+  },
+  door: {
+    emoji: "🌊",
+    positive: "Bringing freedom, emotional release, and deep exploration.",
+    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+  },
+   flying: {
+    emoji: "🌊",
+    positive: "Bringing freedom, emotional release, and deep exploration.",
+    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+  },
+  falling: {
+    emoji: "🌊",
+    positive: "Bringing freedom, emotional release, and deep exploration.",
+    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+  },
+  floating: {
+    emoji: "🌊",
+    positive: "Bringing freedom, emotional release, and deep exploration.",
+    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+  },
+   drowning: {
+    emoji: "🌊",
+    positive: "Bringing freedom, emotional release, and deep exploration.",
+    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+  },
+  running: {
+    emoji: "🌊",
+    positive: "Bringing freedom, emotional release, and deep exploration.",
+    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+  },
+  frozen: {
+    emoji: "🌊",
+    positive: "Bringing freedom, emotional release, and deep exploration.",
+    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+  },
+    trapped: {
+    emoji: "🌊",
+    positive: "Bringing freedom, emotional release, and deep exploration.",
+    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+  },
+   transform: {
+    emoji: "🌊",
+    positive: "Bringing freedom, emotional release, and deep exploration.",
+    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+  },
+  escaping: {
+    emoji: "🌊",
+    positive: "Bringing freedom, emotional release, and deep exploration.",
+    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+  },
+  hiding: {
+    emoji: "🌊",
+    positive: "Bringing freedom, emotional release, and deep exploration.",
+    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+  },
+}
