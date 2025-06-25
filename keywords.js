@@ -195,49 +195,49 @@ const interpretationMap = {
     "Obsidian is the sharp edge of truth and protection, a guardian stone that cuts through illusion to reveal the core of being."
   ],
    labyrinth: [
-    "",
-    "",
-    ""
+    "A winding maze of stone and shadow, labyrinth symbolizes the soul’s complex journey through confusion and discovery.",
+    "This intricate path challenges the dreamer to face inner fears and unravel the tangled threads of destiny with patience and courage.",
+    "Labyrinth is the sacred spiral of transformation, a journey inward and outward where every turn holds the promise of revelation."
   ],
   hourglass: [
-    "",
-    "",
-    ""
+    "A vessel of slipping time, hourglass holds the delicate balance between moments passed and futures yet to come.",
+    "This fragile keeper measures the flow of life’s sands, reminding the dreamer of the preciousness of now amid eternity’s vast expanse.",
+    "Hourglass is the silent witness to change and impermanence, a sacred symbol urging mindfulness and acceptance of life’s fleeting beauty."
   ],
   rainfall: [
-    "",
-    "",
-    ""
+    "A gentle cascade of liquid sky, rainfall washes away dust and doubt, cleansing the spirit with each shimmering drop.",
+    "This celestial shower nourishes the roots of hope and renewal, inviting the soul to drink deeply from the well of rebirth.",
+    "Rainfall is the song of renewal, a rhythmic blessing that softens hardened hearts and awakens dormant dreams to life’s endless dance."
   ],
    aurora: [
-    "",
-    "",
-    ""
+    "A celestial dance of light across the heavens, aurora paints the night with ribbons of color and whispers of cosmic mystery.",
+    "This radiant display is the breath of the universe, a living tapestry woven from the dreams and hopes of countless stars.",
+    "Aurora is the shimmering veil between worlds, a sacred spectacle that invites the dreamer to witness the magic hidden in darkness."
   ],
   comet: [
-    "",
-    "",
-    ""
+    "A blazing traveler streaking through the velvet night, comet carries the fire of sudden change and the promise of new beginnings.",
+    "This fiery messenger races across the sky, a herald of transformation and the swift unfolding of destiny’s threads.",
+    "Comet is the fleeting spark that ignites the soul’s journey, a reminder that even brief moments can blaze with eternal light."
   ],
   eclipse: [
-    "",
-    "",
-    ""
+    "A celestial shadow cloaking the sun’s radiant face, eclipse marks moments of mystery, endings, and hidden truths waiting to emerge.",
+    "This cosmic alignment invites the dreamer to embrace the dance of light and dark, to find balance within opposing forces.",
+    "Eclipse is the sacred pause where worlds converge, a threshold between the seen and unseen, beckoning transformation and revelation."
   ],
    reflection: [
-    "",
-    "",
-    ""
+    "A shimmering mirror held by still waters, reflection reveals the hidden depths of self and the silent truths we often overlook.",
+    "This quiet image is both guide and riddle, inviting contemplation on who we are beneath the masks we wear.",
+    "Reflection is the sacred dialogue between soul and surface, a moment to see clearly the light and shadow intertwined within."
   ],
   doppelganger: [
-    "",
-    "",
-    ""
+    "A haunting double lurking just beyond perception, doppelganger embodies the shadow self — the parts hidden, denied, or feared.",
+    "This mysterious twin challenges the dreamer to confront their inner paradoxes and integrate fragmented pieces of identity.",
+    "Doppelganger is the eerie echo of the soul’s depths, a call to embrace wholeness through the reconciliation of light and dark."
   ],
   silence: [
-    "",
-    "",
-    ""
+    "The profound stillness that carries the weight of unspoken truths, silence is the sacred space where the soul listens and speaks without words.",
+    "This gentle hush invites healing and clarity, a pause that opens the heart to wisdom beyond noise and distraction.",
+    "Silence is the canvas upon which dreams are painted and the quiet river where inner light flows freely and pure."
   ],
   blindness: [
     "",
@@ -675,74 +675,74 @@ const dreamKeywords = {
     negative: "fear of the divine."
   },
   oracle: {
-    emoji: "🌊",
-    positive: "Bringing freedom, emotional release, and deep exploration.",
-    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+    emoji: "🔮",
+    positive: "Truth from within, destiny unveiled.",
+    negative: "Paranoia, misinterpreted signs."
   },
   crown: {
-    emoji: "🌊",
-    positive: "Bringing freedom, emotional release, and deep exploration.",
-    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+    emoji: "👑",
+    positive: "Leadership, divine favor, purpose.",
+    negative: "Ego trap, false superiority."
   },
   sigil: {
-    emoji: "🌊",
-    positive: "Bringing freedom, emotional release, and deep exploration.",
-    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+    emoji: "🧿",
+    positive: "Focused intention, manifestation.",
+    negative: "Manipulation, spiritual misfire."
   },
   rune: {
-    emoji: "🌊",
-    positive: "Bringing freedom, emotional release, and deep exploration.",
-    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+    emoji: "🪧",
+    positive: "Ancient wisdom, magical guidance.",
+    negative: "Cryptic messages, misreading fate."
   },
   obsidian: {
-    emoji: "🌊",
-    positive: "Bringing freedom, emotional release, and deep exploration.",
-    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+    emoji: "🖤",
+    positive: "Protection, shadow work, clarity.",
+    negative: "Buried trauma, emotional block."
   },
    labyrinth: {
-    emoji: "🌊",
-    positive: "Bringing freedom, emotional release, and deep exploration.",
-    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+    emoji: "🌀",
+    positive: "Journey to the self, mystery within.",
+    negative: "Confusion, feeling lost or trapped."
   },
   hourglass: {
-    emoji: "🌊",
-    positive: "Bringing freedom, emotional release, and deep exploration.",
-    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+    emoji: "⏳",
+    positive: "Timely transformation, reflection on cycles.",
+    negative: "Fear of time running out, regret."
   },
   rainfall: {
-    emoji: "🌊",
-    positive: "Bringing freedom, emotional release, and deep exploration.",
-    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+    emoji: "🌧️",
+    positive: "Release, emotional cleansing, softness.",
+    negative: "Sadness, heaviness, mourning."
   },
    aurora: {
-    emoji: "🌊",
-    positive: "Bringing freedom, emotional release, and deep exploration.",
-    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+    emoji: "🌈",
+    positive: "Divine beauty, guidance, wonder.",
+    negative: "Unrealistic hope, fleeting vision."
   },
   comet: {
-    emoji: "🌊",
-    positive: "Bringing freedom, emotional release, and deep exploration.",
-    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+    emoji: "☄️",
+    positive: "Sudden insight, rare opportunity.",
+    negative: "Missed chance, too fast to grasp."
   },
   eclipse: {
-    emoji: "🌊",
-    positive: "Bringing freedom, emotional release, and deep exploration.",
-    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+    emoji: "🌘",
+    positive: "Hidden truth, duality revealed.",
+    negative: "Disorientation, concealment of self."
   },
    reflection: {
-    emoji: "🌊",
-    positive: "Bringing freedom, emotional release, and deep exploration.",
-    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+    emoji: "🪞",
+    positive: "Self-awareness, inner clarity.",
+    negative: "Distorted self-image, denial."
   },
   doppelganger: {
-    emoji: "🌊",
-    positive: "Bringing freedom, emotional release, and deep exploration.",
-    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+    emoji: "👥",
+    positive: "Exploration of duality, hidden parts.",
+    negative: "Loss of identity, fear of self."
   },
   silence: {
-    emoji: "🌊",
-    positive: "Bringing freedom, emotional release, and deep exploration.",
-    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+    emoji: "🤫",
+    positive: "Peace, inner voice, meditation.",
+    negative: "Suppression, fear of speaking out."
   },
   blindness: {
     emoji: "🌊",
