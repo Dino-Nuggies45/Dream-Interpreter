@@ -1,7 +1,6 @@
 const interpretBtn = document.getElementById('interpretBtn');
 const dreamInput = document.getElementById('dreamInput');
 const oracleOutput = document.getElementById('oracleOutput');
-const tone = document.getElementById('toneSelect').value;
 
 const interpretations = [
     "The stars whisper secerts hidden deep within your soul...",
@@ -27,6 +26,7 @@ function formatDreamText(text) {
 interpretBtn.addEventListener('click', () => {
     const rawDream = dreamInput.value
     const dreamText = formatDreamText(rawDream);
+    const tone = document.getElementById('toneSelect').value;
     
     if (!dreamText) {
         oracleOutput.textContent = "Please share your dream to receive the oracles insight.";
@@ -38,7 +38,7 @@ interpretBtn.addEventListener('click', () => {
         return;
     }
 
-    oracleOutput.textContent = "The oracle is interpretating yout dream...";
+    oracleOutput.textContent = "The oracle is interpreting yout dream...";
     oracleOutput.classList.add('fade-in');
 
     setTimeout(() => {
