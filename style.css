@@ -109,3 +109,20 @@ body::before{
     0%{ opacity: 0; transform: translateY(10px); }
     100% { opacity: 1; transform: translateY(0);}
 }
+
+.cards-link {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 12px 18px;
+    background-color: rgba(255, 255, 255, 0.08);
+    color: white;
+    text-decoration: none;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    border-radius: 8px;
+    transition: background 0.3s ease;
+    font-family: 'Georgia', serif;
+}
+
+.cards-link:hover {
+    background-color: rgba(255, 255, 255, 0.2);
+}

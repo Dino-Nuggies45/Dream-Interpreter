@@ -1,0 +1,92 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Georgia', serif;
+    background: radial-gradient(#0a0a2a, #000);
+    color: white;
+    overflow: hidden;
+}
+
+.card-carousel {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh;
+    justify-content: center;
+}
+
+.card-container {
+    display: flex;
+    transition: transform 0.6s ease;
+    width: 80vw;
+    max-width: 900px;
+    overflow: hidden;
+    position: relative;
+}
+
+.card {
+    min-width: 100%;
+    flex-shrink: 0;
+    padding: 2em;
+    box-sizing: border-box;
+    background: rgba(255, 255, 255, 0.05);
+    border-radius: 12px;
+    backdrop-filter: blur(6px);
+    transition: filter 0.4s ease, transform 0.4s ease;
+    box-shadow: 0 0 30px rgba(255, 255, 255, 0.1);
+}
+
+.card h2 {
+    font-size: 2em;
+    margin-bottom: 0.5em;
+}
+
+.card p {
+    font-size: 1.1em;
+    line-height: 1.6;
+    margin-bottom: 0.6em;
+}
+
+.controls {
+    margin-top: 20px;
+}
+
+button {
+    background: #222;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1.5em;
+    margin: 0 10px;
+    cursor: pointer;
+    border-radius: 6px;
+    transition: background 0.3s ease;
+}
+
+button:hover {
+    background: #444;
+}
+
+.card.tinted {
+    filter: brightness(0.5) blur(2px);
+    transform: scale(0.95);
+}
+
+.back-link {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    color: white;
+    background: rgba(255, 255, 255, 0.05);
+    padding: 10px 16px;
+    border-radius: 8px;
+    text-decoration: none;
+    font-family: 'Georgia', serif;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    transition: background 0.3s ease;
+    z-index: 10;
+}
+
+.back-link:hover {
+    background: rgba(255, 255, 255, 0.2);
+}
