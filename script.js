@@ -104,64 +104,64 @@ const interpretationMap = {
     "Abyss is the silent call to surrender, to dive deep beneath surface illusions and swim within the endless currents of the unknown."
   ],
    blackhole: [
-    "",
-    "",
-    ""
+    "A swirling vortex of cosmic silence, blackhole devours light and time alike — a paradox of destruction and creation where reality bends and reshapes.",
+    "This dark maw is the universe’s secret heart, pulling all into its endless spiral, reminding the dreamer of the infinite cycles of death and rebirth.",
+    "Blackhole is the mysterious void where past and future collapse, a celestial enigma that draws the soul into the depths of timeless transformation."
   ],
   starwhale: [
-    "",
-    "",
-    ""
+    "A majestic voyager of the cosmic seas, starwhale sings the ancient songs of galaxies, carrying the wisdom of countless stars within its vast, luminous body.",
+    "This celestial guardian traverses the void with serene grace, its song a beacon of hope and the silent promise of journeys yet to unfold.",
+    "Starwhale is the dreamer’s guide through the boundless night, a symbol of vastness, mystery, and the deep currents that connect all existence."
   ],
   antimatter: [
-    "",
-    "",
-    ""
+    "The shadow twin of creation itself, antimatter is the unseen force of balance and contradiction that dances at the edge of existence and nonexistence.",
+    "This paradoxical essence embodies both destruction and possibility, reminding the soul that every ending contains the seed of a new beginning.",
+    "Antimatter is the cosmic tension between light and dark, a silent power that challenges perception and beckons transformation beyond the known."
   ],
    wormhole: [
-    "",
-    "",
-    ""
+    "A shimmering tunnel through the fabric of space and time, wormhole bends reality to connect distant realms, offering passage to hidden possibilities and new horizons.",
+    "This secret gateway invites the dreamer to step beyond linear existence, to explore the folds of the universe where time and space intertwine",
+    "Wormhole is the bridge between what was, what is, and what may be — a portal of endless wonder and the promise of discovery beyond the veil."
   ],
   constellation: [
-    "",
-    "",
-    ""
+    "A celestial pattern woven from distant stars, constellation tells ancient stories written across the night, guiding the soul with light and legend.",
+    "This luminous map charts the pathways of destiny and memory, connecting the scattered fragments of dreams into a coherent, radiant whole.",
+    "Constellation is the cosmic script of the heavens, a tapestry of meaning and mystery that invites the dreamer to read the silent language of the stars."
   ],
   galaxy: [
-    "",
-    "",
-    ""
+    "A swirling ocean of stars and cosmic dust, galaxy embodies the vastness of possibility and the eternal dance of creation and collapse.",
+    "This radiant whirlpool is the cradle of worlds and dreams, a majestic spiral that holds the secret rhythms of existence within its luminous arms.",
+    "Galaxy is the boundless expanse of potential, a reminder of the infinite stories waiting to be born within the heart of the cosmos."
   ],
   void: [
-    "",
-    "",
-    ""
+    "An endless silence beyond the edges of knowing, void is the sacred emptiness where form dissolves and pure potential quietly stirs.",
+    "This profound stillness holds the space for creation and destruction alike, a fertile darkness pregnant with the seeds of transformation.",
+    "Void is the quiet breath between moments, the sacred pause where the soul waits to be reborn into new light and meaning."
   ],
   guardian: [
-    "",
-    "",
-    ""
+    "A steadfast sentinel standing at the threshold of dreams and waking, guardian protects the fragile borders of the soul’s hidden realms.",
+    "This vigilant presence watches over the sacred paths, guiding and shielding those who journey through shadow and light alike.",
+    "Guardian is the silent promise of safety and courage, a beacon of strength that inspires trust amidst uncertainty’s restless tides."
   ],
   tomb: [
-    "",
-    "",
-    ""
+    "A resting place of silence and memory, tomb holds the echoes of lives past and the sacred stillness where transformation quietly unfolds.",
+    "This hallowed space cradles the past with reverence, inviting the soul to honor endings as the fertile ground for new beginnings.",
+    "Tomb is the shadowed chamber of reflection, a quiet sanctuary where the cycles of life and death weave their eternal dance."
   ],
    prophet: [
-    "",
-    "",
-    ""
+    "A voice that pierces the veils of time, prophet speaks in riddles and visions, offering glimpses of futures yet to be born.",
+    "This herald of destiny carries the weight of knowledge and the burden of revelation, guiding the dreamer through the labyrinth of fate.",
+    "Prophet is the whispered call to awaken to the deeper currents flowing beneath the surface of everyday life, a messenger from the realms beyond."
   ],
   prophecy: [
-    "",
-    "",
-    ""
+    "A cryptic message woven from threads of time and possibility, prophecy unfolds like a map to hidden truths and unfolding destinies.",
+    "This sacred vision offers guidance through shadowed paths, illuminating the choices that shape the future and the soul’s eternal journey.",
+    "Prophecy is the delicate balance between fate and free will, a shimmering thread that connects the present moment to the vast web of becoming."
   ],
   skeleton: [
-    "",
-    "",
-    ""
+    "The silent framework beneath flesh and spirit, skeleton reveals the enduring structure that supports transformation and resilience.",
+    "This bare architecture is both a reminder of mortality and a symbol of the soul’s unyielding core, strong even in decay.",
+    "Skeleton is the hidden scaffold of dreams, the quiet strength that persists beneath the shifting forms of life and death alike."
   ],
    dragon: [
     "",
