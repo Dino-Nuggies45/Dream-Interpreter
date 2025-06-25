@@ -45,3 +45,18 @@ interpretBtn.addEventListener('click', () => {
   }, 1200);
  
 });
+
+function saveToJournal(keyword, tone, message) {
+  const entry = {
+    keyword, 
+    tone, 
+    message,
+    date: new Date().toISOString()
+  };
+
+  const journal = JSON.parse(localStorage.getItem('dreamJournal') || '[]');
+  journal.push(entry);
+  localStorage.setItem('dreamJournal', JSON.stringify(journal));
+}
+
+saveToJournal(keyword, tone, oracleOutput.textContent);
