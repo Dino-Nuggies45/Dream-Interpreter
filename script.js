@@ -51,7 +51,7 @@ const interpretationMap = {
   story: [
     "The ever-unfolding tapestry of moments, story weaves your journey in threads of light and shadow each scene a verse in the epic sung by your own becoming.",
     "This living narrative is carved from dreams and memories, a sacred text written by the heart’s quiet hand, chronicling the invisible paths that shape your soul’s voyage.",
-    "Story is the song the universe hums through you, a radiant dance of endings and beginnings entwined, inviting you to become both author and witness of your unfolding legend."
+    "Story is the song the universe hums through you, a radiant dance of endings and beginnings entwined, inviting you to become botho authr and witness of your unfolding legend."
   ],
   echo: [
     "A distant voice reverberating through the corridors of time, echo carries the weight of forgotten prayers and half-remembered dreams, returning to stir the soul’s depths.",
@@ -59,49 +59,49 @@ const interpretationMap = {
     "Echo is the soul’s soft murmur across the void, a delicate call and response that binds past to present, memory to longing, in an endless celestial dance."
   ],
    dusk: [
-    "The sacred hour where day kisses night goodbye, dusk is a fleeting embrace of shadow and light a liminal veil where transformation quietly unfolds.",
+    "The sacred hour where day kisses night goodbye, dusk is a fleeting embrace of shadow and light a liminal veil where  quietly unfolds.",
     "This twilight moment hums with secrets and sighs, painting the sky in hues of longing and promise, inviting the soul to wander beyond the known horizon.",
     "Dusk is the threshold between worlds, a whispered pause where dreams begin their slow unfurling beneath the first stars’ watchful eyes."
   ],
   dawn: [
-    "",
-    "",
-    ""
+    "The breath of new beginnings, dawn spills gold across the sleeping earth, awakening hope with every tender ray that pierces the veil of night.",
+    "This fragile light cradles the promise of renewal and courage, stirring the heart to rise from shadows and step boldly into the day’s unfolding mystery.",
+    "Dawn is the sacred chorus of awakening, where darkness fades and possibility blooms, inviting the soul to dance with the unfolding light."
   ],
   cocoon: [
-    "",
-    "",
-    ""
+    "A delicate chrysalis spun from patience and quiet strength, cocoon holds the sacred pause where transformation breathes its slow, inevitable magic.",
+    "Within this tender shelter, the soul retreats to gather power and wisdom, wrapping itself in threads of hope before bursting forth renewed and radiant.",
+    "The cocoon is the sanctuary of becoming, a whispered promise that even in stillness, profound change is silently blossoming beneath the surface."
   ],
   cliff: [
-    "",
-    "",
-    ""
+    "A jagged edge that teeters between courage and fear, cliff marks the boundary of known safety and the wild unknown, where the soul learns to leap and trust.",
+    "This precipice holds the weight of choice and the thrill of surrender, a place where every heartbeat echoes with the possibility of flight or fall.",
+    "Cliff is the sharp horizon of transformation, carved by winds of daring and whispers of ancient daring, inviting you to stand at the brink of your own becoming."
   ],
   chasm: [
-    "",
-    "",
-    ""
+    "A deep divide carved by time and silence, chasm speaks of separation and yearning, the vast space where longing stretches into infinity.",
+    "This yawning gulf is the shadowed gap between worlds a place of mystery and loss, where the soul must bridge silence with courage.",
+    "Chasm is the sacred void that tests the heart’s resilience, a gulf where endings and beginnings collide in a fragile dance of hope and despair."
   ],
   cascade: [
-    "",
-    "",
-    ""
+    "A rushing torrent of shimmering light and sound, cascade carries away the old, cleansing the spirit in its relentless flow of change and renewal.",
+    "This waterfall of dreams washes over the soul, breaking the dams of doubt and fear, inviting surrender to the wild currents of transformation.",
+    "Cascade is the sacred river of becoming, a brilliant rush that scatters shadows and reveals the radiant clarity beneath the flood of life’s tides."
   ],
    bloom: [
-    "",
-    "",
-    ""
+    "The sacred unfolding of life’s delicate promise, bloom sings of growth and beauty emerging from shadowed soil and patient night.",
+    "This flower of the soul bursts forth in colors unseen, a radiant testament to resilience and the quiet joy of becoming.",
+    "Bloom is the eternal dance of opening and release, where hope is a petal unfurling in the tender light of dawn’s first breath."
   ],
   arcane: [
-    "",
-    "",
-    ""
+    "Whispers of ancient secrets woven into the fabric of the cosmos, arcane is the hidden language of stars and shadows, understood only by the soul’s quiet knowing.",
+    "This mystical veil guards the sacred mysteries, inviting seekers to unravel the cryptic symbols etched in the silence between worlds.",
+    "Arcane is the silent pulse of magic and wisdom, a dark river flowing beneath the surface of all things, waiting for the brave to follow its elusive path."
   ],
   abyss: [
-    "",
-    "",
-    ""
+    "A fathomless depth of shadow and silence, abyss is the soul’s dark mirror a place of profound mystery and the gateway to transformation beyond fear.",
+    "This infinite void holds the secrets of endings and beginnings, a sacred darkness where the self dissolves and is reborn anew in whispered echoes.",
+    "Abyss is the silent call to surrender, to dive deep beneath surface illusions and swim within the endless currents of the unknown."
   ],
    blackhole: [
     "",
