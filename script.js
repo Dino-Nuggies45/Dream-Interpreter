@@ -12,6 +12,510 @@ const interpretations = [
 
 ];
 
+const interpretationMap = {
+    illusion: [
+    "",
+    "",
+    ""
+  ],
+  hollow: [
+    "",
+    "",
+    ""
+  ],
+  hell: [
+    "",
+    "",
+    ""
+  ],
+   heaven: [
+    "",
+    "",
+    ""
+  ],
+  haven: [
+    "",
+    "",
+    ""
+  ],
+  haze: [
+    "",
+    "",
+    ""
+  ],
+   frost: [
+    "",
+    "",
+    ""
+  ],
+  story: [
+    "",
+    "",
+    ""
+  ],
+  echo: [
+    "",
+    "",
+    ""
+  ],
+   dusk: [
+    "",
+    "",
+    ""
+  ],
+  dawn: [
+    "",
+    "",
+    ""
+  ],
+  cocoon: [
+    "",
+    "",
+    ""
+  ],
+  cliff: [
+    "",
+    "",
+    ""
+  ],
+  chasm: [
+    "",
+    "",
+    ""
+  ],
+  cascade: [
+    "",
+    "",
+    ""
+  ],
+   bloom: [
+    "",
+    "",
+    ""
+  ],
+  arcane: [
+    "",
+    "",
+    ""
+  ],
+  abyss: [
+    "",
+    "",
+    ""
+  ],
+   blackhole: [
+    "",
+    "",
+    ""
+  ],
+  starwhale: [
+    "",
+    "",
+    ""
+  ],
+  antimatter: [
+    "",
+    "",
+    ""
+  ],
+   wormhole: [
+    "",
+    "",
+    ""
+  ],
+  constellation: [
+    "",
+    "",
+    ""
+  ],
+  galaxy: [
+    "",
+    "",
+    ""
+  ],
+  void: [
+    "",
+    "",
+    ""
+  ],
+  guardian: [
+    "",
+    "",
+    ""
+  ],
+  tomb: [
+    "",
+    "",
+    ""
+  ],
+   prophet: [
+    "",
+    "",
+    ""
+  ],
+  prophecy: [
+    "",
+    "",
+    ""
+  ],
+  skeleton: [
+    "",
+    "",
+    ""
+  ],
+   dragon: [
+    "",
+    "",
+    ""
+  ],
+  sphinx: [
+    "",
+    "",
+    ""
+  ],
+  phoenix: [
+    "",
+    "",
+    ""
+  ],
+   temple: [
+    "",
+    "",
+    ""
+  ],
+  oracle: [
+    "",
+    "",
+    ""
+  ],
+  crown: [
+    "",
+    "",
+    ""
+  ],
+  sigil: [
+    "",
+    "",
+    ""
+  ],
+  rune: [
+    "",
+    "",
+    ""
+  ],
+  obsidian: [
+    "",
+    "",
+    ""
+  ],
+   labyrinth: [
+    "",
+    "",
+    ""
+  ],
+  hourglass: [
+    "",
+    "",
+    ""
+  ],
+  rainfall: [
+    "",
+    "",
+    ""
+  ],
+   aurora: [
+    "",
+    "",
+    ""
+  ],
+  comet: [
+    "",
+    "",
+    ""
+  ],
+  eclipse: [
+    "",
+    "",
+    ""
+  ],
+   reflection: [
+    "",
+    "",
+    ""
+  ],
+  doppelganger: [
+    "",
+    "",
+    ""
+  ],
+  silence: [
+    "",
+    "",
+    ""
+  ],
+  blindness: [
+    "",
+    "",
+    ""
+  ],
+  faceless: [
+    "",
+    "",
+    ""
+  ],
+  puppet: [
+    "",
+    "",
+    ""
+  ],
+   fear: [
+    "",
+    "",
+    ""
+  ],
+  joy: [
+    "",
+    "",
+    ""
+  ],
+  confusion: [
+    "",
+    "",
+    ""
+  ],
+   longing: [
+    "",
+    "",
+    ""
+  ],
+  isolation: [
+    "",
+    "",
+    ""
+  ],
+  regret: [
+    "",
+    "",
+    ""
+  ],
+   acceptance: [
+    "",
+    "",
+    ""
+  ],
+  rebirth: [
+    "",
+    "",
+    ""
+  ],
+  danger: [
+    "",
+    "",
+    ""
+  ],
+  peace: [
+    "",
+    "",
+    ""
+  ],
+  stranger: [
+    "",
+    "",
+    ""
+  ],
+  child: [
+    "",
+    "",
+    ""
+  ],
+   mother: [
+    "",
+    "",
+    ""
+  ],
+  twin: [
+    "",
+    "",
+    ""
+  ],
+  shadow: [
+    "",
+    "",
+    ""
+  ],
+   crowd: [
+    "",
+    "",
+    ""
+  ],
+  ghost: [
+    "",
+    "",
+    ""
+  ],
+  animal: [
+    "",
+    "",
+    ""
+  ],
+   hunter: [
+    "",
+    "",
+    ""
+  ],
+  guide: [
+    "",
+    "",
+    ""
+  ],
+  ocean: [
+    "",
+    "",
+    ""
+  ],
+  fire: [
+    "",
+    "",
+    ""
+  ],
+  forest: [
+    "",
+    "",
+    ""
+  ],
+  moon: [
+    "",
+    "",
+    ""
+  ],
+   storm: [
+    "",
+    "",
+    ""
+  ],
+  cave: [
+    "",
+    "",
+    ""
+  ],
+  desert: [
+    "",
+    "",
+    ""
+  ],
+   mountain: [
+    "",
+    "",
+    ""
+  ],
+  river: [
+    "",
+    "",
+    ""
+  ],
+  eclipse: [
+    "",
+    "",
+    ""
+  ],
+   bed: [
+    "",
+    "",
+    ""
+  ],
+  doorframe: [
+    "",
+    "",
+    ""
+  ],
+  key: [
+    "",
+    "",
+    ""
+  ],
+  window: [
+    "",
+    "",
+    ""
+  ],
+  stairs: [
+    "",
+    "",
+    ""
+  ],
+  rope: [
+    "",
+    "",
+    ""
+  ],
+   mask: [
+    "",
+    "",
+    ""
+  ],
+  mirror: [
+    "",
+    "",
+    ""
+  ],
+  door: [
+    "",
+    "",
+    ""
+  ],
+   flying: [
+    "",
+    "",
+    ""
+  ],
+  falling: [
+    "",
+    "",
+    ""
+  ],
+  floating: [
+    "",
+    "",
+    ""
+  ],
+   drowning: [
+    "",
+    "",
+    ""
+  ],
+  running: [
+    "",
+    "",
+    ""
+  ],
+  frozen: [
+    "",
+    "",
+    ""
+  ],
+    trapped: [
+    "",
+    "",
+    ""
+  ],
+   transform: [
+    "",
+    "",
+    ""
+  ],
+  escaping: [
+    "",
+    "",
+    ""
+  ],
+  hiding: [
+    "",
+    "",
+    ""
+  ],
+
+}
+
 function getRandomInterpretation() {
     const index = Math.floor(Math.random() * interpretations.length);
     return interpretations[index];
