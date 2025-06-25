@@ -30,6 +30,12 @@ interpretBtn.addEventListener('click', () => {
     return;
   }
 
+  if (interpretations[keyword]) {
+    const lines = interpretations[keyword];
+    const randomLine = lines[Math.floor(Math.random() * lines.length)];
+    oracleOutput.textContent = `"${randomLine}" (${tone} undertones)`;
+  }
+
   oracleOutput.textContent = "The oracle is interpreting yout dream...";
   oracleOutput.classList.add('fade-in');
 

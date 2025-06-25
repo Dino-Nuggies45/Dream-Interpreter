@@ -90,3 +90,12 @@ button:hover {
 .back-link:hover {
     background: rgba(255, 255, 255, 0.2);
 }
+
+.card.active {
+    animation: glow 2s infinite alternate;
+}
+
+@keyframes glow {
+    from { box-shadow: 0 0 40px rgba(255, 255, 255, 0.2); }
+    to {box-shadow: 0 0 60px rgba(255, 255, 255, 0.6);}
+}
