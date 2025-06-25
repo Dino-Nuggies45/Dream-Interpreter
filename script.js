@@ -14,24 +14,24 @@ const interpretations = [
 
 const interpretationMap = {
     illusion: [
-    "",
-    "",
-    ""
+    "A shimmering veil woven from whispers and forgotten truths, the illusion dances just beyond the grasp of waking thought, inviting you to question what is real and what is dream.",
+    "This vision is a fragile mirage, reflecting your deepest desires and fears alike, folding and unfolding like the petals of a spectral flower in the twilight of the mind.",
+    "The illusion masks the hidden pathways of your soul, a delicate tapestry of light and shadow that beckons you to seek the unseen realms beneath the surface of perception."
   ],
   hollow: [
-    "",
-    "",
-    ""
+    "An echoing chamber within the self, hollow speaks of emptiness and space not of loss, but of the quiet room where transformation patiently waits.",
+    "The hollow is the sacred void that cradles beginnings and endings alike, a silent sanctuary carved by time’s slow hands where new life takes root unseen.",
+    "Within the hollow lies the heartbeat of the universe a stillness that calls you to listen beyond the noise and discover the fertile ground beneath absence."
   ],
   hell: [
-    "",
-    "",
-    ""
+    "A blazing forge of inner torment and unyielding trial, hell is the crucible where the soul confronts its fiercest shadows and emerges tempered like steel from flame.",
+    "This fiery realm is not punishment but transformation a burning away of falsehoods and fears to reveal the raw ember of your truest self, glowing fiercely beneath the ash.",
+    "Hell’s inferno consumes illusions and comforts alike, forcing a reckoning with the primal fires that both destroy and renew, leaving behind a path scorched yet alive with possibility."
   ],
    heaven: [
-    "",
-    "",
-    ""
+    "A boundless expanse of radiant light and serene whispers, heaven embodies the promise of peace beyond mortal struggles a celestial haven where spirit and dreams entwine.",
+    "This luminous realm shimmers with the soft glow of infinite grace, where every star sings a hymn of hope and every breeze carries the breath of ancient blessings.",
+    "Heaven is the gentle embrace that soothes the weary heart, a timeless sanctuary where the soul finds rest beneath skies painted with the colors of eternity."
   ],
   haven: [
     "",
@@ -42,7 +42,7 @@ const interpretationMap = {
     "",
     "",
     ""
-  ],
+    ],
    frost: [
     "",
     "",
