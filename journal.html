@@ -3,15 +3,17 @@
 <head>
     <meta charset="UTF-8" />
     <title>Starwhale Dream Journal</title>
-    <link ref="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-    <main class="container">
+    <div class="top-bar">
+        <button class="glow-btn" id="exportTxt"> Export as TXT</button>
+        <button class="glow-btn" id="exportJson"> Export as JSON</button>
+        <button class="glow-btn" onclick="window.location.href='index.html'">Return to Oracle</button>
+    </div>
+    <main class="journal-container">
         <h1>Your Dream Journal</h1>
-        <div id="journalEntries"></div>
-        <button id="exportTxt"> Export as TXT</button>
-        <button id="exportJson"> Export as JSON</button>
-        <button onclick="window.location.href='index.html'">Return to Oracle</button>
+        <div id="journalEntries" class="card-grid"></div>
     </main>
 
     <script src="journal.js"></script>
