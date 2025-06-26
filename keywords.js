@@ -395,115 +395,110 @@ const interpretationMap = {
     "Mountain is the eternal climb of the spirit, a sacred path carved by perseverance and the quest for transcendence."
   ],
   river: [
-    "",
-    "",
-    ""
-  ],
-  eclipse: [
-    "",
-    "",
-    ""
+    "A flowing ribbon of life and memory, river carries the currents of change and the gentle passage of time.",
+    "This winding watercourse invites surrender and movement, a sacred journey through valleys of experience and moments of reflection.",
+    "River is the eternal dance of flow and stillness, a symbol of transformation and the endless cycle of becoming."
   ],
    bed: [
-    "",
-    "",
-    ""
+    "A quiet nest of rest and dreams, bed holds the sacred space where consciousness drifts into the realms of mystery and insight.",
+    "This soft refuge invites surrender and renewal, a sanctuary where the soul may weave stories and receive guidance.",
+    "Bed is the gentle cradle of the night’s journey, a place of peace where healing and transformation quietly unfold."
   ],
   doorframe: [
-    "",
-    "",
-    ""
+    "The threshold between worlds, doorframe marks the passage from one reality to another, inviting courage and curiosity.",
+    "This sacred boundary is the line between known and unknown, a silent invitation to step beyond comfort into mystery.",
+    "Doorframe is the liminal space of possibility, a place where the soul pauses before crossing into new realms of understanding."
   ],
   key: [
-    "",
-    "",
-    ""
+    "A shining instrument of unlocking and revelation, key holds the power to open hidden doors and secrets within the self.",
+    "This sacred tool invites discovery and access to deeper truths, guiding the dreamer toward hidden chambers of wisdom.",
+    "Key is the symbol of choice and empowerment, a reminder that within lies the power to open or close the gates of transformation."
   ],
   window: [
-    "",
-    "",
-    ""
+    "A transparent portal framing new perspectives, window invites the soul to gaze beyond familiar horizons and glimpse hidden realms.",
+    "This open passage offers light and fresh air, a breath of hope and the possibility of change through expanded vision.",
+    "Window is the sacred frame of opportunity, a reminder that the world holds infinite views waiting to be explored."
   ],
   stairs: [
-    "",
-    "",
-    ""
+    "A rising path carved from stone or air, stairs symbolize ascent, progress, and the steady climb toward enlightenment and growth.",
+    "This sacred journey invites the dreamer to take each step with intention, honoring the slow unfolding of inner wisdom.",
+    "Stairs are the sacred ladder between earth and sky, a pathway of transformation marked by effort and grace."
   ],
   rope: [
-    "",
-    "",
-    ""
+    "A lifeline woven from trust and strength, rope binds and connects, offering safety and the means to ascend or hold firm.",
+    "This sacred cord is the link between self and world, a symbol of resilience and the power to overcome challenges through connection.",
+    "Rope is the fragile yet unbreakable thread that ties dreams to reality, a reminder of support amidst uncertainty."
   ],
    mask: [
-    "",
-    "",
-    ""
+    "A shimmering guise worn to conceal or reveal, mask embodies the dance of identity, mystery, and hidden truths.",
+    "This sacred veil invites reflection on the roles played and the faces shown to the world, a mirror of both light and shadow.",
+    "Mask is the eternal interplay of concealment and revelation, a symbol of the soul’s multifaceted nature and the freedom found in transformation."
   ],
   mirror: [
-    "",
-    "",
-    ""
+    "A polished surface reflecting both light and shadow, mirror reveals the truth of the self in silent clarity.",
+    "This sacred glass invites honest confrontation and self-recognition, a portal to deeper understanding and acceptance.",
+    "Mirror is the eternal witness to transformation, a reminder that beneath every reflection lies the core of being."
   ],
   door: [
-    "",
-    "",
-    ""
+    "A gateway between realities, door marks moments of choice and transition, inviting passage into new realms of possibility.",
+    "This sacred threshold carries the promise of change and the courage to leave the familiar behind in search of growth.",
+    "Door is the symbol of opportunity and mystery, a portal that beckons the dreamer to step forward into the unknown."
   ],
    flying: [
-    "",
-    "",
-    ""
+    "The exhilarating dance of freedom and lightness, flying lifts the spirit beyond earthly bounds into realms of possibility and joy.",
+    "This sacred ascent is the soul’s liberation from limitations, a soaring embrace of dreams and infinite horizons.",
+    "Flying is the timeless flight of the spirit, a symbol of transcendence and the joyous breaking of all chains."
   ],
   falling: [
-    "",
-    "",
-    ""
+    "A wild descent through shadow and air, falling stirs the soul’s fears and the urgent call for trust amidst uncertainty.",
+    "This sacred plunge invites surrender and the letting go of control, a moment where transformation takes flight from the depths.",
+    "Falling is the dance of release and rebirth, a passage through darkness that births new perspectives and strength."
   ],
   floating: [
-    "",
-    "",
-    ""
+    "A gentle suspension between earth and sky, floating carries the soul in peaceful stillness, a quiet journey of letting be.",
+    "This sacred weightlessness invites calm and reflection, a moment to drift freely within the currents of dreams and spirit.",
+    "Floating is the silent embrace of presence, a sacred pause where the soul rests between worlds and gathers strength."
   ],
    drowning: [
-    "",
-    "",
-    ""
+    "A suffocating immersion in overwhelming tides, drowning challenges the dreamer to confront fears of loss and surrender.",
+    "This sacred struggle invites awareness of boundaries and the need to find breath amidst chaos and emotion.",
+    "Drowning is the deep call to resilience, a trial that, once faced, can birth new strength and clarity from the depths."
   ],
   running: [
-    "",
-    "",
-    ""
+   "A swift flight across landscapes of shadow and light, running embodies the restless drive toward freedom and escape.",
+    "This sacred motion carries the pulse of urgency and the desire to outrun fears and limitations.",
+    "Running is the eternal journey of pursuit and release, a dance of momentum and the search for safe haven."
   ],
   frozen: [
-    "",
-    "",
-    ""
+    "Encased in ice and silence, frozen speaks of halted time and the delicate stillness before transformation’s thaw.",
+    "This sacred pause invites patience and reflection, a moment where life gathers strength beneath a glistening veil.",
+    "Frozen is the quiet breath of suspension, a temporary rest that holds the promise of renewal and awakening."
   ],
     trapped: [
-    "",
-    "",
-    ""
+    "Bound within invisible chains, trapped reveals the soul’s struggle against limitation and the yearning for liberation.",
+    "This sacred confinement calls the dreamer to seek keys within, to unravel the bonds that bind and reclaim freedom.",
+    "Trapped is the shadowed trial of constraint, a challenge that, once overcome, leads to profound transformation and growth."
   ],
    transform: [
-    "",
-    "",
-    ""
+    "The sacred alchemy of change, transform is the soul’s dance through cycles of death and rebirth, shedding old skins to reveal new light.",
+    "This luminous process invites courage and surrender, a journey through shadow into radiant becoming.",
+    "Transform is the eternal rhythm of life, a powerful invitation to embrace the unknown and bloom anew."
   ],
   escaping: [
-    "",
-    "",
-    ""
+    "The urgent flight from shadow and confinement, escaping carries the promise of freedom and the hope of new beginnings.",
+    "This sacred departure is both challenge and relief, a journey through uncertainty toward light and possibility.",
+    "Escaping is the soul’s cry for liberation, a dance of courage and the pursuit of boundless horizons."
   ],
   hiding: [
-    "",
-    "",
-    ""
+    "A retreat into shadowed silence, hiding offers refuge and the chance to gather strength and wisdom unseen.",
+    "This sacred withdrawal invites reflection and healing, a quiet space where the soul prepares for reemergence.",
+    "Hiding is the gentle pause of protection, a necessary rest in the cycles of vulnerability and growth."
   ],
 
 }
 
 
-const dreamKeywords = {
+Object.assign (dreamKeywords , {
     illusion: {
     emoji: "🫥",
     positive: "Creative imagination, escapism from pain.",
@@ -900,108 +895,103 @@ const dreamKeywords = {
     negative: "Obstacles, struggle to ascend."
   },
   river: {
-    emoji: "🌊",
-    positive: "Bringing freedom, emotional release, and deep exploration.",
-    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
-  },
-  eclipse: {
-    emoji: "🌊",
-    positive: "Bringing freedom, emotional release, and deep exploration.",
-    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+    emoji: "🏞️",
+    positive: "Flow of life, emotional journey.",
+    negative: "Lack of control, unpredictable current."
   },
    bed: {
-    emoji: "🌊",
-    positive: "Bringing freedom, emotional release, and deep exploration.",
-    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+    emoji: "🛏️",
+    positive: "Rest, comfort, intimacy.",
+    negative: "Avoidance, stagnation, hiding."
   },
   doorframe: {
-    emoji: "🌊",
-    positive: "Bringing freedom, emotional release, and deep exploration.",
-    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+    emoji: "🚪",
+    positive: "Threshold of change, potential.",
+    negative: "Blocked entry, fear of transition."
   },
   key: {
-    emoji: "🌊",
-    positive: "Bringing freedom, emotional release, and deep exploration.",
-    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+    emoji: "🗝️",
+    positive: "Access to understanding, inner answers.",
+    negative: "Loss of power, locked truth."
   },
   window: {
-    emoji: "🌊",
-    positive: "Bringing freedom, emotional release, and deep exploration.",
-    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+    emoji: "🪟",
+    positive: "Perspective, opportunity, openness.",
+    negative: "Looking out but not stepping through."
   },
   stairs: {
-    emoji: "🌊",
-    positive: "Bringing freedom, emotional release, and deep exploration.",
-    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+    emoji: "🪜",
+    positive: "Progress, spiritual climb, personal growth.",
+    negative: "Struggle, repetitive effort, confusion."
   },
   rope: {
-    emoji: "🌊",
-    positive: "Bringing freedom, emotional release, and deep exploration.",
-    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+    emoji: "🧵",
+    positive: "Connection, support, lifeline.",
+    negative: "Tied down, entrapment, fragile bond."
   },
    mask: {
-    emoji: "🌊",
-    positive: "Bringing freedom, emotional release, and deep exploration.",
-    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+    emoji: "🎭",
+    positive: "Versatility, self-expression, transformation.",
+    negative: "Deception, hiding true self."
   },
   mirror: {
-    emoji: "🌊",
-    positive: "Bringing freedom, emotional release, and deep exploration.",
-    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+    emoji: "🪞",
+    positive: "Self-awareness, facing truth.",
+    negative: "Distortion, fear of identity."
   },
   door: {
-    emoji: "🌊",
-    positive: "Bringing freedom, emotional release, and deep exploration.",
-    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+    emoji: "🚪",
+    positive: "New path, transition, invitation.",
+    negative: "Blocked access, fear of choice."
   },
    flying: {
-    emoji: "🌊",
-    positive: "Bringing freedom, emotional release, and deep exploration.",
-    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+    emoji: "🕊️",
+    positive: "Freedom, ambition, spiritual height.",
+    negative: "Escapism, lack of grounding."
   },
   falling: {
-    emoji: "🌊",
-    positive: "Bringing freedom, emotional release, and deep exploration.",
-    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+    emoji: "🪂",
+    positive: "Letting go, surrender to flow.",
+    negative: "Loss of control, fear of failure."
   },
   floating: {
-    emoji: "🌊",
-    positive: "Bringing freedom, emotional release, and deep exploration.",
-    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+    emoji: "🎈",
+    positive: "Peace, detachment, spiritual lift.",
+    negative: "Aimlessness, dissociation, avoidance."
   },
    drowning: {
     emoji: "🌊",
-    positive: "Bringing freedom, emotional release, and deep exploration.",
-    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+    positive: "Emotional reset, surrender.",
+    negative: "Overwhelm, loss of self."
   },
   running: {
-    emoji: "🌊",
-    positive: "Bringing freedom, emotional release, and deep exploration.",
-    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+    emoji: "🏃",
+    positive: "Drive, momentum, escape from stagnation.",
+    negative: "Avoidance, burnout, fear."
   },
   frozen: {
-    emoji: "🌊",
-    positive: "Bringing freedom, emotional release, and deep exploration.",
-    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+    emoji: "🧊",
+    positive: "Stillness, preservation, clarity.",
+    negative: "Inaction, paralysis, emotional cold."
   },
     trapped: {
-    emoji: "🌊",
-    positive: "Bringing freedom, emotional release, and deep exploration.",
-    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+    emoji: "🪤",
+    positive: "Call to break limitations, growth.",
+    negative: "Hopelessness, restriction, fear."
   },
    transform: {
-    emoji: "🌊",
-    positive: "Bringing freedom, emotional release, and deep exploration.",
-    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+    emoji: "🔁",
+    positive: "Powerful shift, renewal, growth.",
+    negative: "Loss of identity, chaos."
   },
   escaping: {
-    emoji: "🌊",
-    positive: "Bringing freedom, emotional release, and deep exploration.",
-    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+    emoji: "🚪",
+    positive: "Courage to leave the old behind.",
+    negative: "Avoiding responsibility, unfinished business."
   },
   hiding: {
-    emoji: "🌊",
-    positive: "Bringing freedom, emotional release, and deep exploration.",
-    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+    emoji: "🙈",
+    positive: "Protection, introspection, boundaries.",
+    negative: "Fear, denial, emotional withdrawal."
   },
-}
+});
