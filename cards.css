@@ -4,7 +4,6 @@ body {
     font-family: 'Georgia', serif;
     background: radial-gradient(#0a0a2a, #000);
     color: white;
-    overflow: hidden;
 }
 
 .card-carousel {
@@ -16,36 +15,85 @@ body {
 }
 
 .card-container {
-    display: flex;
-    flex-direction: column;
-    transition: transform 0.6s ease;
-    width: 80vw;
-    max-width: 900px;
-    overflow: hidden;
-    position: relative;
+  display: flex;
+  flex-wrap: nowrap; 
+  overflow-x: auto;  
+  overflow-y: hidden; 
+  transition: transform 0.6s ease;
+  width: 100%;
+  max-width: 100vw;
+  justify-content: flex-start;
+  align-items: center;
+  position: relative;
+  height: 500px;
+  padding-right: 20px;
 }
+
+.card-frame {
+  width: 100%;
+  max-width: 100vw;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 
 .card {
-    min-width: 100%;
-    flex-shrink: 0;
-    padding: 2em;
-    box-sizing: border-box;
-    background: rgba(255, 255, 255, 0.05);
-    border-radius: 12px;
-    backdrop-filter: blur(6px);
-    transition: filter 0.4s ease, transform 0.4s ease;
-    box-shadow: 0 0 30px rgba(255, 255, 255, 0.1);
+  flex-shrink: 0;
+  width: 280px;
+  height: 420px;
+  margin: 0 10px;
+  padding: 1.5em;
+  box-sizing: border-box;
+  background: rgba(255, 255, 255, 0.06);
+  border-radius: 18px;
+  backdrop-filter: blur(6px);
+  box-shadow: 0 0 25px rgba(255, 255, 255, 0.1), 0 0 8px #80d0ff88 inset;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  text-align: center;
+  transition: transform 0.5s ease;
 }
 
+.emoji {
+  font-size: 4rem;
+  margin-bottom: 1rem;
+  text-shadow: 0 0 8px rgba(255, 255, 255, 0.3);
+}
+
+
+
 .card h2 {
-    font-size: 2em;
-    margin-bottom: 0.5em;
+  font-size: 1.6rem;
+  margin-bottom: 0.5rem;
+  color: #cce7ff;
+  text-shadow: 0 0 6px #4a6eff;
 }
 
 .card p {
-    font-size: 1.1em;
-    line-height: 1.6;
-    margin-bottom: 0.6em;
+  font-size: 1rem;
+  line-height: 1.4;
+  margin: 0.4rem 0;
+  color: #eee;
+  max-width: 90%;
+}
+
+.card.active {
+  opacity: 1;
+  pointer-events: auto;
+  transform: scale(1);
+  z-index: 2;
+  animation: glow 2s infinite alternate;
+}
+
+.card.tinted {
+  opacity: 0.5;
+  transform: scale(0.95);
+  filter: blur(1.5px) brightness(0.6);
+  z-index: 1;
 }
 
 .controls {

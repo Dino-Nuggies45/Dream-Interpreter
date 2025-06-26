@@ -498,7 +498,7 @@ const interpretationMap = {
 }
 
 
-Object.assign (dreamKeywords , {
+window.dreamKeywords = {
     illusion: {
     emoji: "🫥",
     positive: "Creative imagination, escapism from pain.",
@@ -994,4 +994,4 @@ Object.assign (dreamKeywords , {
     positive: "Protection, introspection, boundaries.",
     negative: "Fear, denial, emotional withdrawal."
   },
-});
+};

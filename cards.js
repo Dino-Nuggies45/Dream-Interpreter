@@ -30,8 +30,9 @@ function renderCards() {
         cardContainer.appendChild(div);
     });
 
-    const offset = -currentIndex * 100;
-    cardContainer.style.transform =`translateX(${offset}%)`;
+    const offset = -currentIndex * 280;
+    cardContainer.style.transform = `translateX(${offset}px)`;
+    
 }
 
 prevBtn.addEventListener('click',  () => {
