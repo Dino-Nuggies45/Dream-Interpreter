@@ -320,79 +320,79 @@ const interpretationMap = {
     "Mother is the eternal embrace of creation and compassion, the warm hearth that kindles the spirit’s flame and guides its growth."
   ],
   twin: [
-    "",
-    "",
-    ""
+    "A mirrored soul dancing in harmony and contrast, twin reflects the dual nature of self and other, light and shadow intertwined.",
+    "This sacred companion embodies balance and unity, a reminder that wholeness is found through connection and reflection.",
+    "Twin is the dance of echoes and opposites, the sacred symmetry that shapes identity and invites reconciliation within"
   ],
   shadow: [
-    "",
-    "",
-    ""
+    "The silent shape that follows and reveals, shadow holds the hidden parts of self — both fear and strength intertwined in darkness.",
+    "This elusive presence invites exploration of the unknown depths, urging the dreamer to embrace what lies beneath the surface.",
+    "Shadow is the sacred partner of light, a necessary balance that teaches resilience and the fullness of being."
   ],
    crowd: [
-    "",
-    "",
-    ""
+    "A swirling sea of faces and voices, crowd embodies the energy of connection, belonging, and the challenge of individuality within the many.",
+    "This vibrant mass carries the rhythms of collective dreams and desires, inviting the dreamer to find their unique voice amid the chorus.",
+    "Crowd is the dance of unity and separation, a reminder that identity is both shaped and tested within the tides of community."
   ],
   ghost: [
-    "",
-    "",
-    ""
+    "A fleeting whisper of presence beyond the veil, ghost lingers between worlds carrying memories, regrets, and unresolved echoes.",
+    "This ethereal figure invites reflection on what is lost and what remains, a silent messenger from the depths of the subconscious.",
+    "Ghost is the haunting song of remembrance and release, a bridge between past and present that stirs the dreamer’s soul."
   ],
   animal: [
-    "",
-    "",
-    ""
+    "The primal spirit of instinct and freedom, animal embodies the raw power and wisdom of nature’s wild heart.",
+    "This fierce presence calls the dreamer to reconnect with the untamed parts within, to honor the cycles of life and survival.",
+    "Animal is the sacred force of earth and instinct, a guide through the wilderness of self and the deeper rhythms of existence."
   ],
    hunter: [
-    "",
-    "",
-    ""
+    "The focused seeker stalking through shadow and light, hunter represents determination, courage, and the pursuit of hidden truths.",
+    "This vigilant figure embodies the drive to uncover and claim what is needed, a symbol of persistence and will.",
+    "Hunter is the sacred quest of the spirit, a journey through darkness to grasp the elusive spark of insight and power."
   ],
   guide: [
-    "",
-    "",
-    ""
+    "A luminous presence lighting the path through shadowed realms, guide offers wisdom, protection, and gentle direction.",
+    "This steady companion whispers truths and points toward growth, a beacon in the night calling the dreamer onward.",
+    "Guide is the silent hand that leads beyond fear and confusion, opening doors to new understanding and hope."
   ],
   ocean: [
-    "",
-    "",
-    ""
+    "The vast, ever-changing expanse of emotion and mystery, ocean holds the depths of the unconscious and the tides of transformation.",
+    "This boundless sea carries both storms and calm, a mirror to the soul’s infinite capacity for renewal and depth.",
+    "Ocean is the sacred flow of life and dreams, an eternal dance between chaos and serenity within the heart’s vast realm."
   ],
   fire: [
-    "",
-    "",
-    ""
+    "The primal flame of passion, destruction, and renewal, fire burns away illusions and lights the path of transformation.",
+    "This fierce energy ignites courage and creativity, a wild force that both consumes and births new life from ashes.",
+    "Fire is the sacred spark within, a blazing beacon of the soul’s will to rise and shine amidst darkness."
   ],
   forest: [
-    "",
-    "",
-    ""
+    "A tangled labyrinth of growth and mystery, forest shelters ancient wisdom and the quiet pulse of life’s hidden rhythms.",
+    "This green sanctuary invites exploration and renewal, a place where the dreamer may lose and find themselves amid shadows and light.",
+    "Forest is the sacred wild, a living cathedral of leaves and roots where the soul learns to listen and grow."
   ],
   moon: [
-    "",
-    "",
-    ""
+    "The silver guardian of night and tides, moon reflects the cycles of change, intuition, and the secret currents of the soul.",
+    "This luminous orb casts its gentle glow on hidden truths, guiding dreamers through darkness with quiet grace.",
+    "Moon is the eternal rhythm of ebb and flow, a sacred symbol of mystery, transformation, and the feminine spirit’s power."
   ],
    storm: [
-    "",
-    "",
-    ""
+    "A roaring tempest of emotion and change, storm shakes the foundations of being, clearing away the old to reveal new skies.",
+    "This wild fury challenges and purifies, a force both destructive and renewing, stirring the soul to awaken and grow.",
+    "Storm is the sacred upheaval that breaks illusions and summons strength from the heart’s deepest wells."
   ],
   cave: [
-    "",
-    "",
-    ""
+    "A shadowed sanctuary beneath the earth, cave holds the secrets of the unconscious and the hidden chambers of the soul.",
+    "This quiet refuge invites descent and discovery, a place to confront fears and unearth ancient wisdom buried deep.",
+    "Cave is the sacred womb of transformation, a dark cradle where the soul prepares to emerge reborn and radiant."
   ],
   desert: [
-    "",
-    "",
-    ""
+    "An endless sea of sand and silence, desert speaks of isolation, endurance, and the stark beauty of solitude.",
+    "This vast expanse challenges the dreamer to find life and meaning amid barrenness, a crucible of resilience and clarity.",
+    "Desert is the sacred test of spirit, a place where the soul learns to shine brightest beneath the blazing sun of trials."
   ],
    mountain: [
-    "",
-    "",
-    ""
+    "A towering monument of stone and sky, mountain symbolizes strength, aspiration, and the sacred journey toward higher understanding.",
+    "This majestic peak invites the dreamer to rise above challenges and glimpse the vast horizons of possibility and insight.",
+    "Mountain is the eternal climb of the spirit, a sacred path carved by perseverance and the quest for transcendence."
   ],
   river: [
     "",
@@ -825,39 +825,39 @@ const dreamKeywords = {
     negative: "Overdependence, smothering energy."
   },
   twin: {
-    emoji: "🌊",
-    positive: "Bringing freedom, emotional release, and deep exploration.",
-    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+    emoji: "👯‍♀️",
+    positive: "Balance of self, mirrored soul.",
+    negative: "Duality conflict, comparison, envy."
   },
   shadow: {
-    emoji: "🌊",
-    positive: "Bringing freedom, emotional release, and deep exploration.",
-    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+    emoji: "🌑",
+    positive: "Integration of hidden truths.",
+    negative: "Suppressed emotion, fear, denial."
   },
    crowd: {
-    emoji: "🌊",
-    positive: "Bringing freedom, emotional release, and deep exploration.",
-    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+    emoji: "👥",
+    positive: "Support network, collective identity.",
+    negative: "Loss of individuality, social pressure."
   },
   ghost: {
-    emoji: "🌊",
-    positive: "Bringing freedom, emotional release, and deep exploration.",
-    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+    emoji: "👻",
+    positive: "Message from the past, emotional echo.",
+    negative: "Unresolved trauma, lingering regret."
   },
   animal: {
-    emoji: "🌊",
-    positive: "Bringing freedom, emotional release, and deep exploration.",
-    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+    emoji: "🐾",
+    positive: "Instinctual wisdom, primal self.",
+    negative: "Loss of control, fear of urges."
   },
    hunter: {
-    emoji: "🌊",
-    positive: "Bringing freedom, emotional release, and deep exploration.",
-    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+    emoji: "🏹",
+    positive: "Focus, determination, pursuit of goals.",
+    negative: "Aggression, obsession, harm to others."
   },
   guide: {
-    emoji: "🌊",
-    positive: "Bringing freedom, emotional release, and deep exploration.",
-    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+    emoji: "🧭",
+    positive: "Support, mentorship, spiritual path.",
+    negative: "Dependence, loss of autonomy."
   },
   ocean: {
     emoji: "🌊",
@@ -865,39 +865,39 @@ const dreamKeywords = {
     negative: "Overwhelming emotions, feeling lost, or trapped by tides."
   },
   fire: {
-    emoji: "🌊",
-    positive: "Bringing freedom, emotional release, and deep exploration.",
-    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+    emoji: "🔥",
+    positive: "Passion, purification, energy burst.",
+    negative: "Destruction, uncontrollable rage."
   },
   forest: {
-    emoji: "🌊",
-    positive: "Bringing freedom, emotional release, and deep exploration.",
-    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+    emoji: "🌲",
+    positive: "Mystery, grounded wisdom, inner growth.",
+    negative: "Fear of the unknown, getting lost."
   },
   moon: {
-    emoji: "🌊",
-    positive: "Bringing freedom, emotional release, and deep exploration.",
-    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+    emoji: "🌙",
+    positive: "Intuition, dreams, feminine energy.",
+    negative: "Emotional instability, illusion."
   },
    storm: {
-    emoji: "🌊",
-    positive: "Bringing freedom, emotional release, and deep exploration.",
-    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+    emoji: "🌩️",
+    positive: "Breakthrough, release of tension.",
+    negative: "Chaos, emotional overload."
   },
   cave: {
-    emoji: "🌊",
-    positive: "Bringing freedom, emotional release, and deep exploration.",
-    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+    emoji: "🕳️",
+    positive: "Inner journey, reflection, deep wisdom.",
+    negative: "Isolation, repression, darkness."
   },
   desert: {
-    emoji: "🌊",
-    positive: "Bringing freedom, emotional release, and deep exploration.",
-    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+    emoji: "🏜️",
+    positive: "Simplicity, survival, spiritual trial.",
+    negative: "Loneliness, emotional drought."
   },
    mountain: {
-    emoji: "🌊",
-    positive: "Bringing freedom, emotional release, and deep exploration.",
-    negative: "Overwhelming emotions, feeling lost, or trapped by tides."
+    emoji: "🏔️",
+    positive: "Clarity, achievement, higher vision.",
+    negative: "Obstacles, struggle to ascend."
   },
   river: {
     emoji: "🌊",
