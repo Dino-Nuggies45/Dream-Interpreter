@@ -1,4 +1,4 @@
-const interpretationMap = {
+const interpretations = {
     illusion: [
     "A shimmering veil woven from whispers and forgotten truths, the illusion dances just beyond the grasp of waking thought, inviting you to question what is real and what is dream.",
     "This vision is a fragile mirage, reflecting your deepest desires and fears alike, folding and unfolding like the petals of a spectral flower in the twilight of the mind.",
