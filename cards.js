@@ -3,6 +3,7 @@ const prevBtn = document.getElementById('prevBtn');
 const nextBtn = document.getElementById('nextBtn');
 const flipSound = document.getElementById('flipSound');
 
+
 const dreamCards = Object.entries(dreamKeywords).map(([keyword, data]) => ({
     keyword,
     emoji: data.emoji,
@@ -30,8 +31,11 @@ function renderCards() {
         cardContainer.appendChild(div);
     });
 
-    const offset = -currentIndex * 280;
+    const containerWidth = cardFrame.offsetWidth;
+    const cardWidth = 300; 
+    const offset = (containerWidth / 2) - (cardWidth / 2) - (currentIndex * cardWidth);
     cardContainer.style.transform = `translateX(${offset}px)`;
+
     
 }
 
