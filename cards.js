@@ -53,4 +53,36 @@ nextBtn.addEventListener('click', () => {
     renderCards();
 });
 
+const searchInput = document.getElementById('searchInput');
+
+searchInput.addEventListener('input', () => {
+  const filter = searchInput.value.toLowerCase();
+  const entries = document.querySelectorAll('.card');
+
+  entries.forEach(entry => {
+    const text = entry.textContent.toLowerCase();
+    const isMatch = text.includes(filter);
+
+    entry.style.display = isMatch ? '' : 'none';
+
+    if (filter === '') {
+    entries.forEach(entry => {
+        entry.style.display = '';
+        entry.classList.remove('active');
+        entry.classList.add('tinted');
+    });
+    return;
+    }
+
+    if (isMatch) {
+      entry.classList.remove('tinted');
+      entry.classList.add('active');
+    } else {
+      entry.classList.remove('active');
+      entry.classList.add('tinted');
+    }
+  });
+});
+
+
 renderCards();

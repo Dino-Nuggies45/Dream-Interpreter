@@ -52,6 +52,7 @@ window.addEventListener("DOMContentLoaded", () => {
       saveToJournal(foundKeyword || "random", tone, message);
     }, 1200);
   });
+  
 
   function formatDreamText(text) {
     const trimmed = text.trim();

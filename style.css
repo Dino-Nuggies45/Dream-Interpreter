@@ -232,3 +232,17 @@ body {
   font-size: 1em;
   line-height: 1.5;
 }
+
+#searchInput {
+  width: 100%;
+  max-width: 400px;
+  padding: 0.6em 1em;
+  margin: 1em auto 2em;
+  display: block;
+  border-radius: 12px;
+  font-size: 1rem;
+  background: #0c1731;
+  color: #a0d4ff;
+  border: 1px solid #4a6eff;
+  box-shadow: 0 0 8px #4a6eff88;
+}

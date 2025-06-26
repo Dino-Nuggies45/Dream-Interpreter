@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="cards.css" />
 </head>
 <body>
+    <input type="text" id="searchInput" placeholder="Search for a dream card..."/>
     <audio id="flipSound" src="Card-flip.mp3"></audio>
     <audio id="bgMusic" src="rainyday.mp3" loop autoplay></audio>
     <a href="index.html" class="back-link">Return to Oracle</a>
@@ -21,5 +22,33 @@
     </main>
     <script src="keywords.js"></script>
     <script src="cards.js"></script>
+    <script>
+            const music = document.getElementById('bgMusic');
+            music.volume = localStorage.getItem('musicVolume') || 0.2;
+
+           
+            music.currentTime = parseFloat(localStorage.getItem('musicTime')) || 0;
+
+            
+            setInterval(() => {
+            localStorage.setItem('musicTime', music.currentTime);
+            }, 2000);
+
+            
+            const toggleBtn = document.createElement('button');
+            toggleBtn.textContent = localStorage.getItem('musicMuted') === 'true' ? '🔇' : '🔊';
+            toggleBtn.classList.add('music-toggle');
+            toggleBtn.style.position = 'fixed';
+            toggleBtn.style.top = '10px';
+            toggleBtn.style.right = '10px';
+            toggleBtn.style.zIndex = '999';
+            document.body.appendChild(toggleBtn);
+
+            toggleBtn.addEventListener('click', () => {
+            const muted = music.muted = !music.muted;
+            toggleBtn.textContent = muted ? '🔇' : '🔊';
+            localStorage.setItem('musicMuted', muted);
+            });
+        </script>
 </body>
 </html>
