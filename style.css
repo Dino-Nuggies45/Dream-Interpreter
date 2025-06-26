@@ -5,9 +5,6 @@ body {
     background: radial-gradient(ellipse at center, #0b1a33, #000010);
     color: #eee;
     font-family: 'Spectral', serif;
-    display: flex;
-    justify-content: center;
-    align-items: center;
     min-height: 100vh;
     padding: 2rem;
     text-align: center;
@@ -15,10 +12,12 @@ body {
 
 .container{
     max-width: 600px;
-    background: rgba(15, 23, 43, 0.85);
+    margin: 3em auto;
     padding: 2rem;
+    background: rgba(15, 23, 43, 0.85);
     border-radius: 15px;
-    box-shadow: 0  0 20px 5px #4a6eff99;
+    box-shadow: 0 0 20px 5px #4a6eff99;
+    text-align: center;
 }
 
 h1 {
@@ -169,6 +168,7 @@ body {
 .top-bar {
   display: flex;
   justify-content: center;
+  align-items: center;
   gap: 1em;
   padding: 1em;
   background: rgba(0, 0, 30, 0.6);
@@ -176,6 +176,7 @@ body {
   top: 0;
   z-index: 100;
   backdrop-filter: blur(6px);
+  text-align: center;
 }
 
 
