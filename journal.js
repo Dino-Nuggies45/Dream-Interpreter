@@ -41,23 +41,4 @@ function convertToTxt(entries) {
     }).join("\n\n");
 }
 
-document.getElementById('exportTxt').addEventListener('click', () => exportJournal('txt'));
-document.getElementById('exportJson').addEventListener('click', () => exportJournal('json'));
-
-const bgMusic = document.getElementById('bgMusic');
-const muteBtn = document.getElementById('muteBtn');
-
-
-if (localStorage.getItem('muted') === 'true') {
-  bgMusic.muted = true;
-  muteBtn.textContent = '🔇';
-}
-
-
-muteBtn.addEventListener('click', () => {
-  bgMusic.muted = !bgMusic.muted;
-  muteBtn.textContent = bgMusic.muted ? '🔇' : '🔊';
-  localStorage.setItem('muted', bgMusic.muted);
-});
-
 loadJournal();
