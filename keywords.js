@@ -494,6 +494,141 @@ const interpretations = {
     "This sacred withdrawal invites reflection and healing, a quiet space where the soul prepares for reemergence.",
     "Hiding is the gentle pause of protection, a necessary rest in the cycles of vulnerability and growth."
   ],
+  lantern: [
+    "A flicker of hope guiding you through confusion.",
+    "A memory you’re trying not to forget.",
+    "The light you carry for others, even in your own darkness."
+  ],
+  feather: [
+    "A message from something unseen and gentle.",
+    "The burden you finally let go of.",
+    "A fragile truth floating between moments."
+  ],
+  clock: [
+    "The weight of something overdue.",
+    "A countdown you can’t name but feel.",
+    "Time folding in on itself—past and future whispering."
+  ],
+  train: [
+    "A path chosen quickly and now hard to leave.",
+    "The momentum of life moving faster than your will.",
+    "A missed opportunity still haunting the station."
+  ],
+  letter: [
+    "Words unsent but still alive in you.",
+    "An answer you've long awaited from within.",
+    "Communication delayed by fear or fate."
+  ],
+  mirror: [
+    "A confrontation with your truest self.",
+    "The way others perceive you—warped or clear.",
+    "A portal between who you are and who you could be."
+  ],
+  perfume: [
+    "A lingering emotion you can’t quite place.",
+    "A memory sweetened by time.",
+    "An invisible presence influencing your thoughts."
+  ],
+  bridge: [
+    "A connection not yet crossed.",
+    "Transition between parts of yourself.",
+    "The decision to move forward or turn back."
+  ],
+  musicbox: [
+    "Innocence trapped in repetition.",
+    "A childhood dream still playing.",
+    "Melodies of the past echoing in the present."
+  ],
+  fog: [
+    "Uncertainty clouding your direction.",
+    "A secret slowly revealing itself.",
+    "Your subconscious protecting you from truth too soon."
+  ],
+  violin: [
+    "An aching beauty left unspoken.",
+    "Grace beneath tension.",
+    "An emotional release through artistry."
+  ],
+  ink: [
+    "Thoughts you’ve hidden in writing.",
+    "A story waiting to be claimed.",
+    "Words that stain, not fade."
+  ],
+  honey: [
+    "Sweetness born from struggle.",
+    "Temptation masked as kindness.",
+    "A reward that slows your pace."
+  ],
+  puppet: [
+    "The feeling of being controlled.",
+    "A role played for too long.",
+    "Strings tied to obligations, not identity."
+  ],
+  throne: [
+    "A desire for power or acceptance.",
+    "The burden of responsibility unspoken.",
+    "Where ego and duty collide."
+  ],
+  wolf: [
+    "An instinct rising within.",
+    "Loyalty wrapped in danger.",
+    "A protector who might bite."
+  ],
+  orchard: [
+    "Potential blooming in silence.",
+    "Memories rooted in a fertile place.",
+    "A harvest delayed by fear."
+  ],
+  inkwell: [
+    "Creativity brimming just below the surface.",
+    "A well of untold truths.",
+    "Potential unpoured."
+  ],
+  tower: [
+    "Isolation by design or defense.",
+    "A view from above, detached yet clear.",
+    "A structure built to protect... or trap."
+  ],
+  wing: [
+    "A longing to escape.",
+    "Divine protection unseen.",
+    "Freedom born from pain."
+  ],
+  door: [
+    "An opportunity barely noticed.",
+    "A choice you must open alone.",
+    "Boundaries you’re ready to cross."
+  ],
+  stairwell: [
+    "A slow ascent into knowing.",
+    "The descent into a forgotten version of yourself.",
+    "Progress through repetition."
+  ],
+  desert: [
+    "Emptiness that speaks volumes.",
+    "A trial of endurance and clarity.",
+    "Solitude as a teacher."
+  ],
+  vine: [
+    "Connection turning into entanglement.",
+    "Growth that twists around you.",
+    "Beauty that requires pruning."
+  ],
+  coral: [
+    "Fragility protected by sharpness.",
+    "Life flourishing in hidden depths.",
+    "Community built in silence."
+  ],
+  eclipse: [
+    "Truth momentarily obscured.",
+    "A rare alignment of fate.",
+    "Light swallowed to reveal something deeper."
+  ],
+  telescope: [
+    "Curiosity reaching toward the unknown.",
+    "Seeing far but feeling distant.",
+    "Desire without touch."
+  ],
 
 }
 
@@ -993,5 +1128,205 @@ window.dreamKeywords = {
     emoji: "🙈",
     positive: "Protection, introspection, boundaries.",
     negative: "Fear, denial, emotional withdrawal."
+  },
+  lantern: {
+    emoji: "🏮",
+    positive: "Guidance, clarity, inner light.",
+    negative: "False hope, hesitation, illusion of control."
+  },
+  feather: {
+    emoji: "🪶",
+    positive: "Lightness, peace, spiritual connection.",
+    negative: "Fragility, instability, scattered thoughts."
+  },
+  clock: {
+    emoji: "⏰",
+    positive: "Awareness of time, urgency, motivation.",
+    negative: "Pressure, fear of aging, wasted opportunities."
+  },
+  stairs: {
+    emoji: "🪜",
+    positive: "Growth, ascension, moving forward.",
+    negative: "Struggle, obstacles, downward spirals."
+  },
+  maze: {
+    emoji: "🌀",
+    positive: "Complexity, introspection, puzzles to solve.",
+    negative: "Confusion, entrapment, anxiety."
+  },
+  mirror: {
+    emoji: "🪞",
+    positive: "Self-reflection, clarity, self-awareness.",
+    negative: "Distortion, insecurity, denial."
+  },
+  mask: {
+    emoji: "🎭",
+    positive: "Adaptability, protection, roleplay.",
+    negative: "Deceit, hiding true self, fear of exposure."
+  },
+  boat: {
+    emoji: "⛵",
+    positive: "Journey, emotional resilience, movement.",
+    negative: "Directionlessness, instability, isolation."
+  },
+  bridge: {
+    emoji: "🌉",
+    positive: "Connection, transition, crossing over.",
+    negative: "Fear of change, uncertainty, broken links."
+  },
+  eclipse: {
+    emoji: "🌑",
+    positive: "Mystery, cycles, hidden truths.",
+    negative: "Suppression, obscurity, shadowed emotion."
+  },
+  wings: {
+    emoji: "🪽",
+    positive: "Freedom, hope, divine guidance.",
+    negative: "Escape, avoidance, lost direction."
+  },
+  candle: {
+    emoji: "🕯️",
+    positive: "Hope, devotion, gentle insight.",
+    negative: "Fading energy, isolation, dim awareness."
+  },
+  vines: {
+    emoji: "🌿",
+    positive: "Growth, support, natural bonds.",
+    negative: "Entrapment, over-dependence, stagnation."
+  },
+  tower: {
+    emoji: "🏰",
+    positive: "Perspective, strength, solitude.",
+    negative: "Isolation, distance, fear of falling."
+  },
+  puppet: {
+    emoji: "🪆",
+    positive: "Performance, innocence, curiosity.",
+    negative: "Manipulation, lack of control, emptiness."
+  },
+  fog: {
+    emoji: "🌫️",
+    positive: "Mystery, protection, quiet reflection.",
+    negative: "Confusion, lack of clarity, disorientation."
+  },
+  desert: {
+    emoji: "🏜️",
+    positive: "Endurance, solitude, cleansing.",
+    negative: "Emptiness, thirst for connection, burnout."
+  },
+  library: {
+    emoji: "📚",
+    positive: "Wisdom, learning, introspection.",
+    negative: "Overthinking, information overload, paralysis."
+  },
+  train: {
+    emoji: "🚆",
+    positive: "Momentum, routine, progression.",
+    negative: "Lack of control, missed opportunities, conformity."
+  },
+  moon: {
+    emoji: "🌙",
+    positive: "Intuition, emotion, the unknown.",
+    negative: "Illusion, instability, mood swings."
+  },
+  hallway: {
+    emoji: "🏚️",
+    positive: "Transition, anticipation, unfolding paths.",
+    negative: "Uncertainty, feeling lost, endless search."
+  },
+  storm: {
+    emoji: "🌩️",
+    positive: "Cleansing, release, raw emotion.",
+    negative: "Chaos, inner turmoil, conflict."
+  },
+  bed: {
+    emoji: "🛏️",
+    positive: "Rest, comfort, vulnerability.",
+    negative: "Avoidance, laziness, helplessness."
+  },
+  birdcage: {
+    emoji: "🪺",
+    positive: "Security, structure, careful containment.",
+    negative: "Trapped freedom, stagnation, unfulfilled desires."
+  },
+  painting: {
+    emoji: "🖼️",
+    positive: "Creativity, vision, personal truth.",
+    negative: "Facade, nostalgia, self-doubt."
+  },
+  spiral: {
+    emoji: "🌀",
+    positive: "Growth, inner journey, cosmic rhythm.",
+    negative: "Repetition, loss of focus, descent."
+  },
+  forest: {
+    emoji: "🌲",
+    positive: "Mystery, abundance, adventure.",
+    negative: "Fear of the unknown, being lost, avoidance."
+  },
+  key: {
+    emoji: "🗝️",
+    positive: "Access, opportunity, hidden knowledge.",
+    negative: "Secrets, gatekeeping, locked emotion."
+  },
+  clocktower: {
+    emoji: "🕰️",
+    positive: "Legacy, synchronicity, structure.",
+    negative: "Rigidity, impending doom, missed time."
+  },
+  snowfall: {
+    emoji: "❄️",
+    positive: "Purity, peace, new beginnings.",
+    negative: "Emotional numbness, isolation, stagnation."
+  },
+  book: {
+    emoji: "📖",
+    positive: "Discovery, narrative, personal truth.",
+    negative: "Missed messages, unread memories, confusion."
+  },
+  chain: {
+    emoji: "⛓️",
+    positive: "Connection, strength, commitment.",
+    negative: "Bondage, burden, codependency."
+  },
+  garden: {
+    emoji: "🌼",
+    positive: "Healing, nurturing, internal growth.",
+    negative: "Neglect, overgrowth, distractions."
+  },
+  maskroom: {
+    emoji: "🥸",
+    positive: "Variety, choice, protection.",
+    negative: "Identity loss, deceit, loneliness."
+  },
+  staircase: {
+    emoji: "🛗",
+    positive: "Progress, elevation, rise above.",
+    negative: "Fear of falling, slow advancement, pressure."
+  },
+  whale: {
+    emoji: "🐋",
+    positive: "Wisdom, emotional depth, cosmic connection.",
+    negative: "Overwhelm, fear of depth, isolation."
+  },
+  balloon: {
+    emoji: "🎈",
+    positive: "Joy, release, childlike wonder.",
+    negative: "Loss of control, emptiness, escape."
+  },
+  ice: {
+    emoji: "🧊",
+    positive: "Clarity, stillness, preservation.",
+    negative: "Emotional freezing, barriers, lack of warmth."
+  },
+  cave: {
+    emoji: "🕳️",
+    positive: "Retreat, grounding, ancient wisdom.",
+    negative: "Hiding, fear, regression."
+  },
+  telescope: {
+    emoji: "🔭",
+    positive: "Vision, insight, future planning.",
+    negative: "Distance, longing, illusion of control."
   },
 };
