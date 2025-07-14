@@ -325,7 +325,7 @@ const interpretations = {
     "Twin is the dance of echoes and opposites, the sacred symmetry that shapes identity and invites reconciliation within"
   ],
   shadow: [
-    "The silent shape that follows and reveals, shadow holds the hidden parts of self — both fear and strength intertwined in darkness.",
+    "The silent shape that follows and reveals, shadow holds the hidden parts of self both fear and strength intertwined in darkness.",
     "This elusive presence invites exploration of the unknown depths, urging the dreamer to embrace what lies beneath the surface.",
     "Shadow is the sacred partner of light, a necessary balance that teaches resilience and the fullness of being."
   ],
@@ -494,143 +494,178 @@ const interpretations = {
     "This sacred withdrawal invites reflection and healing, a quiet space where the soul prepares for reemergence.",
     "Hiding is the gentle pause of protection, a necessary rest in the cycles of vulnerability and growth."
   ],
-  lantern: [
-    "A flicker of hope guiding you through confusion.",
-    "A memory you’re trying not to forget.",
-    "The light you carry for others, even in your own darkness."
+    lantern: [
+    "A lantern flickers in the void, casting fragile light into the unknown a symbol of inner guidance that dares to illuminate what lies beneath doubt.",
+    "To dream of a lantern is to carry wisdom through darkness, a beacon of clarity amid shifting shadows of uncertainty.",
+    "It whispers: even the smallest light can soften the night hope glowing against despair, clarity unfolding one step at a time."
   ],
   feather: [
-    "A message from something unseen and gentle.",
-    "The burden you finally let go of.",
-    "A fragile truth floating between moments."
+    "The feather drifts without weight, a divine message that serenity and softness can lead where force cannot.",
+    "It is a breath from another world, a sign of release, of letting go without fear, of choosing lightness over burden.",
+    "Feathers fall when we are meant to rise they call us to stillness, to float gently above our worries and trust the wind."
   ],
   clock: [
-    "The weight of something overdue.",
-    "A countdown you can’t name but feel.",
-    "Time folding in on itself—past and future whispering."
+    "Time ticks with relentless rhythm a clock dreams of urgency, cycles, and the fragile boundaries of now.",
+    "Its face shows mortality’s mirror: what have we done, what will we do, and are we chasing or becoming?",
+    "The dream-clock tolls with quiet gravity, asking if we truly listen to the hours we spend or merely survive them."
   ],
-  train: [
-    "A path chosen quickly and now hard to leave.",
-    "The momentum of life moving faster than your will.",
-    "A missed opportunity still haunting the station."
+  stairs: [
+    "Stairs spiral like thoughts, inviting ascent into understanding or descent into forgotten realms of the self.",
+    "To climb is to grow step by step while descent can mean return, surrender, or facing buried truths.",
+    "A staircase in dreams is never still; it echoes movement, ambition, fear, and the longing to reach or escape."
   ],
-  letter: [
-    "Words unsent but still alive in you.",
-    "An answer you've long awaited from within.",
-    "Communication delayed by fear or fate."
+  maze: [
+    "The maze surrounds you with mystery every path a question, every turn a test of inner knowing.",
+    "It speaks to the complexity of the mind and heart, where clarity hides behind choices and persistence.",
+    "A maze is not meant to trap, but to teach: the only way forward is through confusion and into discovery."
   ],
   mirror: [
-    "A confrontation with your truest self.",
-    "The way others perceive you—warped or clear.",
-    "A portal between who you are and who you could be."
+    "A mirror in dreams holds not just reflection, but confrontation a moment of truth in still glass.",
+    "It may reveal your hidden self, the face behind the face, or the mask you no longer need.",
+    "Mirrors ask us to witness without fear to see clearly what we are, have been, and could become."
   ],
-  perfume: [
-    "A lingering emotion you can’t quite place.",
-    "A memory sweetened by time.",
-    "An invisible presence influencing your thoughts."
+  mask: [
+    "The mask smiles, weeps, and guards a symbol of protection, performance, and identity lost or found.",
+    "Dreaming of a mask is the soul’s whisper: what are you hiding from, and what might you become without the disguise?",
+    "It can be armor or illusion a role chosen or forced revealing the dance between authenticity and fear."
+  ],
+  boat: [
+    "A boat rocks upon the dream sea, carrying your spirit across emotional currents and subconscious tides.",
+    "It may guide you toward healing shores or leave you drifting, unsure of destination but unwilling to anchor.",
+    "To dream of a boat is to confront motion and surrender trusting the journey more than the direction."
   ],
   bridge: [
-    "A connection not yet crossed.",
-    "Transition between parts of yourself.",
-    "The decision to move forward or turn back."
+    "Bridges span the chasm between now and next, dream and waking, fear and freedom.",
+    "They are thresholds to cross is to change, to pause is to ponder what holds you back.",
+    "A bridge dreamed is a decision dreamed do you go forward, return, or stay suspended above uncertainty?"
   ],
-  musicbox: [
-    "Innocence trapped in repetition.",
-    "A childhood dream still playing.",
-    "Melodies of the past echoing in the present."
+  wings: [
+    "Wings unfurl not just to fly, but to remind you that the sky is closer than you believe freedom blooming from within.",
+    "To dream of wings is to yearn for transcendence, the soul aching to rise beyond its limits, to soar beyond what has held it down.",
+    "Wings are a whisper from your higher self a reminder that courage is flight and that hope knows no gravity."
+  ],
+  candle: [
+    "A candle burns with silent devotion, a flame against the void tender light in a world of shadows.",
+    "It speaks of vigil, of warmth, of a truth that endures even when the winds of change howl loud.",
+    "To dream of a candle is to carry a wish, a memory, or a spirit gently glowing, never gone."
+  ],
+  vines: [
+    "Vines twist and climb like thoughts dreams that root, entangle, or cradle depending on your trust in growth.",
+    "They may represent connection or captivity, showing where you've grown or where you're being held back.",
+    "Vines in dreams ask: what are you nurturing? And what have you let grow around you that now shapes your path?"
+  ],
+  cave: [
+    "A cave beckons inward, a hollow carved by time the sacred unknown where dreams are both buried and born.",
+    "To dream of a cave is to meet solitude, to hear your echo and know it speaks your truth.",
+    "It is a descent into the self a dark place, yes but one that offers deep healing and discovery."
   ],
   fog: [
-    "Uncertainty clouding your direction.",
-    "A secret slowly revealing itself.",
-    "Your subconscious protecting you from truth too soon."
+    "Fog drapes the world in soft unknowing a veil between clarity and chaos.",
+    "To dream in fog is to wander through the liminal the space between decision and doubt.",
+    "It reminds you that mystery is not always danger sometimes the path is hidden until you are ready to see it."
   ],
-  violin: [
-    "An aching beauty left unspoken.",
-    "Grace beneath tension.",
-    "An emotional release through artistry."
+  clocktower: [
+    "A clocktower rises over your dreamscape, watching a sentinel of time, memory, and the pressure of becoming.",
+    "It signals urgency or patience, asking: are you counting the minutes, or living them?",
+    "To dream of a clocktower is to hear time’s heartbeat echo through your soul steady, inevitable, and full of choice."
   ],
-  ink: [
-    "Thoughts you’ve hidden in writing.",
-    "A story waiting to be claimed.",
-    "Words that stain, not fade."
+  fire: [
+    "Fire roars in the dream like passion unleashed destruction, yes, but also the forging of the self anew.",
+    "It burns away illusion and fear, leaving only essence behind what cannot burn, remains.",
+    "To dream of fire is to awaken desire, truth, and fierce transformation it is not the end, but the beginning after."
   ],
-  honey: [
-    "Sweetness born from struggle.",
-    "Temptation masked as kindness.",
-    "A reward that slows your pace."
+  forest: [
+    "A forest grows within wild, ancient, untamed where instinct walks beside wonder.",
+    "To dream of trees is to meet your primal self, the one who remembers what peace smells like in moss and rain.",
+    "The forest is sanctuary and test, healing and haunting it asks: will you get lost, or will you find something worth keeping?"
   ],
-  puppet: [
-    "The feeling of being controlled.",
-    "A role played for too long.",
-    "Strings tied to obligations, not identity."
+  ice: [
+    "Ice seals away emotion, clarity trapped in stillness a dream of pause, of protection, or of being frozen by fear.",
+    "It may mean numbness or survival beauty locked in cold restraint until warmth returns.",
+    "To dream of ice is to confront what lies beneath the feelings buried, the thaw waiting to come."
   ],
-  throne: [
-    "A desire for power or acceptance.",
-    "The burden of responsibility unspoken.",
-    "Where ego and duty collide."
+  wingspan: [
+    "Your wingspan is the measure of your readiness to embrace to hold, to carry, to soar beyond self-doubt.",
+    "In dreams, it symbolizes potential: how wide can you open, how far are you willing to go?",
+    "To dream of your own wingspan is to remember the space you take up matters and you are meant to stretch fully into it."
   ],
-  wolf: [
-    "An instinct rising within.",
-    "Loyalty wrapped in danger.",
-    "A protector who might bite."
-  ],
-  orchard: [
-    "Potential blooming in silence.",
-    "Memories rooted in a fertile place.",
-    "A harvest delayed by fear."
-  ],
-  inkwell: [
-    "Creativity brimming just below the surface.",
-    "A well of untold truths.",
-    "Potential unpoured."
-  ],
-  tower: [
-    "Isolation by design or defense.",
-    "A view from above, detached yet clear.",
-    "A structure built to protect... or trap."
-  ],
-  wing: [
-    "A longing to escape.",
-    "Divine protection unseen.",
-    "Freedom born from pain."
+  storm: [
+    "A storm tears through the sky with electric truth a wild call for release, confrontation, and cleansing.",
+    "To dream of thunder and lightning is to awaken the soul’s alarm clock roaring through your fears.",
+    "Storms don’t come to break you, they come to clear the path sometimes chaos is the greatest act of mercy."
   ],
   door: [
-    "An opportunity barely noticed.",
-    "A choice you must open alone.",
-    "Boundaries you’re ready to cross."
+    "A door stands between choice and consequence, past and future always asking if you’ll open or walk away.",
+    "To dream of doors is to meet transition, to stand at the edge of something and decide who you will be next.",
+    "Every door in dreams is a question the kind only courage can answer."
   ],
-  stairwell: [
-    "A slow ascent into knowing.",
-    "The descent into a forgotten version of yourself.",
-    "Progress through repetition."
+  glass: [
+    "Glass in dreams is fragile clarity the beauty of transparency, and the danger of being too exposed.",
+    "It may reflect or shatter, show truth or distort it revealing what lies beyond or within.",
+    "To dream of glass is to walk carefully with your own vulnerability not as a weakness, but as light unguarded."
   ],
-  desert: [
-    "Emptiness that speaks volumes.",
-    "A trial of endurance and clarity.",
-    "Solitude as a teacher."
+  rose: [
+    "The rose blooms in dreams with silent poetry love, grief, beauty, and thorns all entwined.",
+    "It may be a gift, a goodbye, or a memory refusing to fade what matters is the meaning you assign its petals.",
+    "Roses remind us that tenderness and pain often share the same stem."
   ],
-  vine: [
-    "Connection turning into entanglement.",
-    "Growth that twists around you.",
-    "Beauty that requires pruning."
+  river: [
+    "A river rushes through your dream with purpose the soul’s current, always flowing, always changing.",
+    "It carries you from one phase to the next, asking only that you let go and trust its rhythm.",
+    "To dream of a river is to meet emotion in motion it can soothe, sweep, or baptize your new self."
   ],
-  coral: [
-    "Fragility protected by sharpness.",
-    "Life flourishing in hidden depths.",
-    "Community built in silence."
+  ink: [
+    "Ink spills across the dream like memory in motion a sign that something must be written, recorded, remembered.",
+    "It represents voice and permanence, the act of declaring yourself even in shadows.",
+    "To dream of ink is to dream of power your words etched in the unseen world."
   ],
-  eclipse: [
-    "Truth momentarily obscured.",
-    "A rare alignment of fate.",
-    "Light swallowed to reveal something deeper."
+  well: [
+    "A well sinks deep a symbol of wisdom, hidden emotion, and the soul’s quiet reservoirs.",
+    "To dream of a well is to be asked: will you lower the bucket? Will you drink what waits within?",
+    "It offers depth not surface and reminds you that sometimes, stillness holds the most answers."
   ],
-  telescope: [
-    "Curiosity reaching toward the unknown.",
-    "Seeing far but feeling distant.",
-    "Desire without touch."
+  compass: [
+    "The compass turns in dreamlike circles, seeking true north even when you feel lost.",
+    "It is guidance born from instinct the inner pull that never truly lets you go astray.",
+    "To dream of a compass is to reclaim direction not where others say you should go, but where your spirit longs to lead."
   ],
+  gate: [
+    "A gate appears not as a barrier, but as a moment of invitation, of hesitation, of crossing into the new.",
+    "It stands between what has been and what could be, asking if you’re ready to step forward.",
+    "Gates in dreams are always thresholds the soul's quiet test of readiness."
+  ],
+  snowfall: [
+    "Snow falls with dreamlike hush a quiet blanket over noise, regret, and chaos.",
+    "It represents cleansing, dormancy, and the magic of new beginnings hidden in silence.",
+    "To dream of snowfall is to be wrapped in stillness, reminded that growth happens even under frost."
+  ],
+  seed: [
+    "A seed waits in the soil of your dream small but bursting with infinite becoming.",
+    "It reminds you that great things grow slowly, unseen at first, needing time and trust.",
+    "Dreaming of a seed is dreaming of potential pure, untamed, and yours to nurture."
+  ],
+  ladder: [
+    "A ladder rises toward somewhere unknown each rung a choice, a risk, a hope.",
+    "It invites elevation not to escape, but to see from higher ground.",
+    "To dream of a ladder is to be offered ascent and asked if you're willing to climb."
+  ],
+  shell: [
+    "A shell whispers of oceans past protection, memory, and echoes of your own voice.",
+    "It may be armor or treasure hollowed from pain, yet beautiful in its survival.",
+    "To dream of a shell is to remember that soft things often hide within strength."
+  ],
+  violin: [
+    "A violin plays your soul’s soundtrack grief, joy, longing in strings drawn tight and full of feeling.",
+    "It is harmony and heartbreak at once every note a confession left unsaid.",
+    "To dream of a violin is to remember you are music aching, alive, and always playing."
+  ],
+  lock: [
+    "A lock guards what you’re not ready to see or share secrets, safety, or even power held back.",
+    "It can represent boundaries or fears, depending on whether you seek the key or fear what's inside.",
+    "To dream of a lock is to ask yourself what you’ve closed off and why."
+  ],
+};
 
-}
 
 
 window.dreamKeywords = {
@@ -1173,11 +1208,6 @@ window.dreamKeywords = {
     emoji: "🌉",
     positive: "Connection, transition, crossing over.",
     negative: "Fear of change, uncertainty, broken links."
-  },
-  eclipse: {
-    emoji: "🌑",
-    positive: "Mystery, cycles, hidden truths.",
-    negative: "Suppression, obscurity, shadowed emotion."
   },
   wings: {
     emoji: "🪽",
