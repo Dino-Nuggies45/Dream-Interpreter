@@ -664,6 +664,7 @@ const interpretations = {
     "It can represent boundaries or fears, depending on whether you seek the key or fear what's inside.",
     "To dream of a lock is to ask yourself what you’ve closed off and why."
   ],
+  
 };
 
 
