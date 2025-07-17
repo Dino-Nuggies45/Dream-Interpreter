@@ -664,7 +664,126 @@ const interpretations = {
     "It can represent boundaries or fears, depending on whether you seek the key or fear what's inside.",
     "To dream of a lock is to ask yourself what you’ve closed off and why."
   ],
-  
+lynx: [
+    "The lynx is the silent guardian of mystery, padding softly through the forest of forgotten truths. Its eyes pierce illusion, inviting you to trust the voice within that already knows the answer.",
+    "To dream of the lynx is to walk beside secrets your own and others'. It is a symbol of deep intuition, urging you to listen without needing explanation.",
+    "The lynx teaches you to observe without interference, to move in stillness, and to wait until clarity unveils itself with quiet certainty."
+  ],
+  jellyfish: [
+    "The jellyfish is a translucent dancer in shifting tides, a creature of both vulnerability and sting. Its movement through water speaks of surrender graceful, soft, yet edged with defense.",
+    "To see a jellyfish in dreams suggests emotional transparency and the delicate balance between openness and protection.",
+    "It drifts through unseen currents, reminding you that not all movement is visible, and not all power wears armor."
+  ],
+  salamander: [
+    "The salamander survives the flame, re-emerging from ashes with quiet certainty. It is the alchemist of the self, enduring transformation by trusting its core.",
+    "A salamander in your dream symbolizes personal rebirth and resistance to destruction. Fire does not consume you it tempers your truth.",
+    "It asks you to honor the changes that burn but do not break, and to claim the resilience forged from trial."
+  ],
+  raven: [
+    "The raven croaks at twilight, black-winged oracle of endings and beginnings. It carries omens in its feathers and riddles in its gaze.",
+    "In dreams, the raven signals messages from beyond logic from ancestors, shadow selves, or the hidden future.",
+    "It invites you to speak with mystery, to find power in the unknown, and to let silence become a language of its own."
+  ],
+  koi: [
+    "The koi swims upstream, vibrant against the current, a symbol of tenacity and grace in adversity.",
+    "Dreaming of koi invites you to consider your journey how you move with purpose even when it defies ease.",
+    "It is the dream’s reminder that inner peace and perseverance often dwell together, flowing beneath the surface."
+  ],
+  chameleon: [
+    "The chameleon adapts, shifting hues with its surroundings, mastering the art of presence without permanence.",
+    "To see it in dreams is to confront your masks how you shift for safety, survival, or approval.",
+    "It reminds you that true adaptability comes not from hiding, but from embracing your many colors as valid and whole."
+  ],
+  fox: [
+    "The fox weaves between shadows and moonlight, a messenger of wit, strategy, and quiet confidence.",
+    "In dreams, the fox speaks in riddles, offering insight wrapped in mystery teaching you to trust your cleverness but question your motives.",
+    "It urges you to know when to speak, when to act, and when to vanish into the underbrush."
+  ],
+  octopus: [
+    "The octopus stretches into the unknown, all arms feeling through murky emotion and submerged thought.",
+    "Its presence in dreams calls you to examine your flexibility and the pieces of yourself you extend to others.",
+    "It is the shapeshifter of the deep, telling you to own your complexity, even when it confuses or contradicts."
+  ],
+  crane: [
+    "The crane stands tall among reeds and wind, still yet always ready to lift into air. It is a keeper of balance, grace, and the long path of the soul.",
+    "Dreaming of cranes invites patience, wisdom, and the belief that elevation does not require speed.",
+    "It is the teacher of quiet progress the journey that unfolds with each careful, deliberate step."
+  ],
+  pangolin: [
+    "The pangolin curls into itself, a gentle creature clad in armor, teaching the lesson of softness within strength.",
+    "To dream of a pangolin is to be reminded of healthy boundaries what you protect, and how you allow yourself to be seen.",
+    "It shows you that defense need not be aggression, and vulnerability is not weakness when paired with discernment."
+  ],
+  sloth: [
+    "The sloth lives in the slow rhythm of leaves and dreams, showing you the power of unhurried presence.",
+    "In dreams, it speaks to the parts of you that need rest not out of laziness, but out of sacred necessity.",
+    "It reminds you that stillness can be strength, and peace is sometimes the most radical choice."
+  ],
+  orca: [
+    "The orca sings through oceanic depths, an echo of ancestral memory and collective wisdom.",
+    "To dream of orcas is to touch the primal within the voice that remembers before birth, the emotion that ripples beneath logic.",
+    "They bring connection, community, and the courage to swim with power through vast emotional seas."
+  ],
+  armadillo: [
+    "The armadillo carries its fortress upon its back, moving steadily with care and caution.",
+    "In dreams, it appears when you are learning to shield yourself not to hide, but to move safely through emotional terrain.",
+    "It teaches protection that isn’t fear, and solitude that isn’t loneliness."
+  ],
+  tarantula: [
+    "The tarantula weaves its web not in haste, but with ritual. It is the architect of intention and patience.",
+    "Dreaming of tarantulas is a call to sit with discomfort and observe your fears rather than flee them.",
+    "It reminds you that even the darkest instincts have purpose and that your path is one you spin, thread by thread."
+  ],
+  axolotl: [
+    "The axolotl swims in still, mysterious waters, forever youthful and resilient in its quiet regeneration.",
+    "It calls you to reclaim innocence not as ignorance, but as openness to growth without fear.",
+    "To dream of it is to be reminded that healing is possible, even when transformation seems incomplete."
+  ],
+  bison: [
+    "The bison roams ancient plains, sacred and unyielding, carrying the memory of survival in every step.",
+    "Its dream presence speaks of endurance, strength, and connection to ancestral grounding.",
+    "It tells you to honor your roots while stepping forward with unwavering power."
+  ],
+  bat: [
+    "The bat glides through shadows, seeing with sound, trusting unseen paths.",
+    "To dream of bats is to surrender to the unknown to navigate change with senses beyond sight.",
+    "They remind you that darkness is not danger, but a space where intuition finds its voice."
+  ],
+  firefly: [
+    "The firefly blinks like a heart in the dark, ephemeral and dazzling.",
+    "In dreams, it signals hope flickering in despair, moments of magic in sorrow.",
+    "It asks you to follow the small light, even when the world around you forgets how to glow."
+  ],
+  seal: [
+    "The seal dives into dreamlike oceans, where play and depth live side by side.",
+    "Its appearance is an invitation to reconnect with your emotional instincts while keeping joy afloat.",
+    "It teaches you that laughter can be sacred, and softness can be brave."
+  ],
+  wombat: [
+    "The wombat burrows deep into earth, slow and content, creating safety beneath the surface.",
+    "To dream of wombats is to explore the inner sanctum of self your cozy, hidden truths.",
+    "They ask you to build structure that nurtures, and protect what gives you peace."
+  ],
+  nautilus: [
+    "The nautilus spirals through time, wearing the story of its growth in its shell.",
+    "In dreams, it is the sacred geometry of becoming a symbol of past cycles and future unfoldings.",
+    "It teaches you that evolution is not linear, but layered and spiraled through memory and meaning."
+  ],
+   meerkat: [
+    "The meerkat stands alert under the desert sun, a sentinel of the subconscious. In dreams, it symbolizes vigilance, community, and intuitive awareness of danger and opportunity.",
+    "This creature reminds you to stay grounded while keeping your senses open sometimes safety lies in collective wisdom rather than solitary strength.",
+    "To dream of a meerkat is to awaken your inner scout, urging you to observe before acting and protect what truly matters."
+  ],
+  pangolin: [
+    "The pangolin, armored and gentle, rolls inward when threatened. In dreams, it mirrors your emotional defenses and the layers you wrap around tender truths.",
+    "Its presence urges you to discern when to curl inward and when to open to healing. Self-protection is sacred but must not become isolation.",
+    "To dream of a pangolin is to recognize your need for softness beneath your shields, and the strength that comes from vulnerability."
+  ],
+  okapi: [
+    "The okapi walks alone in the shadows of rainforests, half-zebra, half-giraffe mystical and rarely seen. In dreams, it represents duality, rare beauty, and navigating liminal spaces.",
+    "Its quiet grace calls you to honor what makes you different, to trust your own rhythm even when no one is watching.",
+    "Dreaming of an okapi is a reminder that some treasures dwell in the unseen parts of yourself, waiting to be embraced."
+  ],
 };
 
 
