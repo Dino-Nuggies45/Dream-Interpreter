@@ -784,6 +784,116 @@ lynx: [
     "Its quiet grace calls you to honor what makes you different, to trust your own rhythm even when no one is watching.",
     "Dreaming of an okapi is a reminder that some treasures dwell in the unseen parts of yourself, waiting to be embraced."
   ],
+   albatross: [
+    "The albatross soars across oceans without rest, gliding with eerie precision. In dreams, it carries the weight of burdens long carried and the power of endurance beyond comprehension.",
+    "This sacred bird invites you to examine what you've tethered to your soul what weighs you down and what grants you flight.",
+    "To dream of an albatross is to reckon with legacy, guilt, and redemption. What will you release to finally rise?"
+  ],
+  axolotl: [
+    "The axolotl regenerates what is lost limbs, breath, innocence. In dreams, it is a symbol of healing, youthfulness, and miraculous adaptation.",
+    "It calls forth your ability to recover from trauma not by forgetting, but by remaking yourself anew, again and again.",
+    "Dreaming of an axolotl is a reminder that softness is not weakness, and some wounds are not endings they're invitations to grow."
+  ],
+  snowLeopard: [
+    "Elusive and ethereal, the snow leopard lives where few can follow. In dreams, it represents spiritual solitude, grace in extremes, and the quiet pursuit of purpose.",
+    "Its presence reminds you that some paths are sacred precisely because they are lonely. Silence is a guide, not a void.",
+    "To dream of a snow leopard is to be called inward, to rediscover strength not through dominance but elegant stillness."
+  ],
+  shoebill: [
+    "With its prehistoric stare, the shoebill stands unmoving among reeds, embodying stillness, intensity, and the surreal. In dreams, it signals clarity through patience.",
+    "Its frozen posture is not passivity it is the wisdom of striking only when truly aligned. A lesson in the power of timing.",
+    "To dream of the shoebill is to face your own gaze, unblinking. What truths emerge when everything else falls silent?"
+  ],
+  manatee: [
+    "The manatee drifts with gentleness, a sea cow in warm waters. In dreams, it embodies ease, nonviolence, and emotional serenity.",
+    "It asks you to soften, to float instead of fight, to return to the waters where tenderness still exists unscarred.",
+    "Dreaming of a manatee is a balm it whispers of slowness, presence, and the unspoken strength in choosing peace."
+  ],
+  saola: [
+    "The saola, the 'Asian unicorn,' is seen so rarely it's become legend. In dreams, it symbolizes the hidden sacred, the rarest truths within you.",
+    "Its appearance beckons mystery, calling you to honor the parts of your spirit you’ve never let anyone see not even yourself.",
+    "To dream of the saola is to glimpse the divine in secrecy. Some magic is quiet and impossible to chase it must be received."
+  ],
+  ayeAye: [
+    "The aye-aye, with its eerie hand and nocturnal tapping, unsettles and enchants. In dreams, it reveals messages through strangeness and unseen frequencies.",
+    "It dares you to look beyond surface fears and embrace what others reject. Oddity often hides deep intuition.",
+    "To dream of the aye-aye is to listen for truth in the quiet dark when the world sleeps, the spirit speaks."
+  ],
+  narwhal: [
+    "The narwhal, unicorn of the sea, pierces the deep with a single spiral. In dreams, it symbolizes sacred vision, innocence, and intuition honed into truth.",
+    "Its horn is not just weapon but compass, guiding you through emotional depths with grace and wonder.",
+    "Dreaming of a narwhal is a call to believe in beauty without explanation and to follow the wild instinct of your soul’s compass."
+  ],
+  cassowary: [
+    "The cassowary, cloaked in tropical feathers and danger, commands fear and fascination. In dreams, it signals primal instinct, fierce self-protection, and unapologetic presence.",
+    "It teaches you to reclaim the parts of you that defend your sacred ground. Beauty and danger are not opposites they are power in balance.",
+    "To dream of a cassowary is to ignite your inner flame. What are you no longer willing to silence or soften?"
+  ],
+  oryx: [
+    "The oryx strides across dunes with stoic elegance, horns slicing the heat haze. In dreams, it symbolizes endurance, dignity, and surviving desolate seasons with grace.",
+    "Its appearance marks a journey through scarcity, reminding you of the strength found in composure and resilience.",
+    "To dream of the oryx is to walk your path even when the horizon disappears faithful to yourself, unyielding in spirit."
+  ],
+  quokka: [
+    "The quokka beams with unearned joy, embodying optimism that defies logic. In dreams, it is the guardian of light-heartedness and chosen happiness.",
+    "It appears when you forget how to smile for no reason, reminding you that joy is not naive it is revolutionary.",
+    "To dream of a quokka is to awaken the child-self, who still believes tomorrow holds magic because today does too."
+  ],
+  binturong: [
+    "The binturong smells of popcorn and dreams of trees. In dreams, it is comfort, peculiarity, and the peace of simply being enough.",
+    "It lumbers slowly, showing that not all journeys require urgency. Familiarity is sometimes the truest magic.",
+    "To dream of a binturong is to return to yourself, curled among the branches of your quietest longings."
+  ],
+  secretaryBird: [
+    "The secretary bird, with ink-feathered quills and deadly legs, walks where most fly. In dreams, it signifies intellect, execution, and poetic justice.",
+    "Its presence suggests strategy paired with precision your ability to write your fate and stamp out what no longer serves you.",
+    "To dream of the secretary bird is to marry elegance with might, and to strike when the moment writes itself into clarity."
+  ],
+  markhor: [
+    "The markhor climbs where others fall, spiral horns turned skyward. In dreams, it represents ambition, spiritual trials, and grace under pressure.",
+    "Its spiraling ascent reflects your own path through inner mountains every stumble a sacred note in your journey's song.",
+    "To dream of a markhor is to recognize the beauty of difficult growth and the wisdom won only through the climb."
+  ],
+  dikDik: [
+    "The dik-dik, small and swift, disappears in an instant. In dreams, it symbolizes fleeting moments, delicate truths, and quick choices that shape futures.",
+    "Its presence is a whisper: sometimes protection lies in staying light and knowing when to vanish.",
+    "Dreaming of a dik-dik is to embrace the power of brevity the sacredness of small things done with care."
+  ],
+  echidna: [
+    "The echidna curls around its own spikes, ancient and mysterious. In dreams, it signals self-protection, ancestral wisdom, and slow sacred work.",
+    "It moves through the earth, reminding you that even unseen effort builds deep foundations.",
+    "To dream of an echidna is to trust your pace, your instincts, and the strange wisdom inherited in your bloodline."
+  ],
+  serval: [
+    "The serval moves like wind in the grass, agile and unseen. In dreams, it represents agility, elegance, and precision in timing.",
+    "Its spotted coat and oversized ears speak of listening closely and acting when least expected. It is the soul of stealth and beauty.",
+    "To dream of a serval is to sharpen your senses to hear the whispers others miss and leap when the path opens."
+  ],
+  dugong: [
+    "The dugong, cousin of the manatee, drifts through seagrass in silence. In dreams, it is nostalgia, the quiet pull of the past, and forgotten innocence.",
+    "Its eyes reflect longing for simplicity, for a world once whole. It swims gently through memory.",
+    "Dreaming of a dugong is a return to softness, and a permission to grieve gently the things you outgrew but still love."
+  ],
+  genet: [
+    "The genet is a shadow in moonlit trees, slender and swift. In dreams, it is the embodiment of curiosity and the quiet dance with the unknown.",
+    "Its movements suggest mystery not to be solved, but lived each step a riddle, each leap a lesson in grace.",
+    "To dream of a genet is to walk the border between risk and wonder, and to enjoy what you find there."
+  ],
+  hoatzin: [
+    "The hoatzin, a bird of ancient lineage, smells strange and defies classification. In dreams, it symbolizes uniqueness that defies logic and expectations.",
+    "It asks you to embrace your weirdness not in spite of what others say but because that’s what makes you divine.",
+    "To dream of a hoatzin is to love yourself outside of norms and find sacredness in what makes no sense to others."
+  ],
+  ibex: [
+    "The ibex defies gravity, scaling impossible cliffs. In dreams, it is determination, elevation, and the pursuit of higher vision.",
+    "It arrives when you are ready to risk the climb for something greater. The view is earned, not given.",
+    "To dream of an ibex is to remember that you were made for heights and for the silence that greets you at the summit."
+  ],
+  fossa: [
+    "The fossa prowls Madagascar like a secret feline, canine, neither. In dreams, it represents mystery, adaptability, and hidden strength.",
+    "Its appearance asks you to embrace what doesn’t fit into neat categories. Your truth may defy explanation, and that is power.",
+    "To dream of a fossa is to walk boldly into your own ambiguity, unafraid of being misunderstood."
+  ]
 };
 
 
