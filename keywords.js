@@ -1819,4 +1819,5 @@ window.dreamKeywords = {
     positive: "Vigilance, community, intuitive awareness.",
     negative: "Anxiety, hyper-alertness, fear of betrayal."
   },
+  
 };
