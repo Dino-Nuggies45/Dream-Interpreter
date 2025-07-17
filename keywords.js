@@ -1589,4 +1589,234 @@ window.dreamKeywords = {
     positive: "Vision, insight, future planning.",
     negative: "Distance, longing, illusion of control."
   },
+    pangolin: {
+    emoji: "🛡️",
+    positive: "Emotional protection, quiet resilience, inner healing.",
+    negative: "Isolation, guardedness, suppressed emotion."
+  },
+  okapi: {
+    emoji: "🦓",
+    positive: "Mystery, uniqueness, navigating liminality.",
+    negative: "Invisibility, alienation, fear of exposure."
+  },
+  albatross: {
+    emoji: "🕊️",
+    positive: "Endurance, spiritual journey, long-distance insight.",
+    negative: "Emotional weight, burdens, guilt carried too long."
+  },
+  axolotl: {
+    emoji: "🦎",
+    positive: "Regeneration, innocence, miraculous healing.",
+    negative: "Emotional naivety, arrested growth, retreat into fantasy."
+  },
+  snowLeopard: {
+    emoji: "🐆",
+    positive: "Solitude, spiritual grace, power in stillness.",
+    negative: "Isolation, elusiveness, emotional detachment."
+  },
+  shoebill: {
+    emoji: "🪶",
+    positive: "Stillness, timing, penetrating clarity.",
+    negative: "Intimidation, rigidity, stifled emotion."
+  },
+  manatee: {
+    emoji: "🐋",
+    positive: "Peace, ease, gentle emotional flow.",
+    negative: "Passivity, vulnerability, emotional numbness."
+  },
+  saola: {
+    emoji: "🦌",
+    positive: "Sacred rarity, inner magic, hidden potential.",
+    negative: "Elusiveness, avoidance, fear of being seen."
+  },
+  ayeAye: {
+    emoji: "👁️‍🗨️",
+    positive: "Intuition, hidden insight, creative strangeness.",
+    negative: "Superstition, misjudgment, fear of the unknown."
+  },
+  narwhal: {
+    emoji: "🦄",
+    positive: "Vision, emotional depth, innocence in wonder.",
+    negative: "Illusion, over-idealism, lost direction."
+  },
+  cassowary: {
+    emoji: "🦃",
+    positive: "Power, primal instinct, sacred boundaries.",
+    negative: "Aggression, volatility, explosive emotion."
+  },
+  oryx: {
+    emoji: "🐐",
+    positive: "Grace under pressure, persistence, spiritual strength.",
+    negative: "Rigidity, over-discipline, loneliness in hardship."
+  },
+  quokka: {
+    emoji: "😊",
+    positive: "Optimism, joy, resilience through lightness.",
+    negative: "Denial, forced cheer, escapism."
+  },
+  binturong: {
+    emoji: "🌳",
+    positive: "Comfort, contentment, sacred idleness.",
+    negative: "Complacency, laziness, emotional stagnation."
+  },
+  secretaryBird: {
+    emoji: "✍️",
+    positive: "Strategy, justice, action through intellect.",
+    negative: "Cold logic, vengefulness, mental rigidity."
+  },
+  markhor: {
+    emoji: "🌀",
+    positive: "Spiritual elevation, resilience, dignified growth.",
+    negative: "Ego, competitive pressure, harsh self-expectation."
+  },
+  dikDik: {
+    emoji: "🦌",
+    positive: "Delicacy, intuitive protection, sacred quickness.",
+    negative: "Timidity, avoidance, missed opportunities."
+  },
+  echidna: {
+    emoji: "🦔",
+    positive: "Ancient wisdom, self-preservation, sacred solitude.",
+    negative: "Withdrawn energy, resistance to help, stubbornness."
+  },
+  serval: {
+    emoji: "🐆",
+    positive: "Elegance, precision, stealthy awareness.",
+    negative: "Disconnection, arrogance, emotional aloofness."
+  },
+  dugong: {
+    emoji: "🌊",
+    positive: "Nostalgia, emotional softness, remembered joy.",
+    negative: "Emotional regression, clinging to the past, sorrow."
+  },
+  genet: {
+    emoji: "🌒",
+    positive: "Mystery, playful curiosity, liminal grace.",
+    negative: "Restlessness, secrecy, emotional distance."
+  },
+  hoatzin: {
+    emoji: "🦜",
+    positive: "Radical uniqueness, authenticity, divine weirdness.",
+    negative: "Social rejection, insecurity, confusion in identity."
+  },
+  ibex: {
+    emoji: "🏔️",
+    positive: "Determination, balance, high perspective.",
+    negative: "Isolation, burnout, obsessive ambition."
+  },
+  fossa: {
+    emoji: "🌫️",
+    positive: "Fluid identity, flexibility, primal clarity.",
+    negative: "Misunderstanding, evasiveness, self-doubt."
+  },
+  lynx: {
+    emoji: "🐱",
+    positive: "Intuition, secrets revealed, silent wisdom.",
+    negative: "Isolation, suspicion, hidden truths ignored."
+  },
+  jellyfish: {
+    emoji: "🌊",
+    positive: "Grace, emotional flow, softness with strength.",
+    negative: "Vulnerability, stinging words, emotional avoidance."
+  },
+  salamander: {
+    emoji: "🔥",
+    positive: "Regeneration, fireproof spirit, adaptability.",
+    negative: "Burnout, restlessness, forced change."
+  },
+  raven: {
+    emoji: "🪶",
+    positive: "Prophecy, insight, transformation.",
+    negative: "Ominous signs, trickery, unspoken grief."
+  },
+  koi: {
+    emoji: "🐟",
+    positive: "Perseverance, beauty through struggle, harmony.",
+    negative: "Stagnation, frustration, blocked progress."
+  },
+  chameleon: {
+    emoji: "🦎",
+    positive: "Adaptability, perception, strategic presence.",
+    negative: "Loss of identity, insincerity, avoidance."
+  },
+  fox: {
+    emoji: "🦊",
+    positive: "Cleverness, agility, intuition.",
+    negative: "Deceit, trickery, hidden agendas."
+  },
+  octopus: {
+    emoji: "🐙",
+    positive: "Complexity, flexibility, depth of feeling.",
+    negative: "Overextension, confusion, emotional entanglement."
+  },
+  crane: {
+    emoji: "🕊️",
+    positive: "Grace, patience, spiritual elevation.",
+    negative: "Impatience, imbalance, disconnection."
+  },
+  pangolin: {
+    emoji: "🛡️",
+    positive: "Gentle protection, personal boundaries, emotional safety.",
+    negative: "Withdrawn nature, fear of openness, emotional walls."
+  },
+  sloth: {
+    emoji: "🌿",
+    positive: "Peace, rest, sacred stillness.",
+    negative: "Lethargy, apathy, escapism."
+  },
+  orca: {
+    emoji: "🐋",
+    positive: "Emotional power, ancestral strength, communication.",
+    negative: "Isolation, over-emotion, forgotten roots."
+  },
+  armadillo: {
+    emoji: "🦔",
+    positive: "Boundaries, security, quiet strength.",
+    negative: "Defensiveness, withdrawal, lack of openness."
+  },
+  tarantula: {
+    emoji: "🕷️",
+    positive: "Patience, creation, facing fear.",
+    negative: "Anxiety, entrapment, avoidance of discomfort."
+  },
+  axolotl: {
+    emoji: "🌸",
+    positive: "Healing, rebirth, innocence restored.",
+    negative: "Emotional stagnation, delayed growth, arrested change."
+  },
+  bison: {
+    emoji: "🐂",
+    positive: "Strength, heritage, survival.",
+    negative: "Burden, stubbornness, resistance to change."
+  },
+  bat: {
+    emoji: "🦇",
+    positive: "Intuition, trust in darkness, transformation.",
+    negative: "Fear, unseen threats, disorientation."
+  },
+  firefly: {
+    emoji: "✨",
+    positive: "Hope, wonder, brief brilliance.",
+    negative: "Fleeting moments, loss of magic, dimmed spirit."
+  },
+  seal: {
+    emoji: "🌊",
+    positive: "Playfulness, emotional agility, connection.",
+    negative: "Emotional depth avoided, escapism, mood swings."
+  },
+  wombat: {
+    emoji: "🏡",
+    positive: "Comfort, rootedness, inner sanctuary.",
+    negative: "Complacency, emotional hiding, passivity."
+  },
+  nautilus: {
+    emoji: "🐚",
+    positive: "Cycles, memory, sacred growth.",
+    negative: "Stagnation, looping patterns, trapped in the past."
+  },
+  meerkat: {
+    emoji: "🦦",
+    positive: "Vigilance, community, intuitive awareness.",
+    negative: "Anxiety, hyper-alertness, fear of betrayal."
+  },
 };
