@@ -907,12 +907,12 @@ lynx: [
   hideAndSeek: [
     "Hide and seek evokes themes of vulnerability and pursuit, where concealment masks the yearning to be found.",
     "It suggests there are truths you are avoiding or that others are eluding you, hiding in the folds of your subconscious.",
-    "This dream asks you to consider what is hidden—emotionally or spiritually—and what it means to be sought."
+    "This dream asks you to consider what is hidden emotionally or spiritually and what it means to be sought."
   ],
   tag: [
     "Dreaming of tag speaks to fleeting connections and playful avoidance, a dance of touch and retreat.",
     "It reveals a longing for contact, attention, or escape from responsibilities or emotional truths.",
-    "In its chase is a metaphor for pursuit—of goals, of people, of time—ever slipping through your grasp."
+    "In its chase is a metaphor for pursuit of goals, of people, of time ever slipping through your grasp."
   ],
   jigsaw: [
     "A jigsaw puzzle in dreams signifies fragmentation and the desire for clarity, where every piece seeks its belonging in the greater picture.",
@@ -920,7 +920,7 @@ lynx: [
     "To dream of a puzzle is to acknowledge you are searching for understanding, harmony, and the missing part of yourself."
   ],
   boardGame: [
-    "Board games in dreams signify life’s structured challenges—chance versus choice, community versus competition.",
+    "Board games in dreams signify life’s structured challenges chance versus choice, community versus competition.",
     "They reflect how you navigate cooperation, rivalry, and the luck that threads through your every decision.",
     "This symbol suggests you may feel stuck in patterns or are contemplating the fairness of the rules you live by."
   ],
@@ -931,7 +931,7 @@ lynx: [
   ],
   twister: [
     "Twister embodies flexibility and discomfort, the emotional knots we bend into to please or adapt.",
-    "It reflects entanglements—romantic, familial, or personal—that stretch us to our limits.",
+    "It reflects entanglements romantic, familial, or personal that stretch us to our limits.",
     "This dream calls out physical vulnerability and emotional awkwardness, urging balance and honesty in your movements."
   ],
   videoGame: [
@@ -942,7 +942,7 @@ lynx: [
   Tetris: [
     "Tetris speaks of overwhelming pressure to organize chaos, where life’s pieces fall faster than you can place them.",
     "It suggests anxiety over order, perfectionism, and the relentless pace of your waking reality.",
-    "This dream reminds you that sometimes things don’t fit—but they fall anyway—and that’s okay."
+    "This dream reminds you that sometimes things don’t fit but they fall anyway and that’s okay."
   ],
   pinball: [
     "Pinball reflects impulsive decisions and reactive energy, bouncing between stimuli with little direction.",
@@ -951,7 +951,7 @@ lynx: [
   ],
   poker: [
     "Poker symbolizes bluffing and the masks you wear, a high-stakes reflection of trust and deceit.",
-    "It may represent emotional risk-taking or guardedness—what cards are you hiding from others, and yourself?",
+    "It may represent emotional risk-taking or guardedness what cards are you hiding from others, and yourself?",
     "This dream dares you to confront what you’re willing to wager in matters of love, truth, or self-worth."
   ],
   rockPaperScissors: [
@@ -962,38 +962,133 @@ lynx: [
   roleplay: [
     "Roleplay in dreams unveils identity fluidity, hidden desires, or the personas you adopt to navigate the world.",
     "It reflects a need to explore the self outside of societal constraints, or a struggle to define who you are.",
-    "This dream suggests that life itself may feel like a performance—ask yourself who the real actor is."
+    "This dream suggests that life itself may feel like a performance ask yourself who the real actor is."
   ],
   darts: [
-    "Darts reveal dreams of precision and intent, a metaphor for your goals and how close—or far—you are from hitting them.",
+    "Darts reveal dreams of precision and intent, a metaphor for your goals and how close or far you are from hitting them.",
     "It speaks to obsession with perfection, and the frustration of missed marks or misplaced ambition.",
-    "This dream urges you to assess your target—is it truly worth the effort, or are you aiming out of habit?"
+    "This dream urges you to assess your target is it truly worth the effort, or are you aiming out of habit?"
   ],
   snakeAndLadders: [
     "Snakes and ladders is a dream of karma and fortune, the rise and fall of fate, sometimes arbitrary, always symbolic.",
-    "It suggests sudden changes, setbacks, and leaps forward—how you respond matters more than the dice.",
+    "It suggests sudden changes, setbacks, and leaps forward how you respond matters more than the dice.",
     "This game dreams of life as a divine board, where snakes test humility and ladders reward patience."
   ],
   clawMachine: [
     "The claw machine appears as a symbol of unattainable desires, where success feels mechanical and luck trumps skill.",
     "It reflects frustration with systems that tease reward yet rarely deliver satisfaction.",
-    "This dream urges you to reconsider where you're investing your efforts—what do you chase that keeps slipping away?"
+    "This dream urges you to reconsider where you're investing your efforts what do you chase that keeps slipping away?"
   ],
   bingo: [
     "Bingo dreams of waiting for your number to be called, a yearning for recognition, luck, or timing to finally align.",
-    "It reflects the randomness of life’s rewards and the communal joy—or envy—that comes with sudden wins.",
+    "It reflects the randomness of life’s rewards and the communal joy or envy that comes with sudden wins.",
     "This dream suggests that patience is your ally, but so is knowing when to change cards entirely."
   ],
   dominos: [
     "Dominos in dreams reflect chain reactions, where one small move sets off a cascade of events.",
-    "It speaks to consequences—both intentional and unintended—and the fragility of carefully laid plans.",
+    "It speaks to consequences both intentional and unintended and the fragility of carefully laid plans.",
     "This dream asks you to consider where your actions begin and where they might end."
   ],
   dice: [
     "Dice symbolize fate, randomness, and the surrender of control, casting your hopes into unseen hands.",
     "To dream of rolling them is to flirt with the unknown, placing faith in probabilities and chance.",
-    "This symbol reminds you that even chaos follows a rhythm—and that not every outcome is meant to be forced."
+    "This symbol reminds you that even chaos follows a rhythm and that not every outcome is meant to be forced."
   ],
+  puzzle: [
+    "Puzzles in dreams often signal a life situation that feels complex or unresolved, calling for patience and thoughtfulness.",
+    "They suggest that the dreamer is attempting to piece together aspects of themselves or understand a hidden truth.",
+    "This symbol encourages exploration of mental challenges, showing how clarity may emerge through persistence and attention to detail."
+  ],
+  maze: [
+    "A maze may represent confusion or emotional entrapment, reflecting a struggle to navigate through life’s uncertainties.",
+    "It can symbolize a subconscious search for purpose, direction, or identity within the winding corridors of the mind.",
+    "Dreams of mazes encourage introspection and reveal the importance of trust, intuition, and perseverance in reaching clarity."
+  ],
+  boardgame: [
+    "Dreams involving board games symbolize strategy, competition, and life's structured choices.",
+    "They suggest that you're evaluating risks, roles, or alliances, much like the calculated moves on a board.",
+    "These dreams may hint at hidden rivalries or decisions being made behind the scenes of your waking life."
+  ],
+  controller: [
+    "Holding a controller in dreams represents your desire to assert agency or change outcomes in waking life.",
+    "It may reflect a feeling of being disconnected or too invested in simulation over action.",
+    "This symbol can also suggest the illusion of control, asking whether you're truly leading your life or watching it unfold."
+  ],
+  joystick: [
+    "A joystick suggests balance and directional power where you tilt the stick, your destiny flows.",
+    "It reflects the dreamer's active engagement in navigating personal challenges or emotional landscapes.",
+    "The symbol invites awareness of how much control you wield versus how much is influenced by external mechanisms."
+  ],
+  level: [
+    "A dream level points to stages of growth, achievement, or repeated challenges in your waking path.",
+    "It may highlight feelings of stagnation or the pressure to 'level up' before you're ready.",
+    "This symbol is a reminder that each stage, no matter how frustrating, offers lessons needed for true evolution."
+  ],
+  loading: [
+    "A loading screen in dreams symbolizes patience, transition, or anticipation for clarity yet to arrive.",
+    "It may reflect feelings of being 'on hold' in life, awaiting approval, understanding, or change.",
+    "The symbol suggests spiritual buffering your subconscious preparing for an emotional or intellectual update."
+  ],
+  savepoint: [
+    "A savepoint suggests a moment of rest, preservation, or reflection before a major life shift.",
+    "It represents your subconscious desire to safeguard progress or revisit crucial decisions.",
+    "This dream encourages awareness of milestones honor your growth while preparing for new challenges."
+  ],
+  glitch: [
+    "Dreaming of glitches indicates distortion in your perception or a warning that something isn’t as it seems.",
+    "It may reflect subconscious dissonance or suppressed feelings breaking through routine patterns.",
+    "Glitches are signs of awakening, challenging the illusion and urging clarity amidst fragmented reality."
+  ],
+  respawn: [
+    "Respawning in dreams symbolizes resilience and the cyclical nature of growth, failure, and rebirth.",
+    "It reflects your power to start anew, even after setbacks that seemed permanent.",
+    "This image invites you to release shame and embrace the process of becoming stronger through return."
+  ],
+  inventory: [
+    "Inventory dreams reveal your hidden tools, talents, or burdens what you carry through life’s quest.",
+    "It suggests a time of self-assessment: what do you need, and what must you leave behind?",
+    "Inventory is your emotional or spiritual toolkit, offering insight into what you're prepared for or lacking."
+  ],
+  map: [
+    "Maps symbolize direction, exploration, and your relationship with goals are you forging your path or following one?",
+    "They may signal a longing for guidance or a desire to find where you truly belong.",
+    "Maps are reflections of inner territory, asking you to trace your emotional and spiritual geography."
+  ],
+  highscore: [
+    "A high score indicates ambition, competition, or validation-seeking in your waking life.",
+    "It may symbolize achievements you're proud of, or the pressure to constantly outperform yourself.",
+    "This symbol reminds you to assess if your 'score' is based on personal growth or someone else's scoreboard."
+  ],
+  gameover: [
+    "Game Over dreams represent finality, failure, or the end of a phase you're reluctant to release.",
+    "They can serve as a warning or closure, signaling when it’s time to move on.",
+    "This symbol may invite surrender, offering peace in letting go of what no longer serves your progression."
+  ],
+  npc: [
+    "Dreaming of NPCs (non-playable characters) can symbolize passive roles or feeling disconnected from authentic experience.",
+    "They may reflect projections of your own behavior are you merely existing, or actively participating?",
+    "NPCs invite a challenge: step out of the script and awaken to your own narrative power."
+  ],
+  cheatcode: [
+    "Cheat codes in dreams signify shortcuts, secrets, or a desire to bypass hardship.",
+    "They may reflect frustration with current limitations or an inner urge for mastery.",
+    "This symbol asks whether ease is earned or if shortcuts might rob you of deeper transformation."
+  ],
+  bossfight: [
+    "Boss fights represent confrontation with major obstacles, fears, or authority figures.",
+    "They embody thresholds by defeating the 'boss', you claim emotional or spiritual advancement.",
+    "These dreams reflect moments when you must summon all your strength to overcome what once seemed impossible."
+  ],
+  checkpoint: [
+    "A checkpoint signals pause, validation, or opportunity to regroup before further tests.",
+    "It marks a spiritual or emotional milestone proof of endurance and preparation for what’s next.",
+    "Dreams of checkpoints honor the journey and reassure that you’re not starting from nothing."
+  ],
+  avatar: [
+    "Dreaming of avatars reflects your self-image, role-playing, or masks worn in different life contexts.",
+    "They may indicate a need to reconcile your internal self with your public identity.",
+    "Avatars challenge you to explore who you truly are beyond the pixelated projection."
+  ]
 };
 
 
