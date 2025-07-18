@@ -893,7 +893,107 @@ lynx: [
     "The fossa prowls Madagascar like a secret feline, canine, neither. In dreams, it represents mystery, adaptability, and hidden strength.",
     "Its appearance asks you to embrace what doesn’t fit into neat categories. Your truth may defy explanation, and that is power.",
     "To dream of a fossa is to walk boldly into your own ambiguity, unafraid of being misunderstood."
-  ]
+  ],
+  hopscotch: [
+    "Hopscotch speaks of childhood innocence and the quest for balance, each square a memory, each leap a moment of play amidst rigid rules.",
+    "To dream of hopscotch is to revisit simpler days, when structure was a game and the world was a chalk-drawn grid of endless possibility.",
+    "It invites you to tread carefully yet joyfully, suggesting life is both a calculated strategy and a carefree dance between constraints."
+  ],
+  chess: [
+    "Chess emerges as a dream of strategy and intellect, where every move echoes with consequence and silent wars unfold between thought and fate.",
+    "To dream of chess is to grapple with power dynamics, long-term planning, and hidden intentions in your waking life.",
+    "This symbol asks: are you the player, the pawn, or the queen, and how far ahead can you truly see?"
+  ],
+  hideAndSeek: [
+    "Hide and seek evokes themes of vulnerability and pursuit, where concealment masks the yearning to be found.",
+    "It suggests there are truths you are avoiding or that others are eluding you, hiding in the folds of your subconscious.",
+    "This dream asks you to consider what is hidden—emotionally or spiritually—and what it means to be sought."
+  ],
+  tag: [
+    "Dreaming of tag speaks to fleeting connections and playful avoidance, a dance of touch and retreat.",
+    "It reveals a longing for contact, attention, or escape from responsibilities or emotional truths.",
+    "In its chase is a metaphor for pursuit—of goals, of people, of time—ever slipping through your grasp."
+  ],
+  jigsaw: [
+    "A jigsaw puzzle in dreams signifies fragmentation and the desire for clarity, where every piece seeks its belonging in the greater picture.",
+    "It represents the slow yet fulfilling path of self-discovery, reminding you that no detail is meaningless.",
+    "To dream of a puzzle is to acknowledge you are searching for understanding, harmony, and the missing part of yourself."
+  ],
+  boardGame: [
+    "Board games in dreams signify life’s structured challenges—chance versus choice, community versus competition.",
+    "They reflect how you navigate cooperation, rivalry, and the luck that threads through your every decision.",
+    "This symbol suggests you may feel stuck in patterns or are contemplating the fairness of the rules you live by."
+  ],
+  monopoly: [
+    "Monopoly reveals dreams of power, wealth, and domination, but also the loneliness that comes with winning at the expense of others.",
+    "It mirrors your relationship with materialism and the systems of control that govern your environment.",
+    "Dreaming of this game might mean you're assessing your ambition or resenting the rules you’re forced to play by."
+  ],
+  twister: [
+    "Twister embodies flexibility and discomfort, the emotional knots we bend into to please or adapt.",
+    "It reflects entanglements—romantic, familial, or personal—that stretch us to our limits.",
+    "This dream calls out physical vulnerability and emotional awkwardness, urging balance and honesty in your movements."
+  ],
+  videoGame: [
+    "Video games in dreams are portals of escapism, avatars of your hidden desires and digital selves.",
+    "They mirror how you navigate alternate realities, blurring the line between fantasy and responsibility.",
+    "To dream of playing one speaks to your agency, control, and how ‘real’ your victories truly are."
+  ],
+  Tetris: [
+    "Tetris speaks of overwhelming pressure to organize chaos, where life’s pieces fall faster than you can place them.",
+    "It suggests anxiety over order, perfectionism, and the relentless pace of your waking reality.",
+    "This dream reminds you that sometimes things don’t fit—but they fall anyway—and that’s okay."
+  ],
+  pinball: [
+    "Pinball reflects impulsive decisions and reactive energy, bouncing between stimuli with little direction.",
+    "It suggests you're letting outside forces dictate your path, yet there's joy in unpredictability.",
+    "To dream of pinball is to witness how momentum, chaos, and color shape your current emotional trajectory."
+  ],
+  poker: [
+    "Poker symbolizes bluffing and the masks you wear, a high-stakes reflection of trust and deceit.",
+    "It may represent emotional risk-taking or guardedness—what cards are you hiding from others, and yourself?",
+    "This dream dares you to confront what you’re willing to wager in matters of love, truth, or self-worth."
+  ],
+  rockPaperScissors: [
+    "Rock-paper-scissors is the symbol of fate disguised as choice, a dream of trivial decisions with heavy implications.",
+    "It reflects cycles of conflict, predictability, and chance, asking: how do you respond to uncertainty?",
+    "This dream warns of knee-jerk patterns and urges you to break free from predictable roles in your life."
+  ],
+  roleplay: [
+    "Roleplay in dreams unveils identity fluidity, hidden desires, or the personas you adopt to navigate the world.",
+    "It reflects a need to explore the self outside of societal constraints, or a struggle to define who you are.",
+    "This dream suggests that life itself may feel like a performance—ask yourself who the real actor is."
+  ],
+  darts: [
+    "Darts reveal dreams of precision and intent, a metaphor for your goals and how close—or far—you are from hitting them.",
+    "It speaks to obsession with perfection, and the frustration of missed marks or misplaced ambition.",
+    "This dream urges you to assess your target—is it truly worth the effort, or are you aiming out of habit?"
+  ],
+  snakeAndLadders: [
+    "Snakes and ladders is a dream of karma and fortune, the rise and fall of fate, sometimes arbitrary, always symbolic.",
+    "It suggests sudden changes, setbacks, and leaps forward—how you respond matters more than the dice.",
+    "This game dreams of life as a divine board, where snakes test humility and ladders reward patience."
+  ],
+  clawMachine: [
+    "The claw machine appears as a symbol of unattainable desires, where success feels mechanical and luck trumps skill.",
+    "It reflects frustration with systems that tease reward yet rarely deliver satisfaction.",
+    "This dream urges you to reconsider where you're investing your efforts—what do you chase that keeps slipping away?"
+  ],
+  bingo: [
+    "Bingo dreams of waiting for your number to be called, a yearning for recognition, luck, or timing to finally align.",
+    "It reflects the randomness of life’s rewards and the communal joy—or envy—that comes with sudden wins.",
+    "This dream suggests that patience is your ally, but so is knowing when to change cards entirely."
+  ],
+  dominos: [
+    "Dominos in dreams reflect chain reactions, where one small move sets off a cascade of events.",
+    "It speaks to consequences—both intentional and unintended—and the fragility of carefully laid plans.",
+    "This dream asks you to consider where your actions begin and where they might end."
+  ],
+  dice: [
+    "Dice symbolize fate, randomness, and the surrender of control, casting your hopes into unseen hands.",
+    "To dream of rolling them is to flirt with the unknown, placing faith in probabilities and chance.",
+    "This symbol reminds you that even chaos follows a rhythm—and that not every outcome is meant to be forced."
+  ],
 };
 
 
@@ -1819,5 +1919,5 @@ window.dreamKeywords = {
     positive: "Vigilance, community, intuitive awareness.",
     negative: "Anxiety, hyper-alertness, fear of betrayal."
   },
-  
+
 };
