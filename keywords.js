@@ -2014,5 +2014,129 @@ window.dreamKeywords = {
     positive: "Vigilance, community, intuitive awareness.",
     negative: "Anxiety, hyper-alertness, fear of betrayal."
   },
-
+hopscotch: {
+    emoji: "🟦",
+    positive: "Joyful balance, nostalgia, playful grounding.",
+    negative: "Avoidance of maturity, stuck in the past, fragile footing."
+  },
+  chess: {
+    emoji: "♟️",
+    positive: "Strategic wisdom, foresight, intellectual mastery.",
+    negative: "Control issues, cold calculation, manipulative dynamics."
+  },
+  hideAndSeek: {
+    emoji: "🙈",
+    positive: "Self-discovery, safety in solitude, inner retreat.",
+    negative: "Fear of exposure, emotional hiding, avoidance."
+  },
+  tag: {
+    emoji: "🏃‍♂️",
+    positive: "Connection through play, energized pursuit, social spark.",
+    negative: "Evasion, pressure, emotional flight."
+  },
+  jigsaw: {
+    emoji: "🧩",
+    positive: "Clarity through effort, deep insight, connected self.",
+    negative: "Disorientation, feeling incomplete, overthinking."
+  },
+  boardGame: {
+    emoji: "🎲",
+    positive: "Structured creativity, shared experience, life reflection.",
+    negative: "Monotony, emotional scripting, forced roles."
+  },
+  monopoly: {
+    emoji: "🏦",
+    positive: "Ambition, material control, leadership.",
+    negative: "Greed, domination, emotional detachment."
+  },
+  twister: {
+    emoji: "🌀",
+    positive: "Flexibility, physical play, adaptability.",
+    negative: "Discomfort, entanglement, stretched boundaries."
+  },
+  videoGame: {
+    emoji: "🎮",
+    positive: "Creative agency, problem-solving, immersive joy.",
+    negative: "Escapism, disconnection from reality, obsession."
+  },
+  tetris: {
+    emoji: "🧱",
+    positive: "Organized mind, problem-solving, adaptable rhythm.",
+    negative: "Perfectionism, anxiety, pressure overload."
+  },
+  pinball: {
+    emoji: "✨",
+    positive: "Spontaneity, energetic flow, playful chaos.",
+    negative: "Lack of direction, instability, overstimulation."
+  },
+  poker: {
+    emoji: "🃏",
+    positive: "Emotional strategy, mystique, bold risk-taking.",
+    negative: "Deception, emotional walls, high stakes."
+  },
+  rockPaperScissors: {
+    emoji: "✊✋✌️",
+    positive: "Balance of choices, quick instincts, lighthearted decisions.",
+    negative: "Uncertainty, predictability loops, shallow decision-making."
+  },
+  roleplay: {
+    emoji: "🎭",
+    positive: "Creative exploration, identity play, expression.",
+    negative: "False self, emotional masking, confusion of roles."
+  },
+  darts: {
+    emoji: "🎯",
+    positive: "Focused ambition, precision, hitting your mark.",
+    negative: "Pressure to succeed, missed opportunities, obsession."
+  },
+  snakeAndLadders: {
+    emoji: "🪜🐍",
+    positive: "Karmic justice, growth through challenge, fated progress.",
+    negative: "Setbacks, volatility, lack of control."
+  },
+  clawMachine: {
+    emoji: "🕹️",
+    positive: "Hopeful risk, determination, potential reward.",
+    negative: "Unattainable goals, frustration, false promise."
+  },
+  bingo: {
+    emoji: "🔢",
+    positive: "Readiness, spiritual timing, joyful community.",
+    negative: "Passivity, envy, waiting for fate."
+  },
+  dominos: {
+    emoji: "🁢",
+    positive: "Awareness of consequence, thoughtful decisions, careful structure.",
+    negative: "Instability, unintended fallout, cause-and-effect anxiety."
+  },
+  dice: {
+    emoji: "🎲",
+    positive: "Trust in fate, bold chance-taking, spiritual surrender.",
+    negative: "Irresponsibility, randomness, avoidance of control."
+  },
+  puzzle: {
+    emoji: "🧠",
+    positive: "Mental clarity, growth through challenge, deep introspection.",
+    negative: "Confusion, emotional fragmentation, obsessive analysis."
+  },
+  maze: {
+    emoji: "🔀",
+    positive: "Spiritual search, inner navigation, patient growth.",
+    negative: "Feeling lost, blocked path, cyclical confusion."
+  },
+  controller: {
+    emoji: "🕹️",
+    positive: "Agency, influence, directed purpose.",
+    negative: "Illusion of control, emotional detachment, overthinking outcomes."
+  },
+  joystick: {
+    emoji: "🕹️",
+    positive: "Smooth direction, emotional responsiveness, energetic flow.",
+    negative: "Overcorrection, imbalance, reactive behaviors."
+  },
+  level: {
+    emoji: "📶",
+    positive: "Milestone achieved, evolution, spiritual progress.",
+    negative: "Impatience, comparison, pressure to ‘advance’."
+  },
 };
