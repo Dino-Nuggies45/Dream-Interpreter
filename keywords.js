@@ -1139,6 +1139,57 @@ lynx: [
     "To dream of rice is to honor the unnoticed efforts that build security, the grains of daily sacrifice.",
     "It speaks of humility, fertility, and the promise of fulfillment through consistency."
   ],
+  corn: [
+    "Golden and sun-kissed, corn in dreams speaks of abundance, harvest, and the cyclical nourishment of spirit and soil.",
+    "It whispers of patience and reward, each kernel a promise that what you sow shall bloom in time.",
+    "Corn teaches the beauty of growth in rows, the humble ritual of community and shared prosperity."
+  ],
+  honey: [
+    "Sweet and sticky, honey flows with ancient wisdom and love preserved, a reminder of the sacred in the small.",
+    "Dreams of honey drip with gentleness, attraction, and the power of nature’s slow alchemy.",
+    "It urges you to savor sweetness, to seek what is golden and earned through quiet diligence."
+  ],
+  mushroom: [
+    "Born of decay and shadow, mushrooms suggest hidden truths, the underground networks of thought and intuition.",
+    "They embody mystery, transformation, and the balance between poison and remedy.",
+    "Mushrooms rise from the dark to nourish and warn—listen carefully to what grows unseen."
+  ],
+  tomato: [
+    "Juicy and red with life, tomatoes are the fruits of vulnerability and the richness of emotion ripening over time.",
+    "They symbolize warmth, domestic love, and the passion that flavors the mundane.",
+    "In dreams, a tomato may burst with untold feelings or remind you of what’s tender and fleeting."
+  ],
+  carrot: [
+    "A root that seeks the core, carrots in dreams draw your attention downward—to focus, clarity, and the unseen rewards.",
+    "Their crunch offers alertness; their color, vitality; their presence, a guide toward health and grounding.",
+    "They hint at purpose beneath the surface, and the sweetness of simplicity when unearthed."
+  ],
+  rice: [
+    "Each grain a promise, rice dreams are of sustenance, gratitude, and the quiet blessings of daily life.",
+    "They suggest spiritual unity, modest wealth, and humble joy shared with others.",
+    "Rice calls forth the sacred in repetition, in rituals passed hand to hand across generations."
+  ],
+  watermelon: [
+    "A fruit of summer’s laughter and sticky joy, watermelon in dreams bursts with freedom, play, and innocence.",
+    "It symbolizes refreshment, abundance, and the courage to live boldly in the now.",
+    "Yet within its rind may also lie seeds of longing, the fleeting nature of delight."
+  ],
+  cookie: [
+    "Cookies are crumbs of comfort and small indulgences, often appearing when the inner child seeks recognition.",
+    "They whisper of warmth, reward, and the sweetness of self-forgiveness.",
+    "In dreams, a cookie may offer nostalgia or serve as a reminder to savor joy without guilt."
+  ],
+  olive: [
+    "Ancient and bitter, the olive holds the wisdom of peace, endurance, and the rewards of patience.",
+    "It speaks of hidden treasures, of hearts preserved through salt and time.",
+    "To dream of olives is to commune with longevity and the roots of resilience."
+  ],
+  onion: [
+    "A layered truth, the onion reminds us of the many masks we wear and the truths hidden beneath them.",
+    "Tears accompany its peeling—catharsis, grief, and clarity awaiting those who dare to delve deeper.",
+    "In dreams, it reveals emotional layers that must be faced to reach the tender core."
+  ],
+  
 };
 
 
@@ -2253,5 +2304,100 @@ hopscotch: {
     emoji: "🧍‍♂️",
     positive: "Self-expression, identity exploration, personal myth.",
     negative: "Role confusion, identity mask, disconnection from true self."
-  }
+  },
+  corn: {
+    emoji: "🌽",
+    positive: "Abundance, patience, fulfillment.",
+    negative: "Monotony, stagnation, over-dependence."
+  },
+  honey: {
+    emoji: "🍯",
+    positive: "Sweetness, healing, attraction.",
+    negative: "Temptation, clinging, overindulgence."
+  },
+  mushroom: {
+    emoji: "🍄",
+    positive: "Mystery, transformation, insight.",
+    negative: "Confusion, toxicity, delusion."
+  },
+  tomato: {
+    emoji: "🍅",
+    positive: "Warmth, affection, vitality.",
+    negative: "Overexposure, emotional messiness, rot."
+  },
+  carrot: {
+    emoji: "🥕",
+    positive: "Focus, grounding, reward.",
+    negative: "Neglect, tunnel vision, buried truths."
+  },
+  rice: {
+    emoji: "🍚",
+    positive: "Sustenance, unity, gratitude.",
+    negative: "Repetition, scarcity mindset, emotional blandness."
+  },
+  watermelon: {
+    emoji: "🍉",
+    positive: "Joy, playfulness, refreshment.",
+    negative: "Fleeting pleasure, overconsumption, mess."
+  },
+  cookie: {
+    emoji: "🍪",
+    positive: "Comfort, reward, self-love.",
+    negative: "Overindulgence, childishness, craving validation."
+  },
+  olive: {
+    emoji: "🫒",
+    positive: "Peace, patience, preservation.",
+    negative: "Bitterness, distance, emotional dryness."
+  },
+  onion: {
+    emoji: "🧅",
+    positive: "Depth, catharsis, emotional truth.",
+    negative: "Pain, concealment, repressed emotion."
+  },
+  chocolate: {
+    emoji: "🍫",
+    positive: "Pleasure, self-love, comfort.",
+    negative: "Temptation, guilt, excess."
+  },
+  oatmeal: {
+    emoji: "🥣",
+    positive: "Healing, simplicity, steadiness.",
+    negative: "Boredom, lack of stimulation, stagnation."
+  },
+  lemon: {
+    emoji: "🍋",
+    positive: "Clarity, cleansing, emotional honesty.",
+    negative: "Bitterness, confrontation, sourness."
+  },
+  steak: {
+    emoji: "🥩",
+    positive: "Vitality, primal strength, passion.",
+    negative: "Aggression, dominance, indulgence."
+  },
+  cucumber: {
+    emoji: "🥒",
+    positive: "Calm, refreshment, emotional balance.",
+    negative: "Detachment, blandness, withdrawal."
+  },
+  candy: {
+    emoji: "🍬",
+    positive: "Innocence, delight, whimsy.",
+    negative: "Superficiality, addiction, emotional emptiness."
+  },
+  avocado: {
+    emoji: "🥑",
+    positive: "Self-worth, richness, intuition.",
+    negative: "Over-ripeness, fragility, isolation."
+  },
+  macaroni: {
+    emoji: "🍝",
+    positive: "Creativity, nostalgia, comfort.",
+    negative: "Overindulgence, immaturity, chaos."
+  },
+  icecream: {
+    emoji: "🍨",
+    positive: "Joy, indulgence, reward.",
+    negative: "Impermanence, overindulgence, emotional fragility."
+  },
 };
