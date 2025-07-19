@@ -3033,4 +3033,104 @@ hopscotch: {
     positive: "Emotional fermentation, sacred history, deep transformation.",
     negative: "Bitterness turned inward, slow-burning grief, salty regret."
   },
+sourdough: {
+    emoji: "🍞",
+    positive: "Patience, inner transformation, wild potential.",
+    negative: "Delay, volatility, untamed emotion."
+  },
+  mulberry: {
+    emoji: "🫐",
+    positive: "Hidden sweetness, generational connection, memory.",
+    negative: "Painful beauty, fragility, emotional residue."
+  },
+  barley: {
+    emoji: "🌾",
+    positive: "Endurance, humility, ancient strength.",
+    negative: "Labor, simplicity mistaken for lack, overexertion."
+  },
+  caramel: {
+    emoji: "🍬",
+    positive: "Pleasure, indulgence, slow joy.",
+    negative: "Clinging desire, overstimulation, emotional cost."
+  },
+  coconut: {
+    emoji: "🥥",
+    positive: "Nourishment, hidden softness, resilience.",
+    negative: "Emotional armor, isolation, defensiveness."
+  },
+  clam: {
+    emoji: "🦪",
+    positive: "Hidden truth, self-protection, emotional depth.",
+    negative: "Withholding, silence, guardedness."
+  },
+  marzipan: {
+    emoji: "🍭",
+    positive: "Beauty, fantasy, artistic comfort.",
+    negative: "Illusion, emotional emptiness, deception."
+  },
+  ginger: {
+    emoji: "🫚",
+    positive: "Vitality, healing, honesty.",
+    negative: "Burn, discomfort, harsh truth."
+  },
+  bagel: {
+    emoji: "🥯",
+    positive: "Ritual, continuity, comfort in cycles.",
+    negative: "Unfulfilled craving, repetition, emptiness."
+  },
+  pickle: {
+    emoji: "🥒",
+    positive: "Preserved memory, survival, tangy wisdom.",
+    negative: "Grudges, emotional sting, fixation on the past."
+  },
+  cornbread: {
+    emoji: "🍞",
+    positive: "Warmth, simplicity, ancestral comfort.",
+    negative: "Complacency, nostalgia, lack of ambition."
+  },
+  plum: {
+    emoji: "🍑",
+    positive: "Sensuality, emotional richness, ripeness.",
+    negative: "Fleeting beauty, bruised feelings, vulnerability."
+  },
+  tofu: {
+    emoji: "🍱",
+    positive: "Adaptability, openness, calm neutrality.",
+    negative: "Lack of identity, over-absorption, passivity."
+  },
+  radish: {
+    emoji: "🌶️",
+    positive: "Hidden fire, emotional surprise, inner rebellion.",
+    negative: "Impatience, bitterness, buried tension."
+  },
+  pudding: {
+    emoji: "🍮",
+    positive: "Comfort, innocence, emotional nourishment.",
+    negative: "Over-sentimentality, fragility, regression."
+  },
+  anchovy: {
+    emoji: "🐟",
+    positive: "Intensity, insight, overlooked value.",
+    negative: "Aversion, discomfort, emotional sharpness."
+  },
+  churro: {
+    emoji: "🍩",
+    positive: "Joy, indulgence, festive energy.",
+    negative: "Avoidance, messiness, shallow pleasure."
+  },
+  lentil: {
+    emoji: "🫘",
+    positive: "Sustenance, patience, ancient grounding.",
+    negative: "Monotony, smallness, emotional restraint."
+  },
+  turnip: {
+    emoji: "🥔",
+    positive: "Nourishment, rediscovery, hidden depth.",
+    negative: "Neglect, coarseness, buried emotion."
+  },
+  fennel: {
+    emoji: "🌿",
+    positive: "Clarity, complexity, ancestral breath.",
+    negative: "Overstimulation, contradiction, forgotten truths."
+  },
 };
