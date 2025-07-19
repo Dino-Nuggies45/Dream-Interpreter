@@ -1152,7 +1152,7 @@ lynx: [
   mushroom: [
     "Born of decay and shadow, mushrooms suggest hidden truths, the underground networks of thought and intuition.",
     "They embody mystery, transformation, and the balance between poison and remedy.",
-    "Mushrooms rise from the dark to nourish and warn—listen carefully to what grows unseen."
+    "Mushrooms rise from the dark to nourish and warnlisten carefully to what grows unseen."
   ],
   tomato: [
     "Juicy and red with life, tomatoes are the fruits of vulnerability and the richness of emotion ripening over time.",
@@ -1160,7 +1160,7 @@ lynx: [
     "In dreams, a tomato may burst with untold feelings or remind you of what’s tender and fleeting."
   ],
   carrot: [
-    "A root that seeks the core, carrots in dreams draw your attention downward—to focus, clarity, and the unseen rewards.",
+    "A root that seeks the core, carrots in dreams draw your attention downwardto focus, clarity, and the unseen rewards.",
     "Their crunch offers alertness; their color, vitality; their presence, a guide toward health and grounding.",
     "They hint at purpose beneath the surface, and the sweetness of simplicity when unearthed."
   ],
@@ -1186,19 +1186,19 @@ lynx: [
   ],
   onion: [
     "A layered truth, the onion reminds us of the many masks we wear and the truths hidden beneath them.",
-    "Tears accompany its peeling—catharsis, grief, and clarity awaiting those who dare to delve deeper.",
+    "Tears accompany its peelingcatharsis, grief, and clarity awaiting those who dare to delve deeper.",
     "In dreams, it reveals emotional layers that must be faced to reach the tender core."
   ],
   
   chocolate: [
     "A dream of chocolate wraps the heart in velvet warmth, a tender invitation to savor joy and self-kindness without apology.",
     "Its sweetness whispers of stolen moments and secret desires, asking you to honor your need for comfort and inner affection.",
-    "Yet too much may conceal what lies beneath—a warning of indulgences that momentarily soothe but cannot fill the soul’s hunger."
+    "Yet too much may conceal what lies beneatha warning of indulgences that momentarily soothe but cannot fill the soul’s hunger."
   ],
   oatmeal: [
     "Oatmeal appears in dreams as a humble blessing, the quiet strength of routine and nourishment for body and soul.",
     "It speaks to your return to simplicity, to healing through steadiness and small acts of care that accumulate like gold.",
-    "But beware the taste of sameness—for comfort without spark can lull the spirit into stillness where growth once flourished."
+    "But beware the taste of samenessfor comfort without spark can lull the spirit into stillness where growth once flourished."
   ],
   lemon: [
     "Lemon arrives like sunlight in your sleep, bright and sharp, cleansing your emotional fog with honesty’s crisp edge.",
@@ -1206,19 +1206,19 @@ lynx: [
     "Yet its bitterness lingers if unbalanced, signaling unresolved tension, sour moods, or truths you’ve yet to fully digest."
   ],
   steak: [
-    "To dream of steak is to confront your raw hunger—your instincts, your passions, your unrefined need to *feel* alive.",
+    "To dream of steak is to confront your raw hungeryour instincts, your passions, your unrefined need to *feel* alive.",
     "It is a dream of power and carnal force, asking whether you are nourishing your vitality or feeding your aggression.",
     "Consumed unchecked, it hints at domination or overindulgence, the kind that strips empathy in pursuit of primal satisfaction."
   ],
   cucumber: [
     "Cool as moonlight on sunburnt skin, cucumber dreams offer emotional refreshment and a return to centered calm.",
     "It is a sign of recovery, of detachment with intention, and the need to pause before reacting too deeply or quickly.",
-    "But be wary if it appears too often—cucumber may reflect emotional distance, a chilled heart avoiding true vulnerability."
+    "But be wary if it appears too oftencucumber may reflect emotional distance, a chilled heart avoiding true vulnerability."
   ],
   candy: [
     "Candy in dreams is the glimmer of innocence, childhood joy in crystalline form, a moment of delight without consequence.",
     "Its colors and shapes invite whimsy, reminding you that life has flavor, and it’s okay to seek small pleasures.",
-    "Yet behind its gloss, candy may mask deeper cravings—fleeting highs that never fill, a warning of emotional sugar crashes."
+    "Yet behind its gloss, candy may mask deeper cravingsfleeting highs that never fill, a warning of emotional sugar crashes."
   ],
   avocado: [
     "Avocado glows green like the heart’s own lantern, its dream presence a message of self-worth and inner nourishment.",
@@ -1233,11 +1233,11 @@ lynx: [
   icecream: [
     "Ice cream appears as a fleeting miracle, a celebration of reward and pleasure that must be savored before it melts.",
     "It reflects emotional highs and soft moments of indulgence, encouraging you to enjoy what is good while it lasts.",
-    "Yet the coldness may mask fragility—melting fast, it warns of emotional volatility and sweetness that can't withstand the heat."
+    "Yet the coldness may mask fragilitymelting fast, it warns of emotional volatility and sweetness that can't withstand the heat."
   ],
   artichoke: [
     "Like layers of ancient armor, the artichoke guards its tender heart, inviting patience and persistence to savor hidden depths.",
-    "A labyrinth of green leaves whispers of complex mysteries concealed beneath a rugged facade—do you dare to uncover the truth?",
+    "A labyrinth of green leaves whispers of complex mysteries concealed beneath a rugged facadedo you dare to uncover the truth?",
     "Thorny on the outside, soft within, it teaches that vulnerability is a treasure wrapped in the defense of experience."
   ],
 
@@ -1256,7 +1256,7 @@ lynx: [
   cantaloupe: [
     "Juicy sun-kissed sweetness bursts forth, a golden promise of summer’s warmth and playful delight.",
     "Beneath the netted rind lies a luscious heart, inviting you to savor joy with every dripping bite.",
-    "But sweetness can spoil—beware the fleeting nature of pleasure that fades too fast."
+    "But sweetness can spoilbeware the fleeting nature of pleasure that fades too fast."
   ],
 
   chickpea: [
@@ -1268,7 +1268,7 @@ lynx: [
   clementine: [
     "Sunlit orbs bursting with tangy sweetness, clementines dance lightly on the tongue like fleeting happiness.",
     "Their easy peel invites open-hearted sharing and spontaneous connection.",
-    "But beneath the surface lies the bitterness of separation—peeling back layers reveals hidden divides."
+    "But beneath the surface lies the bitterness of separation peeling back layers reveals hidden divides."
   ],
 
   daikon: [
@@ -2649,4 +2649,79 @@ hopscotch: {
     positive: "Transformation, strength, uniqueness.",
     negative: "Awkwardness, discomfort, confusion."
   },
+  tomatillo: {
+    emoji: "🫒",
+    positive: "Curiosity, growth, renewal.",
+    negative: "Conflict, acidity, pride."
+  },
+  turmeric: {
+    emoji: "🧡",
+    positive: "Purification, strength, vitality.",
+    negative: "Aggression, overuse, dominance."
+  },
+  ugli: {
+    emoji: "🟠",
+    positive: "Acceptance, uniqueness, joy.",
+    negative: "Doubt, self-image, hesitation."
+  },
+  wasabi: {
+    emoji: "🌶️",
+    positive: "Boldness, clarity, urgency.",
+    negative: "Impulsiveness, burn, regret."
+  },
+  watercress: {
+    emoji: "💧",
+    positive: "Freshness, renewal, clarity.",
+    negative: "Fragility, fleeting, vulnerability."
+  },
+  yuzu: {
+    emoji: "🍋",
+    positive: "Brightness, uplift, magic.",
+    negative: "Longing, distance, rarity."
+  },
+  zucchini: {
+    emoji: "🥒",
+    positive: "Adaptability, growth, giving.",
+    negative: "Complacency, monotony, dullness."
+  },
+  quinoa: {
+    emoji: "🟤",
+    positive: "Resilience, health, balance.",
+    negative: "Blandness, repetition, monotony."
+  },
+  lentil: {
+    emoji: "🔅",
+    positive: "Community, growth, humility.",
+    negative: "Conformity, repetition, limitation."
+  },
+  cassava: {
+    emoji: "🥔",
+    positive: "Survival, strength, ingenuity.",
+    negative: "Risk, dullness, danger."
+  },
+  buckwheat: {
+    emoji: "🌾",
+    positive: "Grounding, nourishment, humility.",
+    negative: "Hardship, roughness, scarcity."
+  },
+  amaranth: {
+    emoji: "💮",
+    positive: "Immortality, spirit, bloom.",
+    negative: "Isolation, distance, longing."
+  },
+  barley: {
+    emoji: "🍺",
+    positive: "Celebration, prosperity, tradition.",
+    negative: "Excess, numbness, indulgence."
+  },
+  chive: {
+    emoji: "🧄",
+    positive: "Freshness, cleverness, zest.",
+    negative: "Smallness, forgettability, sharpness."
+  },
+  celeriac: {
+    emoji: "🥔",
+    positive: "Stability, strength, calm.",
+    negative: "Rejection, oddity, unease."
+  }
 };
