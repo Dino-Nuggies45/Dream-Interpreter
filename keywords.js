@@ -1329,6 +1329,41 @@ lynx: [
     "They teach the joy found in embracing opposites and small pleasures.",
     "But sharpness can sting, warning of sudden emotional swings."
   ],
+  cassava: [
+    "Root of survival and transformation, cassava feeds many through hardship.",
+    "It embodies endurance and resourcefulness.",
+    "Yet it requires care lest hidden toxins bring harm."
+  ],
+
+  buckwheat: [
+    "Dark, triangular seeds rich in earth’s energy, buckwheat offers grounding and nourishment.",
+    "It calls for humility and strength in simplicity.",
+    "Yet its roughness may symbolize harsh lessons and tough times."
+  ],
+
+  amaranth: [
+    "Ancient grain of immortality and vibrant life, amaranth shines with resilience.",
+    "It offers hope and spiritual sustenance.",
+    "But its rarity may isolate and create longing."
+  ],
+
+  barley: [
+    "Grain of harvest and celebration, barley fills chalices and hearts alike.",
+    "It teaches abundance, joy, and shared prosperity.",
+    "Yet excess can dull senses and cloud judgment."
+  ],
+
+  chive: [
+    "Thin, vibrant shoots burst with subtle onion bite and hidden strength.",
+    "Chives symbolize freshness, renewal, and cleverness.",
+    "But their small size may cause them to be overlooked or underestimated."
+  ],
+
+  celeriac: [
+    "Knobby root with a mild celery fragrance, celeriac grounds you in earthy calm.",
+    "It offers subtle complexity and quiet strength.",
+    "Yet its odd form can create discomfort or rejection."
+  ]
 };
 
 
@@ -2538,5 +2573,80 @@ hopscotch: {
     emoji: "🍨",
     positive: "Joy, indulgence, reward.",
     negative: "Impermanence, overindulgence, emotional fragility."
+  },
+  artichoke: {
+    emoji: "🌿",
+    positive: "Resilience, depth, patience.",
+    negative: "Guardedness, complexity, isolation."
+  },
+  arugula: {
+    emoji: "🥬",
+    positive: "Courage, vitality, spontaneity.",
+    negative: "Impulsiveness, bitterness, restlessness."
+  },
+  bokchoy: {
+    emoji: "🥬",
+    positive: "Simplicity, grounding, nourishment.",
+    negative: "Overlooked, plainness, fading."
+  },
+  cantaloupe: {
+    emoji: "🍈",
+    positive: "Joy, warmth, abundance.",
+    negative: "Fleeting, indulgence, decay."
+  },
+  chickpea: {
+    emoji: "🟤",
+    positive: "Strength, adaptability, unity.",
+    negative: "Stubbornness, resistance, rigidity."
+  },
+  clementine: {
+    emoji: "🍊",
+    positive: "Joy, connection, openness.",
+    negative: "Separation, fragility, fleetingness."
+  },
+  daikon: {
+    emoji: "🥒",
+    positive: "Clarity, renewal, strength.",
+    negative: "Harshness, coldness, shock."
+  },
+  edamame: {
+    emoji: "🟢",
+    positive: "Growth, potential, nurturing.",
+    negative: "Confinement, delay, hidden."
+  },
+  endive: {
+    emoji: "🥬",
+    positive: "Balance, awakening, insight.",
+    negative: "Bitterness, tension, resistance."
+  },
+  fennel: {
+    emoji: "🌿",
+    positive: "Healing, harmony, calm.",
+    negative: "Masking, excess, silence."
+  },
+  fig: {
+    emoji: "🟣",
+    positive: "Fertility, abundance, mystery.",
+    negative: "Temptation, decay, indulgence."
+  },
+  galangal: {
+    emoji: "🌶️",
+    positive: "Awakening, clarity, spice.",
+    negative: "Overwhelm, rashness, sharpness."
+  },
+  gooseberry: {
+    emoji: "🟢",
+    positive: "Surprise, renewal, freshness.",
+    negative: "Sourness, hardship, bitterness."
+  },
+  jicama: {
+    emoji: "🥥",
+    positive: "Refreshment, discovery, clarity.",
+    negative: "Distance, numbness, barrier."
+  },
+  kohlrabi: {
+    emoji: "🫛",
+    positive: "Transformation, strength, uniqueness.",
+    negative: "Awkwardness, discomfort, confusion."
   },
 };
