@@ -1479,6 +1479,100 @@ lynx: [
     "Dreaming of biscotti is to long for balance: between the hard and the soft, the bitter and the sweet."
   ],
   
+  kimchi: [
+    "Kimchi is the fire of tradition preserved in jars, a symbol of resilience, culture, and the power of fermentation.",
+    "It reflects the strength found in community, the heat of passion tempered by time and patience.",
+    "To dream of kimchi is to embrace your roots, to honor what has been transformed through struggle into something vibrant."
+  ],
+  sourdough: [
+  "Sourdough reflects a life in fermentation what you've nurtured slowly over time now begins to rise with its own will.",
+  "It represents independence, tradition, and wild potential, revealing that what is uncontained can still become art.",
+  "To dream of sourdough suggests a process of inner transformation, where patience becomes power and flavor comes from struggle."
+  ],
+
+  mulberry: [
+    "Mulberry appears as a symbol of secret sweetness, often hidden beneath brambles reward that requires pain to reach.",
+    "It represents generational ties, small joys, and the stories woven between thorns, ripe with memory and fragility.",
+    "Mulberries stain both fingers and soul, reminding you that beauty often leaves a trace too deep to wash away."
+  ],
+
+  barley: [
+    "Barley signifies quiet strength the kind grown under harsh sun and cut by hand, born to endure and feed the many.",
+    "To dream of barley is to return to basics, to stand at the altar of ancient nourishment and humble virtue.",
+    "It suggests the value of hard-earned sustenance and reminds you that even the simplest grain contains a whole universe."
+  ],
+
+  caramel: [
+    "Caramel appears in dreams as desire made sticky sweetness drawn out until it borders on pain or pleasure, or both.",
+    "It represents a clinging indulgence, one that melts slowly over the tongue but leaves the body wanting more.",
+    "To see caramel is to question what pleasures you are stretching thin, and whether the sweetness is worth the cost."
+  ],
+
+  coconut: [
+    "Coconut embodies contrast hard and unyielding on the outside, yet full of sustaining water and softness within.",
+    "It invites you to explore self-protection and hidden depth, asking what parts of you remain unopened to the world.",
+    "Dreaming of coconut may signify the need to crack past outer defenses to access something nourishing and pure."
+  ],
+
+  clam: [
+    "A clam is the guardian of hidden truth, silent and firm until you dare pry it open and risk the blade.",
+    "It speaks to buried thoughts, withheld emotions, and the beauty or pain of what lies beneath your surface.",
+    "To dream of clams is to be challenged to open yourself carefully, or else remain closed forever to connection."
+  ],
+
+  marzipan: [
+    "Marzipan represents artifice and fantasy a sweetness shaped into perfection, beautiful but perhaps lacking substance.",
+    "It may appear when illusions feel safer than truths, offering you crafted comfort over raw vulnerability.",
+    "In dreams, marzipan warns of false promises and pleasures too refined to nourish what is real within you."
+  ],
+
+  ginger: [
+    "Ginger burns and heals in equal measure an ancient root of fire that stirs life back into weary veins.",
+    "It symbolizes clarity, defiance, and the courage to awaken parts of yourself that have long slumbered.",
+    "Dreaming of ginger asks you to embrace discomfort as medicine, and to recognize the heat of honesty."
+  ],
+
+  bagel: [
+    "The bagel loops endlessly, a symbol of hunger that returns what you crave may be cyclical, constant, or incomplete.",
+    "It may reflect routines you've baked into your life, rituals that fill but do not fulfill.",
+    "To dream of a bagel is to confront your appetite for more: for sustenance, for meaning, or for escape."
+  ],
+
+  pickle: [
+    "Pickle appears as memory preserved a sharpness born from time and salt, survival steeped in flavor.",
+    "It reflects what you've kept too long: grudges, joys, or fragments of the past that now sting your tongue.",
+    "To dream of pickles is to taste the tension between past and present, between what's saved and what's spoiled."
+  ],
+
+  plum: [
+    "A plum, soft and bruised or firm and bursting, is the fruit of emotional richness and internal transformation.",
+    "It may arrive in dreams to mark sensuality, ripeness, or the fleeting nature of beauty that grows from pain.",
+    "Plums speak of moments that ripen only once, asking you to taste life while it is still tender."
+  ],
+
+  pudding: [
+    "Pudding is childhood memory made soft, evoking longing, comfort, and moments too tender to hold forever.",
+    "It represents emotional nourishment, innocence, and the slow return of joy through simple pleasures.",
+    "To dream of pudding is to ask what parts of yourself still hunger for gentleness, and whether you allow it."
+  ],
+
+  churro: [
+    "Churro is indulgence dressed in tradition, twisted in form and coated in joy pleasure that asks nothing of you.",
+    "It reflects festive rebellion, sweetness amid chaos, and the wildness of delight with no shame.",
+    "To dream of churros is to seek comfort in spice and sugar, to chase celebration despite the mess around you."
+  ],
+
+  lentil: [
+    "Lentil dreams are ancient dreams humble, earthy, and wise, carrying sustenance from thousands of years ago.",
+    "It symbolizes patience, simplicity, and the quiet dignity of small steps toward wholeness.",
+    "To dream of lentils is to be reminded that what is small may still sustain the soul across lifetimes."
+  ],
+
+  turnip: [
+    "Turnip speaks of hidden treasure in ordinary soil coarse outside, nourishing inside, a root waiting to be reclaimed.",
+    "It may represent the layers of your own survival, the things you’ve buried to withstand the cold.",
+    "To dream of turnips is to ask what you’ve neglected beneath your surface, and whether you’re ready to dig deeper."
+  ],
 };
 
 
