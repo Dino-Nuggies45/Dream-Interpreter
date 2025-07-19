@@ -1369,115 +1369,116 @@ lynx: [
   "Pistachio symbolizes hidden richness, rewards locked within effort, and the delight of patience well spent.",
   "Dreaming of pistachios suggests something small yet potent an overlooked joy cracking open under your care.",
   "Its shell reminds you that what is worth savoring may come wrapped in resistance, waiting for your persistence."
-],
+  ],
 
-gouda: [
-  "Gouda glows golden in your dreamscape, representing maturity, richness, and experiences aged to perfection.",
-  "It suggests emotional complexity comfort entwined with subtle depth and long-forgotten echoes.",
-  "To taste gouda is to remember joy tempered by wisdom and sweetness wrapped in old lessons."
-],
+  gouda: [
+    "Gouda glows golden in your dreamscape, representing maturity, richness, and experiences aged to perfection.",
+    "It suggests emotional complexity comfort entwined with subtle depth and long-forgotten echoes.",
+    "To taste gouda is to remember joy tempered by wisdom and sweetness wrapped in old lessons."
+  ],
 
-turnip: [
-  "Turnip surfaces as a sign of grounded resilience, of nourishment grown in quiet darkness.",
-  "Its bitter edge may mirror your own resistance to change or the truths buried beneath your surface.",
-  "Dreaming of turnips invites you to explore humility and rediscover the flavor of simplicity."
-],
+  turnip: [
+    "Turnip surfaces as a sign of grounded resilience, of nourishment grown in quiet darkness.",
+    "Its bitter edge may mirror your own resistance to change or the truths buried beneath your surface.",
+    "Dreaming of turnips invites you to explore humility and rediscover the flavor of simplicity."
+  ],
 
-honeydew: [
-  "Honeydew glistens like a hidden kindness a gentle sweetness that asks for nothing in return.",
-  "It may symbolize fragile hope light and fleeting, but nourishing when approached with care.",
-  "To eat honeydew in a dream is to crave ease and softness, a reprieve from intensity."
-],
+  honeydew: [
+    "Honeydew glistens like a hidden kindness a gentle sweetness that asks for nothing in return.",
+    "It may symbolize fragile hope light and fleeting, but nourishing when approached with care.",
+    "To eat honeydew in a dream is to crave ease and softness, a reprieve from intensity."
+  ],
 
-brie: [
-  "Brie speaks to softness beneath the surface, a tender heart protected by cultured strength.",
-  "Its richness in your dreams may reflect your craving for intimacy, luxury, or emotional nourishment.",
-  "Dreaming of brie asks you to lean into vulnerability and find courage in comfort."
-],
+  brie: [
+    "Brie speaks to softness beneath the surface, a tender heart protected by cultured strength.",
+    "Its richness in your dreams may reflect your craving for intimacy, luxury, or emotional nourishment.",
+    "Dreaming of brie asks you to lean into vulnerability and find courage in comfort."
+  ],
 
-radish: [
-  "Radish cuts through illusion with crisp clarity, demanding honesty even when it stings.",
-  "Its vivid burst beneath the soil suggests surprises hiding in plain sight bold truths unearthed suddenly.",
-  "To dream of radishes is to face what’s fresh, raw, and potentially difficult to swallow."
-],
+  radish: [
+    "Radish cuts through illusion with crisp clarity, demanding honesty even when it stings.",
+    "Its vivid burst beneath the soil suggests surprises hiding in plain sight bold truths unearthed suddenly.",
+    "To dream of radishes is to face what’s fresh, raw, and potentially difficult to swallow."
+  ],
 
-tofu: [
-  "Tofu symbolizes adaptation and quiet strength able to become what surrounds it while holding its center.",
-  "It reflects a desire to blend in or support others while remaining whole within yourself.",
-  "In dreams, tofu offers peace and pliability, asking you to soften while remaining aware."
-],
+  tofu: [
+    "Tofu symbolizes adaptation and quiet strength able to become what surrounds it while holding its center.",
+    "It reflects a desire to blend in or support others while remaining whole within yourself.",
+    "In dreams, tofu offers peace and pliability, asking you to soften while remaining aware."
+  ],
 
-squash: [
-  "Squash grows sprawling and golden, a dream of abundance, cycles, and nourishment shared in warmth.",
-  "It signals a season of harvest, of gathering what you’ve grown with quiet pride.",
-  "Dreaming of squash points to sustenance earned over time and generosity rooted in patience."
-],
+  squash: [
+    "Squash grows sprawling and golden, a dream of abundance, cycles, and nourishment shared in warmth.",
+    "It signals a season of harvest, of gathering what you’ve grown with quiet pride.",
+    "Dreaming of squash points to sustenance earned over time and generosity rooted in patience."
+  ],
 
-anchovy: [
-  "Anchovy appears as a whisper of intensity a small presence with overpowering depth.",
-  "It may warn of dynamics that overwhelm or of hidden strength in what seems insignificant.",
-  "To dream of anchovies is to wrestle with strong feelings confined in a tight space."
-],
+  anchovy: [
+    "Anchovy appears as a whisper of intensity a small presence with overpowering depth.",
+    "It may warn of dynamics that overwhelm or of hidden strength in what seems insignificant.",
+    "To dream of anchovies is to wrestle with strong feelings confined in a tight space."
+  ],
 
-churro: [
-  "Churro spins sweetness with spice, evoking indulgence wrapped in playfulness and celebration.",
-  "Its presence in your dreams invites joy without guilt, and the thrill of breaking routine.",
-  "To taste a churro is to awaken your inner child and honor desire through delight."
-],
+  churro: [
+    "Churro spins sweetness with spice, evoking indulgence wrapped in playfulness and celebration.",
+    "Its presence in your dreams invites joy without guilt, and the thrill of breaking routine.",
+    "To taste a churro is to awaken your inner child and honor desire through delight."
+  ],
 
-cilantro: [
-  "Cilantro divides freshness to some, revulsion to others, it speaks to subjectivity and tangled truths.",
-  "In dreams, it marks a fork in perception, where clarity and confusion walk hand in hand.",
-  "Cilantro reminds you not all things are meant for everyone, and that’s part of the flavor of life."
-],
+  cilantro: [
+    "Cilantro divides freshness to some, revulsion to others, it speaks to subjectivity and tangled truths.",
+    "In dreams, it marks a fork in perception, where clarity and confusion walk hand in hand.",
+    "Cilantro reminds you not all things are meant for everyone, and that’s part of the flavor of life."
+  ],
 
-lobster: [
-  "Lobster arrives in dreams as a symbol of luxury and vulnerability cloaked in armor.",
-  "It warns of overprotection emotions buried beneath a hardened shell too afraid to crack.",
-  "To dream of lobster is to be offered transformation through discomfort and molten truth beneath."
-],
+  lobster: [
+    "Lobster arrives in dreams as a symbol of luxury and vulnerability cloaked in armor.",
+    "It warns of overprotection emotions buried beneath a hardened shell too afraid to crack.",
+    "To dream of lobster is to be offered transformation through discomfort and molten truth beneath."
+  ],
 
-croissant: [
-  "Croissant floats through your dream like a golden spiral of comfort and fragility.",
-  "Its delicate layers mirror the many versions of yourself soft, structured, and shaped by time.",
-  "To bite into a croissant is to remember that beauty can be light, fleeting, and exquisitely made."
-],
+  croissant: [
+    "Croissant floats through your dream like a golden spiral of comfort and fragility.",
+    "Its delicate layers mirror the many versions of yourself soft, structured, and shaped by time.",
+    "To bite into a croissant is to remember that beauty can be light, fleeting, and exquisitely made."
+  ],
 
-caviar: [
-  "Caviar speaks of opulence in miniature of indulgence laced with precision and rarity.",
-  "In dreams, it may reflect desire for status, refinement, or pleasures you feel you must earn.",
-  "It is a reminder that even the smallest things can carry weight, luxury, or legacy."
-],
+  caviar: [
+    "Caviar speaks of opulence in miniature of indulgence laced with precision and rarity.",
+    "In dreams, it may reflect desire for status, refinement, or pleasures you feel you must earn.",
+    "It is a reminder that even the smallest things can carry weight, luxury, or legacy."
+  ],
 
-miso: [
-  "Miso stirs the waters of memory fermented depth, ancestral wisdom, and quiet healing.",
-  "Its salty tang in dreams may point to grief matured into strength or hardship turned to flavor.",
-  "To drink miso is to accept the past and let warmth steep slowly into your being."
-],
+  miso: [
+    "Miso stirs the waters of memory fermented depth, ancestral wisdom, and quiet healing.",
+    "Its salty tang in dreams may point to grief matured into strength or hardship turned to flavor.",
+    "To drink miso is to accept the past and let warmth steep slowly into your being."
+  ],
 
-cornbread: [
-  "Cornbread offers warmth of hearth and heart a symbol of shared meals, safety, and survival.",
-  "It may signal nourishment of the soul, comfort during change, or sweetness within hardship.",
-  "Dreaming of cornbread is dreaming of legacy recipes passed down through generations of resilience."
-],
+  cornbread: [
+    "Cornbread offers warmth of hearth and heart a symbol of shared meals, safety, and survival.",
+    "It may signal nourishment of the soul, comfort during change, or sweetness within hardship.",
+    "Dreaming of cornbread is dreaming of legacy recipes passed down through generations of resilience."
+  ],
 
-kale: [
-  "Kale arrives not as a joy, but a medicine bitter, necessary, and strangely empowering.",
-  "It signals growth through discomfort, and the quiet pride in caring for your future self.",
-  "To dream of kale is to endure what’s hard now for strength that blooms later."
-],
+  kale: [
+    "Kale arrives not as a joy, but a medicine bitter, necessary, and strangely empowering.",
+    "It signals growth through discomfort, and the quiet pride in caring for your future self.",
+    "To dream of kale is to endure what’s hard now for strength that blooms later."
+  ],
 
-guava: [
-  "Guava glows with tropical warmth lushness that invites both temptation and transformation.",
-  "It symbolizes creativity bursting from within, sweet and tart, bold and unrefined.",
-  "To dream of guava is to discover unfamiliar pleasure and the messiness of joy."
-],
+  guava: [
+    "Guava glows with tropical warmth lushness that invites both temptation and transformation.",
+    "It symbolizes creativity bursting from within, sweet and tart, bold and unrefined.",
+    "To dream of guava is to discover unfamiliar pleasure and the messiness of joy."
+  ],
 
-biscotti: [
-  "Biscotti in dreams is a symbol of ritual of quiet mornings, stillness, and deliberate living.",
-  "Its firmness reflects your discipline, while its sweetness reminds you not to forget pleasure.",
-  "Dreaming of biscotti is to long for balance: between the hard and the soft, the bitter and the sweet."
-]
+  biscotti: [
+    "Biscotti in dreams is a symbol of ritual of quiet mornings, stillness, and deliberate living.",
+    "Its firmness reflects your discipline, while its sweetness reminds you not to forget pleasure.",
+    "Dreaming of biscotti is to long for balance: between the hard and the soft, the bitter and the sweet."
+  ],
+  
 };
 
 
