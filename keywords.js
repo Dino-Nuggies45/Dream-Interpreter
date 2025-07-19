@@ -1088,7 +1088,57 @@ lynx: [
     "Dreaming of avatars reflects your self-image, role-playing, or masks worn in different life contexts.",
     "They may indicate a need to reconcile your internal self with your public identity.",
     "Avatars challenge you to explore who you truly are beyond the pixelated projection."
-  ]
+  ],
+  bread: [
+    "Bread is the quiet heartbeat of sustenance its presence in dreams signals grounding, stability, and the simple grace of daily life.",
+    "To dream of bread is to hunger for connection, for nourishment beyond the physical, for communion in solitude or shared moments.",
+    "It may speak of tradition passed through hands and ovens, the body’s needs mirroring the soul’s quiet longings."
+  ],
+  honey: [
+    "Golden and viscous, honey in dreams whispers of sweetness earned of patience rewarded and nature's soft abundance.",
+    "To taste honey is to draw in love that lingers on the tongue, warmth blooming from ancient, sacred sources.",
+    "It can signify temptation, seduction in its gentlest form, or healing from the nectar of emotional truth."
+  ],
+  apple: [
+    "A symbol steeped in lore, the apple speaks of knowledge, temptation, and choices that shape destinies.",
+    "Its crisp bite can reflect desire pure or dangerous while its red sheen masks truths waiting to be unveiled.",
+    "To hold an apple in a dream is to weigh consequences in the palm of your hand."
+  ],
+  soup: [
+    "Soup simmers with memory nourishment from ancestral roots, comfort in the face of emotional exhaustion.",
+    "To dream of soup is to seek restoration, a warm embrace for the soul in moments of internal winter.",
+    "It may also signal a time to gather ingredients of your life into something harmonious and whole."
+  ],
+  chocolate: [
+    "Chocolate is luxury and longing an indulgence of desire and emotional reward.",
+    "To taste it in dreams is to feel the pleasure of permission, or the hidden guilt of craving what is denied.",
+    "Bittersweet, it may represent duality: the joy of now and the ache of what lies beneath."
+  ],
+  fish: [
+    "As a food, fish brings intuitive nourishment wisdom that swims beneath the surface of your waking thoughts.",
+    "Its appearance in dreams can speak of spiritual sustenance, or slippery truths yet to be caught.",
+    "It may also reflect abundance, a quiet bounty flowing from inner depths."
+  ],
+  grapes: [
+    "Grapes cluster like shared blessings abundance, fertility, and the joyful sweetness of communal pleasure.",
+    "To see or taste grapes is to witness ripeness, to feel time’s gentle hand leading you toward fruition.",
+    "They may also symbolize indulgence or vanity, beauty that fades without purpose."
+  ],
+  cheese: [
+    "Cheese is time’s transformation made tangible patience, fermentation, and complex rewards.",
+    "Dreaming of cheese may signify hidden depths, oddities of the self maturing into richness.",
+    "It may also warn of overindulgence or secrets buried beneath layers of aging charm."
+  ],
+  egg: [
+    "The egg is primal potential life yet unformed, delicate hope cradled in a fragile shell.",
+    "In dreams, it signals new beginnings, creative force waiting to crack open into being.",
+    "It may also suggest vulnerability, the need to protect your inner world before it hatches."
+  ],
+  rice: [
+    "Rice is the quiet labor of sustenance, sacred in its simplicity, endless in its reach.",
+    "To dream of rice is to honor the unnoticed efforts that build security, the grains of daily sacrifice.",
+    "It speaks of humility, fertility, and the promise of fulfillment through consistency."
+  ],
 };
 
 
@@ -2139,5 +2189,69 @@ hopscotch: {
     positive: "Milestone achieved, evolution, spiritual progress.",
     negative: "Impatience, comparison, pressure to ‘advance’."
   },
-  
+  loading: {
+    emoji: "⏳",
+    positive: "Inner preparation, quiet anticipation, sacred pause.",
+    negative: "Delays, frustration, liminal stagnation."
+  },
+  savepoint: {
+    emoji: "💾",
+    positive: "Self-preservation, reflection, groundedness.",
+    negative: "Fear of change, stalling, avoidance of transition."
+  },
+  glitch: {
+    emoji: "🪲",
+    positive: "Insight through error, awakening, pattern disruption.",
+    negative: "Confusion, deception, subconscious fragmentation."
+  },
+  respawn: {
+    emoji: "🔁",
+    positive: "Rebirth, resilience, renewal of purpose.",
+    negative: "Avoidance of growth, repetitive patterns, false restart."
+  },
+  inventory: {
+    emoji: "🎒",
+    positive: "Inner resourcefulness, emotional tools, readiness.",
+    negative: "Emotional baggage, cluttered mind, misused potential."
+  },
+  map: {
+    emoji: "🗺️",
+    positive: "Guidance, spiritual path, self-direction.",
+    negative: "Overplanning, fear of the unknown, rigidity."
+  },
+  highscore: {
+    emoji: "🏆",
+    positive: "Achievement, motivation, pride in progress.",
+    negative: "Pressure, competition, external validation."
+  },
+  gameover: {
+    emoji: "☠️",
+    positive: "Closure, transition, necessary endings.",
+    negative: "Failure, regret, fear of loss."
+  },
+  npc: {
+    emoji: "👤",
+    positive: "Routine comfort, hidden wisdom, reflection of others.",
+    negative: "Lack of agency, emotional numbness, detachment."
+  },
+  cheatcode: {
+    emoji: "💡",
+    positive: "Ingenuity, resourcefulness, insight into systems.",
+    negative: "Dishonesty, shortcuts, lack of authenticity."
+  },
+  bossfight: {
+    emoji: "👹",
+    positive: "Confrontation of fears, strength, overcoming trials.",
+    negative: "Inner resistance, intimidation, suppression."
+  },
+  checkpoint: {
+    emoji: "✅",
+    positive: "Progress marker, rest, review and reflection.",
+    negative: "Pausing too long, hesitance, fear of next step."
+  },
+  avatar: {
+    emoji: "🧍‍♂️",
+    positive: "Self-expression, identity exploration, personal myth.",
+    negative: "Role confusion, identity mask, disconnection from true self."
+  }
 };
