@@ -2932,5 +2932,105 @@ hopscotch: {
     emoji: "🥔",
     positive: "Stability, strength, calm.",
     negative: "Rejection, oddity, unease."
-  }
+  },
+  curry: {
+    emoji: "🍛",
+    positive: "Layered insight, warmth through chaos, fusion of experiences.",
+    negative: "Overwhelm, emotional overload, clashing complexities."
+  },
+  zucchini: {
+    emoji: "🥒",
+    positive: "Quiet growth, humility, subtle transformation.",
+    negative: "Neglect, lack of recognition, suppressed progress."
+  },
+  toffee: {
+    emoji: "🍬",
+    positive: "Nostalgia, comfort, enduring sweetness.",
+    negative: "Clinging to the past, emotional stickiness, sweet denial."
+  },
+  radish: {
+    emoji: "🥗",
+    positive: "Clarity, bold truth, fresh awareness.",
+    negative: "Harshness, emotional sting, difficult revelations."
+  },
+  pistachio: {
+    emoji: "🌰",
+    positive: "Patience, protected joy, hidden reward.",
+    negative: "Guardedness, defensiveness, inaccessible desire."
+  },
+  sardine: {
+    emoji: "🐟",
+    positive: "Unity, resilience in tight spaces, communal wisdom.",
+    negative: "Crowding, emotional confinement, tension in togetherness."
+  },
+  plantain: {
+    emoji: "🍌",
+    positive: "Ancestral strength, maturity, cultural grounding.",
+    negative: "Impatience, wasted potential, spiritual neglect."
+  },
+  honeydew: {
+    emoji: "🍈",
+    positive: "Gentleness, quiet joy, soft nourishment.",
+    negative: "Emotional distance, unrealized desire, fragility."
+  },
+  truffle: {
+    emoji: "🍄",
+    positive: "Hidden treasure, spiritual depth, refined desire.",
+    negative: "Obsession with status, buried truths, luxury without meaning."
+  },
+  chia: {
+    emoji: "🟤",
+    positive: "Potential, quiet power, small acts with deep roots.",
+    negative: "Inertia, impatience, underestimation of self."
+  },
+  brie: {
+    emoji: "🧀",
+    positive: "Emotional softness, intimate luxury, quiet craving.",
+    negative: "Overprotection, fragility masked as strength, emotional indulgence."
+  },
+  quinoa: {
+    emoji: "🌾",
+    positive: "Balance, ancient nourishment, grounded clarity.",
+    negative: "Overextension, spiritual depletion, dry introspection."
+  },
+  fig: {
+    emoji: "🍑",
+    positive: "Fertility, ancient sweetness, secret knowledge.",
+    negative: "Concealment, shame, emotional overindulgence."
+  },
+  anchovy: {
+    emoji: "🧂",
+    positive: "Intensity, compact strength, personal flavor.",
+    negative: "Overpowering presence, alienation, bitterness."
+  },
+  scone: {
+    emoji: "🥐",
+    positive: "Tradition, comfort, sacred ritual.",
+    negative: "Stagnation, monotony, outdated patterns."
+  },
+  okra: {
+    emoji: "🌿",
+    positive: "Emotional bonding, survival through stickiness, spiritual cohesion.",
+    negative: "Clinginess, discomfort, messy entanglements."
+  },
+  persimmon: {
+    emoji: "🍊",
+    positive: "Ripened reward, sweetness through patience, self-trust.",
+    negative: "Premature action, spoiled outcomes, haste in healing."
+  },
+  tamarind: {
+    emoji: "🌰",
+    positive: "Emotional complexity, bittersweet clarity, graceful duality.",
+    negative: "Mixed signals, confusion, unresolved memories."
+  },
+  clam: {
+    emoji: "🦪",
+    positive: "Private wisdom, hidden value, emotional depth.",
+    negative: "Closed-offness, buried pain, silence that wounds."
+  },
+  miso: {
+    emoji: "🍲",
+    positive: "Emotional fermentation, sacred history, deep transformation.",
+    negative: "Bitterness turned inward, slow-burning grief, salty regret."
+  },
 };
