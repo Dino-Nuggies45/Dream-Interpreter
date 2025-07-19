@@ -2139,4 +2139,5 @@ hopscotch: {
     positive: "Milestone achieved, evolution, spiritual progress.",
     negative: "Impatience, comparison, pressure to ‘advance’."
   },
+  
 };
