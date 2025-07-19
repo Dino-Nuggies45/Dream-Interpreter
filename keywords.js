@@ -1190,6 +1190,7 @@ lynx: [
     "In dreams, it reveals emotional layers that must be faced to reach the tender core."
   ],
   
+  
 };
 
 
