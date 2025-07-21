@@ -1573,6 +1573,7 @@ lynx: [
     "It may represent the layers of your own survival, the things you’ve buried to withstand the cold.",
     "To dream of turnips is to ask what you’ve neglected beneath your surface, and whether you’re ready to dig deeper."
   ],
+  
 };
 
 
