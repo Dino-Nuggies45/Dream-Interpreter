@@ -1753,6 +1753,46 @@ lynx: [
     "It may hint that something long avoided is beginning to stir, seeking release or acknowledgment.",
     "The darkness isn't always dangerous it is fertile, waiting for your bravery to illuminate it."
   ],
+  bedroom: [
+    "The bedroom in your dream signals intimacy with the self where your truest thoughts undress in quiet honesty.",
+    "It represents privacy, vulnerability, and the soft tension between comfort and exposure.",
+    "Here, you are asked to rest, reflect, or confront the desires you only dare name in the dark."
+  ],
+  kitchen: [
+    "The kitchen reveals the alchemy of nourishment and transformation where raw experience becomes sustenance.",
+    "It may point to care offered or withheld, or a hunger deeper than food can reach.",
+    "To dream of a kitchen is to ask how you’re feeding your soul, and who’s allowed at your table."
+  ],
+  bathroom: [
+    "A bathroom signifies release, cleansing, and the confrontation with parts of you no one else sees.",
+    "It invites you to purge emotional toxins, or face discomfort in letting go of what’s no longer serving you.",
+    "To stand here is to reckon with your own mess privately, painfully, and necessarily."
+  ],
+  attic: [
+    "The attic is memory’s archive dusty, layered, and filled with what you once refused to discard.",
+    "It reflects long-buried thoughts, ancestral whispers, and the weight of untended legacy.",
+    "You enter to uncover truths that once hid in daylight, now asking to be seen in your becoming."
+  ],
+  basement: [
+    "The basement holds your subconscious dark, foundational, and humming with suppressed emotion.",
+    "To descend is to encounter fear, secrets, or trauma locked away from waking thought.",
+    "This space urges excavation of what lies beneath: your roots, your wounds, your shadow."
+  ],
+  alley: [
+    "An alley reveals what’s hidden between the known backdoor truths, shortcuts, or danger cloaked in shadow.",
+    "It may speak to secrecy, survival, or the need to move unseen through transition.",
+    "This dream place asks whether you’re hiding from the world or from yourself."
+  ],
+  stairwell: [
+    "A stairwell marks vertical movement between levels of consciousness, identity, or emotional depth.",
+    "Up may represent aspiration, while down might lead to truth; both paths ask courage to commit.",
+    "You are caught in the in-between, rising or falling with each step toward revelation."
+  ],
+  elevator: [
+    "An elevator in dreams compresses time and motion carrying you quickly to inner heights or depths.",
+    "It can reflect control, anxiety, or surrender to the unknown forces guiding your transformation.",
+    "Pay attention to direction: where you’re going may not be where you meant to arrive."
+  ],
 };
 
 
@@ -3392,5 +3432,85 @@ sourdough: {
     emoji: "🏜️",
     positive: "Resilience, solitude, spiritual clarity.",
     negative: "Emptiness, thirst, abandonment."
+  },
+  mountain: {
+    emoji: "⛰️",
+    positive: "Achievement, perspective, personal challenge.",
+    negative: "Isolation, pressure, steep emotional climbs."
+  },
+  bridge: {
+    emoji: "🌉",
+    positive: "Connection, transition, overcoming.",
+    negative: "Uncertainty, collapse, emotional risk."
+  },
+  tunnel: {
+    emoji: "🚇",
+    positive: "Focus, deep journey, emergence.",
+    negative: "Claustrophobia, fear of the unknown, entrapment."
+  },
+  trainStation: {
+    emoji: "🚉",
+    positive: "Momentum, timing, direction.",
+    negative: "Missed chances, waiting, indecision."
+  },
+  groceryStore: {
+    emoji: "🛒",
+    positive: "Provision, abundance, choice.",
+    negative: "Overwhelm, indecision, material attachment."
+  },
+  restaurant: {
+    emoji: "🍽️",
+    positive: "Pleasure, social connection, nourishment.",
+    negative: "Desire for approval, overindulgence, lack of fulfillment."
+  },
+  street: {
+    emoji: "🛣️",
+    positive: "Freedom, pathfinding, direction.",
+    negative: "Danger, distraction, wandering."
+  },
+  parkingLot: {
+    emoji: "🅿️",
+    positive: "Pause, preparation, reflection.",
+    negative: "Stagnation, indecision, loss of momentum."
+  },
+  amusementPark: {
+    emoji: "🎢",
+    positive: "Joy, adventure, inner child energy.",
+    negative: "Chaos, instability, false happiness."
+  },
+  theater: {
+    emoji: "🎭",
+    positive: "Creativity, performance, emotional expression.",
+    negative: "Masks, illusion, feeling watched."
+  },
+  mall: {
+    emoji: "🏬",
+    positive: "Choice, identity formation, exploration.",
+    negative: "Superficiality, materialism, confusion."
+  },
+  church: {
+    emoji: "⛪",
+    positive: "Faith, meaning, spiritual connection.",
+    negative: "Guilt, rigidity, fear of judgment."
+  },
+  prison: {
+    emoji: "🚔",
+    positive: "Consequences, reflection, structure.",
+    negative: "Entrapment, regret, internal restriction."
+  },
+  graveyard: {
+    emoji: "⚰️",
+    positive: "Closure, memory, spiritual awareness.",
+    negative: "Fear of death, loss, unresolved grief."
+  },
+  hotel: {
+    emoji: "🏨",
+    positive: "Transition, impermanence, exploration.",
+    negative: "Detachment, avoidance, identity blur."
+  },
+  garden: {
+    emoji: "🌼",
+    positive: "Growth, peace, inner beauty.",
+    negative: "Neglect, overgrowth, suppressed emotions."
   },
 };
