@@ -1573,7 +1573,86 @@ lynx: [
     "It may represent the layers of your own survival, the things you’ve buried to withstand the cold.",
     "To dream of turnips is to ask what you’ve neglected beneath your surface, and whether you’re ready to dig deeper."
   ],
-  
+   school: [
+    "A school in your dream marks a return to lessons unlearned, beckoning you to face the past and re-evaluate old knowledge through new eyes.",
+    "It reveals the testing ground of your insecurities—where comparison, failure, and growth tangle like roots beneath the classroom floor.",
+    "The echo of bells and chalk dust hints at the unfinished: messages from your inner child or unresolved ambitions left in the desk of your memory."
+  ],
+  office: [
+    "The sterile glow of office lights reflects the struggle between purpose and monotony, asking if your daily efforts align with your soul's desires.",
+    "Cubicles stretch into infinity—a maze of obligation and hidden frustration. You may be questioning your role or identity within a system.",
+    "The dream invites scrutiny of how you define success, and whether it is your own or a mask inherited from others."
+  ],
+  hospital: [
+    "A hospital visit in a dream signals healing in motion, whether physical, emotional, or deeply spiritual.",
+    "It may whisper of vulnerability you refuse to speak aloud—bandaged wounds that still bleed beneath layers of pride.",
+    "The sterile air and quiet halls ask you to slow down and tend to what has been broken within."
+  ],
+  airport: [
+    "The airport is a place of thresholds, a waiting room between lives, suggesting you are on the verge of departure from an old self.",
+    "Missed flights or delayed boarding reflect missed opportunities, fear of commitment, or hesitation to step into the unknown.",
+    "Your dream may be reminding you that the journey matters more than the destination—that wandering is its own form of transformation."
+  ],
+  library: [
+    "A library emerges as a sanctuary of wisdom and forgotten truths, echoing your need for reflection or deeper understanding.",
+    "Each book may represent a life not yet lived, or a version of yourself buried beneath expectation and silence.",
+    "Dusty shelves and quiet aisles hint at repressed memories or ancient knowledge returning to the surface."
+  ],
+  church: [
+    "A church in your dream represents sacred questioning—your spirit reaching out for comfort, meaning, or redemption.",
+    "It may echo guilt you cannot name, or faith you've misplaced, cloaked in stained glass and whispered prayers.",
+    "You stand at the threshold between belief and doubt, invited to rediscover what holiness means to you."
+  ],
+  groceryStore: [
+    "The grocery store suggests a quest for nourishment—not just physical, but emotional and spiritual sustenance.",
+    "Aisles of choices mirror inner confusion or abundance, asking what you're truly seeking amid the noise of daily life.",
+    "The checkout line becomes a moment of exchange: what are you willing to give to receive what you need?"
+  ],
+  restaurant: [
+    "A restaurant is a symbol of desire and expectation—where you are served what you believe you deserve.",
+    "Menus and wait times mirror decisions and patience; your hunger may represent unfulfilled cravings of the heart.",
+    "Who you dine with—or who is missing—can unveil hidden dynamics of connection, approval, or absence."
+  ],
+  theater: [
+    "A theater in dreams reveals the performance of self—the mask you wear for others and the truths you stage in silence.",
+    "You may be audience or actor, watching your life unfold as if detached from it, searching for meaning in the script.",
+    "The curtain rises to show what you've kept hidden; the applause or silence is your soul reacting to your choices."
+  ],
+  mall: [
+    "A mall reflects distraction and the pursuit of identity through external symbols—clothes, mirrors, brands of selfhood.",
+    "Wandering through endless shops suggests a search for value or connection masked by consumer desire.",
+    "You may be losing your way in the artificial, longing for something real amid fluorescent lights and echoing footsteps."
+  ],
+  trainStation: [
+    "A train station signals transitions—you're on the edge of change, waiting for momentum to carry you forward.",
+    "Missed trains or wrong tracks suggest fear of wrong decisions, or a subconscious nudge to shift direction.",
+    "This place invites reflection: what are you leaving behind, and what new chapter awaits beyond the horizon?"
+  ],
+  park: [
+    "A park reveals your need for rest, for natural joy, and the rewilding of your weary spirit.",
+    "It may call you back to innocence or playfulness, unchained from duty and shaped by sun-dappled freedom.",
+    "Yet the shadows among trees remind you that even peace must be maintained—tranquility can still hide unrest."
+  ],
+  cemetery: [
+    "A cemetery is a place of reckoning, where grief and memory bloom like flowers on forgotten stones.",
+    "It may reflect closure you’ve resisted or the presence of something—someone—that refuses to stay buried.",
+    "To walk among the dead is to face what has ended and what still haunts you, waiting for your final goodbye."
+  ],
+  beach: [
+    "The beach is the liminal edge between the conscious and the unconscious, where clarity meets chaos.",
+    "Waves wash away fears or return old memories like shells; you stand exposed between peace and power.",
+    "This place may signal renewal, a desire to return to origin, or the raw ache of vulnerability."
+  ],
+  cave: [
+    "A cave represents descent into the self—dark, quiet, and thick with hidden truths or untapped power.",
+    "Entering it means facing the unknown within: fear, potential, trauma, and transformation all live here.",
+    "You may be withdrawing to find safety or seeking what only the dark can reveal—sacred secrets forged in silence."
+  ],
+  hotel: [
+    "A hotel appears when you’re in between versions of yourself—a temporary rest amid long transition.",
+    "It may reflect identity shifts, impermanence, or the question of where you truly belong.",
+    "Rooms repeat like memories—each one a version of your emotional state, waiting to be checked out of."
+  ],
 };
 
 
