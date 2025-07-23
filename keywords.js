@@ -1793,6 +1793,7 @@ lynx: [
     "It can reflect control, anxiety, or surrender to the unknown forces guiding your transformation.",
     "Pay attention to direction: where you’re going may not be where you meant to arrive."
   ],
+  
 };
 
 
