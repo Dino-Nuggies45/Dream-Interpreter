@@ -1109,11 +1109,6 @@ lynx: [
     "To dream of soup is to seek restoration, a warm embrace for the soul in moments of internal winter.",
     "It may also signal a time to gather ingredients of your life into something harmonious and whole."
   ],
-  chocolate: [
-    "Chocolate is luxury and longing an indulgence of desire and emotional reward.",
-    "To taste it in dreams is to feel the pleasure of permission, or the hidden guilt of craving what is denied.",
-    "Bittersweet, it may represent duality: the joy of now and the ache of what lies beneath."
-  ],
   fish: [
     "As a food, fish brings intuitive nourishment wisdom that swims beneath the surface of your waking thoughts.",
     "Its appearance in dreams can speak of spiritual sustenance, or slippery truths yet to be caught.",
@@ -1164,11 +1159,6 @@ lynx: [
     "Their crunch offers alertness; their color, vitality; their presence, a guide toward health and grounding.",
     "They hint at purpose beneath the surface, and the sweetness of simplicity when unearthed."
   ],
-  rice: [
-    "Each grain a promise, rice dreams are of sustenance, gratitude, and the quiet blessings of daily life.",
-    "They suggest spiritual unity, modest wealth, and humble joy shared with others.",
-    "Rice calls forth the sacred in repetition, in rituals passed hand to hand across generations."
-  ],
   watermelon: [
     "A fruit of summer’s laughter and sticky joy, watermelon in dreams bursts with freedom, play, and innocence.",
     "It symbolizes refreshment, abundance, and the courage to live boldly in the now.",
@@ -1189,7 +1179,6 @@ lynx: [
     "Tears accompany its peelingcatharsis, grief, and clarity awaiting those who dare to delve deeper.",
     "In dreams, it reveals emotional layers that must be faced to reach the tender core."
   ],
-  
   chocolate: [
     "A dream of chocolate wraps the heart in velvet warmth, a tender invitation to savor joy and self-kindness without apology.",
     "Its sweetness whispers of stolen moments and secret desires, asking you to honor your need for comfort and inner affection.",
@@ -1240,73 +1229,61 @@ lynx: [
     "A labyrinth of green leaves whispers of complex mysteries concealed beneath a rugged facadedo you dare to uncover the truth?",
     "Thorny on the outside, soft within, it teaches that vulnerability is a treasure wrapped in the defense of experience."
   ],
-
   arugula: [
     "Peppery whispers dance upon your tongue, a wild spirit bursting with life and zest for unpredictable adventures.",
     "Bitter and bold, it sharpens the senses and awakens the soul to the exhilarating taste of risk.",
     "A fleeting herb, moments of courage bloom before fading like a spark in the dark."
   ],
-
   bokchoy: [
     "Crisp stalks reach skyward, grounded in earth’s quiet wisdom, offering nourishment to the body and calm to the spirit.",
     "A humble green reminds you that strength often comes in simple, unassuming forms.",
     "Yet, its quiet presence can fade unnoticed, lost in the rush of more vivid flavors."
   ],
-
   cantaloupe: [
     "Juicy sun-kissed sweetness bursts forth, a golden promise of summer’s warmth and playful delight.",
     "Beneath the netted rind lies a luscious heart, inviting you to savor joy with every dripping bite.",
     "But sweetness can spoilbeware the fleeting nature of pleasure that fades too fast."
   ],
-
   chickpea: [
     "Small spheres of humble power, the chickpea stands firm as a symbol of nourishment and quiet strength.",
     "A versatile seed, it weaves through cultures and cuisines, uniting in common sustenance.",
     "Yet, it can harden and resist, a stubborn echo of resistance against change."
   ],
-
   clementine: [
     "Sunlit orbs bursting with tangy sweetness, clementines dance lightly on the tongue like fleeting happiness.",
     "Their easy peel invites open-hearted sharing and spontaneous connection.",
     "But beneath the surface lies the bitterness of separation peeling back layers reveals hidden divides."
   ],
-
   daikon: [
     "The white giant stands stark and bold, cleansing and renewing with cool, crisp clarity.",
     "A root deep in the soil, it anchors you in quiet strength and purity of purpose.",
     "Yet its harsh bite warns of cold truths that sting before healing."
   ],
-
   edamame: [
     "Bright green pods cradle tender gifts of health, symbols of growth and untapped potential.",
     "A gentle reminder that nourishment comes from patience and careful nurturing.",
     "Yet the shell can also confine, hiding what lies within from eager hands."
   ],
-
   endive: [
     "A crisp, slightly bitter leaf that awakens the palate and sharpens insight.",
     "It beckons you toward balance, embracing both light and shadow within.",
     "But bitterness can linger, warning of unresolved tension beneath the surface."
   ],
-
   fennel: [
     "Fragrant fronds rise like delicate fingers, offering healing breath and soothing calm.",
     "It bridges earth and air, guiding you to find harmony in opposing forces.",
     "Yet too much sweetness may mask underlying truths left unsaid."
   ],
-
   fig: [
     "The fig’s jewel-like seeds reveal hidden richness beneath soft, textured skin.",
     "It symbolizes abundance, temptation, and the fertile mystery of life’s cycles.",
     "But its sweetness can invite overindulgence, and soft spots betray hidden decay."
   ],
-
   galangal: [
     "Sharp and spicy, galangal cuts through stagnation like a cleansing storm.",
     "It awakens the senses and sharpens intuition for new paths ahead.",
     "But its pungency can overwhelm, warning against reckless force."
   ],
-
   gooseberry: [
     "Tart bursts of sunlight hidden in small green spheres, gooseberries bring lively surprise and freshness.",
     "They encourage embracing change and seeing beauty in the unexpected.",
@@ -1317,13 +1294,11 @@ lynx: [
     "It offers grounding nourishment and cool clarity on hot days.",
     "But its fibrous shell can symbolize barriers keeping warmth at bay."
   ],
-
   kohlrabi: [
     "A bulbous mystery, kohlrabi blends earth’s firmness with tender green leaves of renewal.",
     "It speaks of transformation and hidden strength beneath unusual shapes.",
     "Yet its oddity can cause discomfort and uncertainty to those unprepared."
   ],
-
   kumquat: [
     "Tiny orbs of sweet and sour, kumquats surprise with their zestful contradictions.",
     "They teach the joy found in embracing opposites and small pleasures.",
@@ -1334,79 +1309,61 @@ lynx: [
     "It embodies endurance and resourcefulness.",
     "Yet it requires care lest hidden toxins bring harm."
   ],
-
   buckwheat: [
     "Dark, triangular seeds rich in earth’s energy, buckwheat offers grounding and nourishment.",
     "It calls for humility and strength in simplicity.",
     "Yet its roughness may symbolize harsh lessons and tough times."
   ],
-
   amaranth: [
     "Ancient grain of immortality and vibrant life, amaranth shines with resilience.",
     "It offers hope and spiritual sustenance.",
     "But its rarity may isolate and create longing."
   ],
-
-  barley: [
-    "Grain of harvest and celebration, barley fills chalices and hearts alike.",
-    "It teaches abundance, joy, and shared prosperity.",
-    "Yet excess can dull senses and cloud judgment."
-  ],
-
   chive: [
     "Thin, vibrant shoots burst with subtle onion bite and hidden strength.",
     "Chives symbolize freshness, renewal, and cleverness.",
     "But their small size may cause them to be overlooked or underestimated."
   ],
-
   celeriac: [
     "Knobby root with a mild celery fragrance, celeriac grounds you in earthy calm.",
     "It offers subtle complexity and quiet strength.",
     "Yet its odd form can create discomfort or rejection."
   ],
-
   pistachio: [
   "Pistachio symbolizes hidden richness, rewards locked within effort, and the delight of patience well spent.",
   "Dreaming of pistachios suggests something small yet potent an overlooked joy cracking open under your care.",
   "Its shell reminds you that what is worth savoring may come wrapped in resistance, waiting for your persistence."
   ],
-
   gouda: [
     "Gouda glows golden in your dreamscape, representing maturity, richness, and experiences aged to perfection.",
     "It suggests emotional complexity comfort entwined with subtle depth and long-forgotten echoes.",
     "To taste gouda is to remember joy tempered by wisdom and sweetness wrapped in old lessons."
   ],
-
   turnip: [
     "Turnip surfaces as a sign of grounded resilience, of nourishment grown in quiet darkness.",
     "Its bitter edge may mirror your own resistance to change or the truths buried beneath your surface.",
     "Dreaming of turnips invites you to explore humility and rediscover the flavor of simplicity."
   ],
-
   honeydew: [
     "Honeydew glistens like a hidden kindness a gentle sweetness that asks for nothing in return.",
     "It may symbolize fragile hope light and fleeting, but nourishing when approached with care.",
     "To eat honeydew in a dream is to crave ease and softness, a reprieve from intensity."
   ],
-
   brie: [
     "Brie speaks to softness beneath the surface, a tender heart protected by cultured strength.",
     "Its richness in your dreams may reflect your craving for intimacy, luxury, or emotional nourishment.",
     "Dreaming of brie asks you to lean into vulnerability and find courage in comfort."
   ],
-
   radish: [
     "Radish cuts through illusion with crisp clarity, demanding honesty even when it stings.",
     "Its vivid burst beneath the soil suggests surprises hiding in plain sight bold truths unearthed suddenly.",
     "To dream of radishes is to face what’s fresh, raw, and potentially difficult to swallow."
   ],
-
   tofu: [
     "Tofu symbolizes adaptation and quiet strength able to become what surrounds it while holding its center.",
     "It reflects a desire to blend in or support others while remaining whole within yourself.",
     "In dreams, tofu offers peace and pliability, asking you to soften while remaining aware."
   ],
-
   squash: [
     "Squash grows sprawling and golden, a dream of abundance, cycles, and nourishment shared in warmth.",
     "It signals a season of harvest, of gathering what you’ve grown with quiet pride.",
@@ -1418,13 +1375,6 @@ lynx: [
     "It may warn of dynamics that overwhelm or of hidden strength in what seems insignificant.",
     "To dream of anchovies is to wrestle with strong feelings confined in a tight space."
   ],
-
-  churro: [
-    "Churro spins sweetness with spice, evoking indulgence wrapped in playfulness and celebration.",
-    "Its presence in your dreams invites joy without guilt, and the thrill of breaking routine.",
-    "To taste a churro is to awaken your inner child and honor desire through delight."
-  ],
-
   cilantro: [
     "Cilantro divides freshness to some, revulsion to others, it speaks to subjectivity and tangled truths.",
     "In dreams, it marks a fork in perception, where clarity and confusion walk hand in hand.",
@@ -1708,11 +1658,6 @@ lynx: [
     "Missed trains or wrong tracks suggest fear of wrong decisions, or a subconscious nudge to shift direction.",
     "This place invites reflection: what are you leaving behind, and what new chapter awaits beyond the horizon?"
   ],
-  park: [
-    "A park reveals your need for rest, for natural joy, and the rewilding of your weary spirit.",
-    "It may call you back to innocence or playfulness, unchained from duty and shaped by sun-dappled freedom.",
-    "Yet the shadows among trees remind you that even peace must be maintained tranquility can still hide unrest."
-  ],
   cemetery: [
     "A cemetery is a place of reckoning, where grief and memory bloom like flowers on forgotten stones.",
     "It may reflect closure you’ve resisted or the presence of something someone that refuses to stay buried.",
@@ -1773,11 +1718,6 @@ lynx: [
     "It reflects long-buried thoughts, ancestral whispers, and the weight of untended legacy.",
     "You enter to uncover truths that once hid in daylight, now asking to be seen in your becoming."
   ],
-  basement: [
-    "The basement holds your subconscious dark, foundational, and humming with suppressed emotion.",
-    "To descend is to encounter fear, secrets, or trauma locked away from waking thought.",
-    "This space urges excavation of what lies beneath: your roots, your wounds, your shadow."
-  ],
   alley: [
     "An alley reveals what’s hidden between the known backdoor truths, shortcuts, or danger cloaked in shadow.",
     "It may speak to secrecy, survival, or the need to move unseen through transition.",
@@ -1793,7 +1733,66 @@ lynx: [
     "It can reflect control, anxiety, or surrender to the unknown forces guiding your transformation.",
     "Pay attention to direction: where you’re going may not be where you meant to arrive."
   ],
-  
+  garage: [
+    "The garage symbolizes potential in storage tools, dreams, and identities waiting to be repaired or reclaimed.",
+    "It suggests a place of hidden work, of maintenance between journeys, or projects left half-finished.",
+    "To dream here is to ask what part of you is in limbo, waiting for ignition."
+  ],
+  rooftop: [
+    "The rooftop is a threshold of vision where perspective widens and the sky dares you to leap.",
+    "It may suggest ambition, escape, or the revelation of truths kept below.",
+    "To stand here is to feel both limitless and precarious: clarity comes with risk."
+  ],
+  garden: [
+    "A garden represents growth shaped by care where what you tend becomes beauty or sustenance.",
+    "It invites you to cultivate patience, connection, and harmony with your natural rhythms.",
+    "This dream calls you to weed your inner soil, to plant with intention, and to bloom slowly."
+  ],
+  street: [
+    "A street in dreams reflects your current path public, exposed, and shaped by movement and choice.",
+    "It may reveal direction, distraction, or encounters with forces beyond your control.",
+    "You are being asked to observe how you travel through life and who walks beside you."
+  ],
+  train: [
+    "A train embodies momentum, routine, and destiny once aboard, you may feel bound to your choices.",
+    "It can reflect collective movement or emotional tracks laid long before you noticed.",
+    "To dream of trains is to ask whether you are steering your course, or riding someone else’s."
+  ],
+  bridge: [
+    "A bridge marks passage between places, emotions, or eras of the self not yet fully reconciled.",
+    "It suggests transition, risk, or the daring act of trusting something incomplete beneath your feet.",
+    "Crossing it means choosing change, even if the other side remains unseen."
+  ],
+  tunnel: [
+    "A tunnel is the passage through darkness narrow, uncertain, but necessary for rebirth.",
+    "It reflects faith in forward motion even when vision is clouded or time feels suspended.",
+    "This dream space whispers: keep going; light lives somewhere on the other side."
+  ],
+  cabin: [
+    "A cabin offers retreat, solitude, and simplicity shelter from the noise of modern identity.",
+    "It may speak to a longing for stillness, privacy, or reconnection with nature and truth.",
+    "Here, you are reminded that survival can be sacred, and quiet can be holy."
+  ],
+  elevator: [
+    "The elevator brings motion without effort a dream of surrendering control to destination and fate.",
+    "It signals rapid emotional change, shifts in consciousness, or the pressure of choosing levels of truth.",
+    "Doors open on transformation, and each floor may hold a part of who you're becoming."
+  ],
+  stairwell: [
+    "A stairwell is a turning path circular, steep, and suspended between ascent and descent.",
+    "It reflects the spiral nature of self-growth, where progress is less linear than you hoped.",
+    "You dream of stairwells when each step becomes a question: up toward light or down toward roots?"
+  ],
+  alley: [
+    "An alley reveals what the main roads hide backdoor instincts, hidden deals, or shadow truths.",
+    "It reflects secrecy, improvisation, or the quiet ways you navigate danger or intimacy.",
+    "To walk through an alley is to embrace the indirect and discover the unseen."
+  ],
+  balcony: [
+    "A balcony offers perspective from safe distance a view of life observed but not fully entered.",
+    "It may reflect emotional detachment, longing, or preparation before taking a leap.",
+    "This place asks whether you’re watching your life or ready to step into it."
+  ],
 };
 
 
@@ -3219,11 +3218,6 @@ hopscotch: {
     positive: "Fertility, ancient sweetness, secret knowledge.",
     negative: "Concealment, shame, emotional overindulgence."
   },
-  anchovy: {
-    emoji: "🧂",
-    positive: "Intensity, compact strength, personal flavor.",
-    negative: "Overpowering presence, alienation, bitterness."
-  },
   scone: {
     emoji: "🥐",
     positive: "Tradition, comfort, sacred ritual.",
@@ -3348,11 +3342,6 @@ sourdough: {
     emoji: "🥔",
     positive: "Nourishment, rediscovery, hidden depth.",
     negative: "Neglect, coarseness, buried emotion."
-  },
-  fennel: {
-    emoji: "🌿",
-    positive: "Clarity, complexity, ancestral breath.",
-    negative: "Overstimulation, contradiction, forgotten truths."
   },
   school: {
     emoji: "🏫",
