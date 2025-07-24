@@ -1793,6 +1793,46 @@ lynx: [
     "It may reflect emotional detachment, longing, or preparation before taking a leap.",
     "This place asks whether you’re watching your life or ready to step into it."
   ],
+  hallway: [
+    "A hallway represents transition long, narrow, and full of doors yet to be opened.",
+    "It suggests anticipation, delay, or movement between versions of yourself.",
+    "To dream here is to walk through possibility, with patience as your only light."
+  ],
+  station: [
+    "A station signals arrival and departure, reflecting the fluidity of identity and belonging.",
+    "It may mirror choice, indecision, or the pain of parting with what once felt certain.",
+    "The platform hums with movement are you waiting too long to begin again?"
+  ],
+  sidewalk: [
+    "A sidewalk reflects your day-to-day journey visible, habitual, and shaped by small decisions.",
+    "It symbolizes grounded movement, subtle progress, or overlooked insight on your path.",
+    "To walk this road is to remember that growth often hides in the ordinary."
+  ],
+  playground: [
+    "A playground is the return to childhood wonder, where imagination shaped your reality.",
+    "It can signal freedom, joy, or fear revisited games you still play in your adult heart.",
+    "You are asked to revisit what once made you laugh, and see if it still fits your spirit."
+  ],
+  porch: [
+    "A porch is the liminal space between self and world part exposure, part retreat.",
+    "It reflects readiness, waiting, or the soft balance of invitation and protection.",
+    "To dream of porches is to question what you are letting in and what you’re keeping at a distance."
+  ],
+  field: [
+    "A field stretches with openness, possibility, and wildness inviting you to expand beyond structure.",
+    "It suggests freedom, surrender, or the sacred chaos of growth without control.",
+    "You are asked to lie down in the unknown, and let the earth remind you who you are."
+  ],
+  laundromat: [
+    "A laundromat is the cleansing of repetition cycles of renewal where old stains may fade or return.",
+    "It may reflect guilt, ritual, or a need to cleanse emotional residue left behind by others.",
+    "You are spinning stories into clarity, purging what clings through the rhythms of release."
+  ],
+  classroom: [
+    "A classroom appears when your soul is ready to learn again, or realize it never stopped.",
+    "It symbolizes critique, curiosity, or the fear of failing lessons that matter most to your path.",
+    "To dream here is to open the notebook of self, and ask: what am I being taught by this moment?"
+  ]
 };
 
 
@@ -3502,5 +3542,85 @@ sourdough: {
     emoji: "🌼",
     positive: "Growth, peace, inner beauty.",
     negative: "Neglect, overgrowth, suppressed emotions."
+  },
+  bedroom: {
+    emoji: "🛏️",
+    positive: "Intimacy, rest, self-reflection.",
+    negative: "Vulnerability, secrets, stagnation."
+  },
+  kitchen: {
+    emoji: "🍳",
+    positive: "Nourishment, transformation, care.",
+    negative: "Emotional hunger, burnout, neglect."
+  },
+  bathroom: {
+    emoji: "🚽",
+    positive: "Cleansing, honesty, emotional release.",
+    negative: "Shame, exposure, discomfort letting go."
+  },
+  attic: {
+    emoji: "🧳",
+    positive: "Ancestral wisdom, memory, perspective.",
+    negative: "Neglect, burden, forgotten pain."
+  },
+  basement: {
+    emoji: "🕳️",
+    positive: "Self-discovery, subconscious depth, grounding.",
+    negative: "Suppression, fear, buried trauma."
+  },
+  alley: {
+    emoji: "🌃",
+    positive: "Hidden paths, instinct, resourcefulness.",
+    negative: "Danger, secrecy, fear of exposure."
+  },
+  stairwell: {
+    emoji: "🌀",
+    positive: "Progress, shift, ascension or descent.",
+    negative: "Uncertainty, limbo, spiraling emotion."
+  },
+  elevator: {
+    emoji: "🛗",
+    positive: "Quick change, transformation, surrender.",
+    negative: "Loss of control, anxiety, instability."
+  },
+  garage: {
+    emoji: "🔧",
+    positive: "Potential, preparation, latent tools.",
+    negative: "Stagnation, neglect, unused energy."
+  },
+  rooftop: {
+    emoji: "🌆",
+    positive: "Clarity, elevation, broad perspective.",
+    negative: "Exposure, fear of falling, pressure."
+  },
+  garden: {
+    emoji: "🌿",
+    positive: "Growth, nurturing, harmony.",
+    negative: "Neglect, decay, untended potential."
+  },
+  street: {
+    emoji: "🚶",
+    positive: "Journey, movement, public path.",
+    negative: "Distraction, chaos, feeling lost."
+  },
+  train: {
+    emoji: "🚆",
+    positive: "Momentum, purpose, direction.",
+    negative: "Inflexibility, loss of choice, habit."
+  },
+  bridge: {
+    emoji: "🌉",
+    positive: "Transition, connection, bold steps.",
+    negative: "Risk, fear of collapse, uncertainty."
+  },
+  tunnel: {
+    emoji: "🚇",
+    positive: "Persistence, faith, deep transformation.",
+    negative: "Obscurity, delay, fear of darkness."
+  },
+  cabin: {
+    emoji: "🏕️",
+    positive: "Retreat, simplicity, reconnection.",
+    negative: "Isolation, escape, regression."
   },
 };
