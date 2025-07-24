@@ -1834,94 +1834,169 @@ lynx: [
     "To dream here is to open the notebook of self, and ask: what am I being taught by this moment?"
   ],
   red: [
-    "Red surges through dreams like a heartbeat, fierce and full of yearning—it signals danger, passion, or defiance blooming under the skin.",
-    "To dream of red is to be ignited—by love, by anger, by desire that cannot wait its turn.",
+    "Red surges through dreams like a heartbeat, fierce and full of yearning it signals danger, passion, or defiance blooming under the skin.",
+    "To dream of red is to be ignited by love, by anger, by desire that cannot wait its turn.",
     "It invites you to confront what burns in you, what you chase, and what might consume you first."
   ],
   blue: [
-    "Blue drapes the dream in silence, in depth, in longing for peace—it’s the color of surrender, of distance, of still waters running deep.",
+    "Blue drapes the dream in silence, in depth, in longing for peace it’s the color of surrender, of distance, of still waters running deep.",
     "To see blue is to feel the weight of calm or melancholy pressing gently on your spirit.",
     "It asks: what truth have you buried beneath your calm, and what storm still brews behind your eyes?"
   ],
   yellow: [
-    "Yellow dreams like sunlight skipping across your skin—bright, clever, unafraid of joy but wary of exposure.",
+    "Yellow dreams like sunlight skipping across your skin bright, clever, unafraid of joy but wary of exposure.",
     "It hints at hope, curiosity, and sometimes, foolish optimism that forgets the shadows behind the glow.",
     "To see yellow is to wonder: what joy do you fear is too good to last?"
   ],
   green: [
-    "Green rises from your sleep like spring from frost—growth, envy, renewal wrapped in vines of hesitation.",
+    "Green rises from your sleep like spring from frost growth, envy, renewal wrapped in vines of hesitation.",
     "It signals evolution, sometimes healing, sometimes the ache of wanting what others have already bloomed.",
     "To dream in green is to ask: where in me is the wild still growing?"
   ],
   purple: [
-    "Purple weaves through dreams like royal smoke—mystery, power, wisdom wrapped in velvet shadows.",
+    "Purple weaves through dreams like royal smoke mystery, power, wisdom wrapped in velvet shadows.",
     "It’s the color of magic untold and truths left cloaked for fear they may unravel too much.",
     "When purple dreams rise, they say: you are more ancient, more sacred, than you know."
   ],
   pink: [
-    "Pink dreams flutter like letters never sent—soft, sincere, sometimes naive in their yearning to be loved.",
+    "Pink dreams flutter like letters never sent soft, sincere, sometimes naive in their yearning to be loved.",
     "It is sweetness remembered, protection desired, and gentleness wrapped in vulnerable skin.",
     "To see pink is to cradle the child within you, and ask what she still aches for."
   ],
   black: [
-    "Black spills across the dreamscape like ink—final, full, swallowing what was not meant to be named.",
-    "It is not evil, but depth—the void from which all meaning can emerge or disappear.",
+    "Black spills across the dreamscape like ink final, full, swallowing what was not meant to be named.",
+    "It is not evil, but depth the void from which all meaning can emerge or disappear.",
     "To dream in black is to brave the questions with no light to guide you, only instinct."
   ],
   white: [
-    "White arrives in dreams like a whisper or a wound—purity or absence, clarity or loss.",
+    "White arrives in dreams like a whisper or a wound purity or absence, clarity or loss.",
     "It may be a clean slate or the refusal to stain it with truth, emotion, or chaos.",
     "To see white is to ask: what am I avoiding by pretending all is clean?"
   ],
   gray: [
-    "Gray folds the dream like fog over hills—uncertainty, in-betweens, the dull hum of decisions unmade.",
+    "Gray folds the dream like fog over hills uncertainty, in-betweens, the dull hum of decisions unmade.",
     "It whispers of numbness, of choices too long delayed, of truths that refuse black or white.",
     "To dream in gray is to walk the threshold and wonder: when will I finally choose?"
   ],
   gold: [
-    "Gold gleams in dreams like destiny revealed—wealth of spirit, power, purpose cast in sacred flame.",
+    "Gold gleams in dreams like destiny revealed wealth of spirit, power, purpose cast in sacred flame.",
     "It may shimmer with ego or glimmer with divine alignment, depending on what you truly seek.",
     "To dream of gold is to ask: what treasure lies within me, and do I dare spend it?"
   ],
   silver: [
-    "Silver dreams flow like moonlight over still water—intuition, reflection, and the elegance of restraint.",
+    "Silver dreams flow like moonlight over still water intuition, reflection, and the elegance of restraint.",
     "It hums with sacred femininity, soft but sure, silent but knowing.",
     "To see silver is to hear what whispers when you’ve stopped trying to control the tides."
   ],
   bronze: [
-    "Bronze stands in dreams as a monument—earned, weathered, noble without needing to shine too brightly.",
+    "Bronze stands in dreams as a monument earned, weathered, noble without needing to shine too brightly.",
     "It is strength worn with humility, beauty found in endurance, and honor forged in shadow.",
     "To dream of bronze is to ask: what victories have I forgotten to celebrate?"
   ],
   coral: [
-    "Coral colors the dream with warmth and vulnerability—like skin brushing skin, or laughter just before tears.",
+    "Coral colors the dream with warmth and vulnerability like skin brushing skin, or laughter just before tears.",
     "It’s a hue of connection and fragility, where joy meets the fear of losing it.",
     "To dream of coral is to feel: what moment of love am I trying to hold still?"
   ],
   lavender: [
-    "Lavender lulls the dream into breath and softness—healing, nostalgia, and the release of old pain.",
+    "Lavender lulls the dream into breath and softness healing, nostalgia, and the release of old pain.",
     "It is the scent of memories, the shade of rest, and a gentle reminder that not all growth must hurt.",
     "To dream of lavender is to be told: it is time to forgive, and exhale."
   ],
   scarlet: [
-    "Scarlet burns through dreams like temptation—dangerous and divine in the same breath.",
+    "Scarlet burns through dreams like temptation dangerous and divine in the same breath.",
     "It dances at the edge of morality, hunger, and the kind of beauty that leaves scars.",
     "To see scarlet is to confess: I want what I’m not sure I should."
   ],
   emerald: [
-    "Emerald wraps the dream in ancient forests and secret wisdom—abundance born of patience.",
+    "Emerald wraps the dream in ancient forests and secret wisdom abundance born of patience.",
     "It is nature’s treasure, the heart chakra awakened, the calm pulse of something sacred and alive.",
     "To dream of emerald is to ask: where have I planted my soul, and what has grown there?"
   ],
   amber: [
-    "Amber glows in sleep like honey preserved in fire—memory suspended, time thick with meaning.",
+    "Amber glows in sleep like honey preserved in fire memory suspended, time thick with meaning.",
     "It symbolizes preservation, past lives, or truths encased in longing.",
     "To dream of amber is to wonder: what moment did I freeze, afraid to let it pass?"
   ],
   fuchsia: [
-    "Fuchsia dances across the dream like rebellion wearing lipstick—bold, playful, fierce in its refusal to shrink.",
+    "Fuchsia dances across the dream like rebellion wearing lipstick bold, playful, fierce in its refusal to shrink.",
     "It represents identity unshackled, the joy of being seen and the courage to be loud.",
     "To see fuchsia is to remember: you were not made to blend in."
+  ],
+  periwinkle: [
+    "Periwinkle enters the dream like a lullaby gentle, forgotten, and full of soft longings.",
+    "It speaks to lost innocence or a peace you didn’t know you missed until it returned.",
+    "To dream in periwinkle is to remember a version of yourself you thought was gone."
+  ],
+  mauve: [
+    "Mauve dreams linger like perfume left in a lover’s coat familiar, faded, and tenderly haunting.",
+    "It suggests nostalgia with teeth, softness carrying sorrow too shy to name itself.",
+    "To see mauve is to revisit wounds wrapped in lace, and find them strangely beautiful."
+  ],
+  copper: [
+    "Copper glows in dreams like old coins in forgotten rivers value found through time, not shine.",
+    "It holds warmth and weight, like wisdom earned through ruin or resilience.",
+    "To dream in copper is to embrace the imperfect sacred flawed, earthy, alive."
+  ],
+  azure: [
+    "Azure opens the sky of your dream limitless, lucid, and just out of reach.",
+    "It signals hope ungrounded, truth seen from afar, or freedom that frightens you.",
+    "To see azure is to ask: what calls me upward, and why haven’t I flown yet?"
+  ],
+  taupe: [
+    "Taupe settles into the dream like dust on old books quiet, neutral, full of untold chapters.",
+    "It symbolizes restraint, self-protection, or the fear of choosing too loudly.",
+    "To dream in taupe is to sit with the stories you haven’t dared to tell."
+  ],
+  rust: [
+    "Rust dreams of time’s touch decay that reveals, not ruins, the soul’s scaffolding.",
+    "It suggests age, survival, and the elegance of what refuses to break down quietly.",
+    "To see rust is to honor what has weathered you and still holds."
+  ],
+  ochre: [
+    "Ochre rises from the earth of your dream sacred, ancestral, and alive with memory.",
+    "It is the color of rituals, bones, and the ancient hum beneath your footsteps.",
+    "To dream in ochre is to remember what your blood already knows."
+  ],
+  blush: [
+    "Blush flutters through dreams like breath on skin embarrassment or affection, barely confessed.",
+    "It is softness held at the edge of courage, the color of almost saying the truth.",
+    "To dream in blush is to feel what you can’t quite say, but still hope is seen."
+  ],
+  storm: [
+    "Storm colors tear across your dream like emotion too big to name, too loud to silence.",
+    "It brings the tension before release the truth before you’re ready to face it.",
+    "To dream in storm is to hold the sky in your chest, waiting to break or bloom."
+  ],
+  celadon: [
+    "Celadon arrives like still tea in an ancient cup delicate, thoughtful, and quietly sacred.",
+    "It speaks to healing that isn’t loud, and beauty that asks nothing from you.",
+    "To see celadon is to sit still long enough to hear your spirit whisper."
+  ],
+  sangria: [
+    "Sangria stains the dream like indulgence unchecked pleasure, recklessness, or thirst unquenched.",
+    "It is the color of temptation disguised as celebration, or escape served sweet.",
+    "To dream in sangria is to wonder: what am I drinking to forget?"
+  ],
+  wisteria: [
+    "Wisteria winds through dreams like poetry gentle, climbing, always reaching for light.",
+    "It signals unspoken hope, quiet longing, and the grace of becoming slowly.",
+    "To see wisteria is to believe something beautiful still grows in you, unseen."
+  ],
+  obsidian: [
+    "Obsidian cuts through the dream like a blade made of truth sharp, reflective, protective.",
+    "It guards your boundaries and confronts what you fear with silence that can’t be ignored.",
+    "To dream in obsidian is to choose clarity over comfort, and survive it."
+  ],
+  twilight: [
+    "Twilight holds the dream in transition day into night, knowing into mystery.",
+    "It represents endings disguised as beginnings, and all the beauty in between.",
+    "To see twilight is to ask: what am I becoming as the light fades?"
+  ],
+  linen: [
+    "Linen soothes the dream like warm sheets and gentle winds simplicity woven with care.",
+    "It symbolizes rest, surrender, or the need to return to what is natural and bare.",
+    "To dream in linen is to remember peace is found in what is plain and true."
   ]
 };
 
