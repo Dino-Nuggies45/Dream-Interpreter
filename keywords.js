@@ -3988,5 +3988,94 @@ sourdough: {
     positive: "Wisdom, transformation, strength in endings.",
     negative: "Loss, numbness, lingering grief."
   },
-  
+  red: {
+  emoji: "🟥",
+  positive: "Fierce passion, vitality, and courageous desire.",
+  negative: "Danger, anger, and impulsive recklessness."
+  },
+  blue: {
+    emoji: "🟦",
+    positive: "Calm, depth, peace, and emotional clarity.",
+    negative: "Melancholy, cold distance, and hidden turmoil."
+  },
+  yellow: {
+    emoji: "🟨",
+    positive: "Joy, hope, curiosity, and bright optimism.",
+    negative: "Foolishness, anxiety from exposure, and fragile happiness."
+  },
+  green: {
+    emoji: "🟩",
+    positive: "Growth, renewal, healing, and natural evolution.",
+    negative: "Envy, hesitation, and stagnation in progress."
+  },
+  purple: {
+    emoji: "🟪",
+    positive: "Mystery, wisdom, spiritual power, and magic.",
+    negative: "Secrets, fear of truth, and obscured understanding."
+  },
+  pink: {
+    emoji: "🌸",
+    positive: "Sweetness, gentle love, innocence, and protection.",
+    negative: "Naivety, vulnerability, and unspoken yearning."
+  },
+  black: {
+    emoji: "⚫",
+    positive: "Depth, transformation, and embracing the unknown.",
+    negative: "Void, fear, and unresolved darkness."
+  },
+  white: {
+    emoji: "⚪",
+    positive: "Purity, clarity, fresh beginnings, and peace.",
+    negative: "Denial, emptiness, and avoidance of truth."
+  },
+  gray: {
+    emoji: "⬜",
+    positive: "Balance, neutrality, and calm acceptance.",
+    negative: "Indecision, numbness, and avoidance of choices."
+  },
+  gold: {
+    emoji: "🟨✨",
+    positive: "Wealth of spirit, purpose, divine alignment.",
+    negative: "Ego, greed, and overattachment to material things."
+  },
+  silver: {
+    emoji: "🌙",
+    positive: "Intuition, reflection, quiet strength.",
+    negative: "Hidden emotions, passivity, and subtle restraint."
+  },
+  bronze: {
+    emoji: "🥉",
+    positive: "Endurance, honor, strength tempered with humility.",
+    negative: "Overlooked victories, fatigue, and fading glory."
+  },
+  coral: {
+    emoji: "🌺",
+    positive: "Warmth, connection, joy, and delicate vulnerability.",
+    negative: "Fear of loss, fragility, and fleeting happiness."
+  },
+  lavender: {
+    emoji: "💜",
+    positive: "Healing, nostalgia, forgiveness, and rest.",
+    negative: "Lingering pain, resistance to growth, and sorrow."
+  },
+  scarlet: {
+    emoji: "🔴",
+    positive: "Temptation, desire, and intense beauty.",
+    negative: "Dangerous impulses, moral conflict, and scars."
+  },
+  emerald: {
+    emoji: "💚",
+    positive: "Wisdom, patience, sacred abundance, and growth.",
+    negative: "Stagnation, jealousy, and misplaced trust."
+  },
+  amber: {
+    emoji: "🟧",
+    positive: "Preservation, memory, and suspended time.",
+    negative: "Clinging to past, fear of change, and stagnation."
+  },
+  fuchsia: {
+    emoji: "🎀",
+    positive: "Bold identity, joy, courage to be seen.",
+    negative: "Rebellion without cause, loudness, and alienation."
+  },
 };
