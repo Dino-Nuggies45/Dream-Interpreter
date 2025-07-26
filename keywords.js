@@ -2002,102 +2002,102 @@ lynx: [
   "Celadon drips into dreams like mist over morning grass, whispering of peace after emotional storms.",
   "It represents healing, hope, and the stillness found in slow, patient growth.",
   "To dream in celadon is to walk barefoot through memories softened by forgiveness and quiet strength."
-],
-eggplant: [
-  "Eggplant hues bloom when the subconscious dances between mystery and sensuality.",
-  "It signals a potent alchemy of desire, intuition, and things left unspoken but deeply felt.",
-  "To dream of eggplant is to descend into your deeper self, embracing your power without apology."
-],
-fog: [
-  "Fog colors dreams when clarity is elusive, and the soul begs you to trust without full vision.",
-  "It is a veil of introspection, a gentle warning to slow down and sense with more than sight.",
-  "To dream in fog is to practice faith to walk knowing each step writes the path ahead."
-],
-fern: [
-  "Fern appears when your spirit retreats into instinct, seeking shelter in things ancient and green.",
-  "It evokes primal wisdom, resilience, and the quiet tenacity of nature within you.",
-  "To dream of fern is to remember you were always wild, and still are underneath it all."
-],
-ink: [
-  "Ink flows through dreams as memory does through time staining, shaping, and immortalizing feeling.",
-  "It symbolizes permanence, creativity, and the raw vulnerability of storytelling.",
-  "To dream in ink is to accept that your narrative is alive, evolving, and worth reading."
-],
-mustard: [
-  "Mustard creeps into dreams like a sharp joke surprising, odd, but memorable all the same.",
-  "It stirs discomfort that demands action: change what sours you or risk becoming bitter.",
-  "To dream in mustard is to spark courage through confrontation, laughter, or rebellion."
-],
-sapphire: [
-  "Sapphire shines in dreams when loyalty and clarity become the guiding stars of your night.",
-  "It speaks of intuition turned toward truth and a love that protects without restraint.",
-  "To dream in sapphire is to drink from the deep wells of wisdom waiting within your own voice."
-],
-storm: [
-  "Storm-colored dreams churn when chaos brews below a seemingly calm surface.",
-  "It portends upheaval, but also transformation each thunderclap, a signal that stagnation ends now.",
-  "To dream in storm is to awaken your inner tempest, demanding change in every direction."
-],
-tangerine: [
-  "Tangerine flares through dreams like fireworks in a memory bright, joyful, fleeting.",
-  "It reflects urgency, passion, and the zest of time running out but still full of flavor.",
-  "To dream in tangerine is to seize your moment and savor it with reckless delight."
-],
-rosewood: [
-  "Rosewood blooms in dreams with the scent of depth aged love, sacred grief, ancestral strength.",
-  "It is the quiet fire in your ribs, the wisdom passed through lineage, blood, and dreamspace.",
-  "To dream of rosewood is to stand rooted in beauty that was earned through loss and grace."
-],
-zaffre: [
-  "Zaffre hues dreams in a shadowed blue that yearns for the stars but kneels in the dark.",
-  "It signals solitude chosen with purpose, thought that deepens like ink in an ancient well.",
-  "To dream in zaffre is to reflect with stillness and find beauty in your own echo."
-],
-twilight: [
-  "Twilight wraps the dreamworld in in-betweens, where nothing ends and nothing fully begins.",
-  "It signals threshold moments, changes not yet made, and the magic of possibility.",
-  "To dream in twilight is to hold your breath on the cusp of becoming something new."
-],
-meadow: [
-  "Meadow colors spill into dreams like laughter spilled across a summer afternoon.",
-  "They speak of innocence, contentment, and a yearning for simplicity untouched by time.",
-  "To dream of meadows is to lay down your armor and rest where joy still grows wild."
-],
-alabaster: [
-  "Alabaster haunts dreams with its cold beauty, purity pressed into bone-like silence.",
-  "It suggests restraint, sacred truth, and a hidden strength beneath still surfaces.",
-  "To dream in alabaster is to examine what you’ve carved yourself into and if it still fits."
-],
-pewter: [
-  "Pewter dreams hum with lived-in resilience a shade dulled by experience, but not defeat.",
-  "It embodies compromise, practicality, and the grey areas where most truths quietly reside.",
-  "To dream in pewter is to see value in what endures, even if it no longer shines."
-],
-denim: [
-  "Denim drapes dreams in ease and labor, a symbol of strength that’s comfortable with softness.",
-  "It speaks of authenticity, work ethic, and the beauty of ordinary things done with care.",
-  "To dream in denim is to remember your roots and find pride in your own making."
-],
-opal: [
-  "Opal glimmers in dreams as a prism of hidden selves truth refracted through feeling.",
-  "It represents emotional volatility, mysticism, and the power of masks that shift with the light.",
-  "To dream in opal is to dance with your contradictions until they become your superpower."
-],
-shadow: [
-  "Shadow seeps into dreams not to scare, but to guide to illuminate what you’ve buried.",
-  "It reveals your other self, the one you've avoided but who holds your missing pieces.",
-  "To dream in shadow is to walk beside your fear and learn its name: freedom."
-],
-dandelion: [
-  "Dandelion threads through dreams like a wish whispered too softly to catch the wind.",
-  "It speaks of childhood hope, fragility, and the bittersweet letting go of control.",
-  "To dream of dandelion is to trust that release can be a kind of miracle."
-],
-charcoal: [
-  "Charcoal streaks across dreams like remnants of what once burned and now remains.",
-  "It evokes endings, reflection, and the slow beauty of decay turned to wisdom.",
-  "To dream in charcoal is to sift through ashes and find the shape of what survives."
-]
+  ],
+  eggplant: [
+    "Eggplant hues bloom when the subconscious dances between mystery and sensuality.",
+    "It signals a potent alchemy of desire, intuition, and things left unspoken but deeply felt.",
+    "To dream of eggplant is to descend into your deeper self, embracing your power without apology."
+  ],
+  fog: [
+    "Fog colors dreams when clarity is elusive, and the soul begs you to trust without full vision.",
+    "It is a veil of introspection, a gentle warning to slow down and sense with more than sight.",
+    "To dream in fog is to practice faith to walk knowing each step writes the path ahead."
+  ],
+  fern: [
+    "Fern appears when your spirit retreats into instinct, seeking shelter in things ancient and green.",
+    "It evokes primal wisdom, resilience, and the quiet tenacity of nature within you.",
+    "To dream of fern is to remember you were always wild, and still are underneath it all."
+  ],
+  ink: [
+    "Ink flows through dreams as memory does through time staining, shaping, and immortalizing feeling.",
+    "It symbolizes permanence, creativity, and the raw vulnerability of storytelling.",
+    "To dream in ink is to accept that your narrative is alive, evolving, and worth reading."
+  ],
+  mustard: [
+    "Mustard creeps into dreams like a sharp joke surprising, odd, but memorable all the same.",
+    "It stirs discomfort that demands action: change what sours you or risk becoming bitter.",
+    "To dream in mustard is to spark courage through confrontation, laughter, or rebellion."
+  ],
+  sapphire: [
+    "Sapphire shines in dreams when loyalty and clarity become the guiding stars of your night.",
+    "It speaks of intuition turned toward truth and a love that protects without restraint.",
+    "To dream in sapphire is to drink from the deep wells of wisdom waiting within your own voice."
+  ],
+  storm: [
+    "Storm-colored dreams churn when chaos brews below a seemingly calm surface.",
+    "It portends upheaval, but also transformation each thunderclap, a signal that stagnation ends now.",
+    "To dream in storm is to awaken your inner tempest, demanding change in every direction."
+  ],
+  tangerine: [
+    "Tangerine flares through dreams like fireworks in a memory bright, joyful, fleeting.",
+    "It reflects urgency, passion, and the zest of time running out but still full of flavor.",
+    "To dream in tangerine is to seize your moment and savor it with reckless delight."
+  ],
+  rosewood: [
+    "Rosewood blooms in dreams with the scent of depth aged love, sacred grief, ancestral strength.",
+    "It is the quiet fire in your ribs, the wisdom passed through lineage, blood, and dreamspace.",
+    "To dream of rosewood is to stand rooted in beauty that was earned through loss and grace."
+  ],
+  zaffre: [
+    "Zaffre hues dreams in a shadowed blue that yearns for the stars but kneels in the dark.",
+    "It signals solitude chosen with purpose, thought that deepens like ink in an ancient well.",
+    "To dream in zaffre is to reflect with stillness and find beauty in your own echo."
+  ],
+  twilight: [
+    "Twilight wraps the dreamworld in in-betweens, where nothing ends and nothing fully begins.",
+    "It signals threshold moments, changes not yet made, and the magic of possibility.",
+    "To dream in twilight is to hold your breath on the cusp of becoming something new."
+  ],
+  meadow: [
+    "Meadow colors spill into dreams like laughter spilled across a summer afternoon.",
+    "They speak of innocence, contentment, and a yearning for simplicity untouched by time.",
+    "To dream of meadows is to lay down your armor and rest where joy still grows wild."
+  ],
+  alabaster: [
+    "Alabaster haunts dreams with its cold beauty, purity pressed into bone-like silence.",
+    "It suggests restraint, sacred truth, and a hidden strength beneath still surfaces.",
+    "To dream in alabaster is to examine what you’ve carved yourself into and if it still fits."
+  ],
+  pewter: [
+    "Pewter dreams hum with lived-in resilience a shade dulled by experience, but not defeat.",
+    "It embodies compromise, practicality, and the grey areas where most truths quietly reside.",
+    "To dream in pewter is to see value in what endures, even if it no longer shines."
+  ],
+  denim: [
+    "Denim drapes dreams in ease and labor, a symbol of strength that’s comfortable with softness.",
+    "It speaks of authenticity, work ethic, and the beauty of ordinary things done with care.",
+    "To dream in denim is to remember your roots and find pride in your own making."
+  ],
+  opal: [
+    "Opal glimmers in dreams as a prism of hidden selves truth refracted through feeling.",
+    "It represents emotional volatility, mysticism, and the power of masks that shift with the light.",
+    "To dream in opal is to dance with your contradictions until they become your superpower."
+  ],
+  shadow: [
+    "Shadow seeps into dreams not to scare, but to guide to illuminate what you’ve buried.",
+    "It reveals your other self, the one you've avoided but who holds your missing pieces.",
+    "To dream in shadow is to walk beside your fear and learn its name: freedom."
+  ],
+  dandelion: [
+    "Dandelion threads through dreams like a wish whispered too softly to catch the wind.",
+    "It speaks of childhood hope, fragility, and the bittersweet letting go of control.",
+    "To dream of dandelion is to trust that release can be a kind of miracle."
+  ],
+  charcoal: [
+    "Charcoal streaks across dreams like remnants of what once burned and now remains.",
+    "It evokes endings, reflection, and the slow beauty of decay turned to wisdom.",
+    "To dream in charcoal is to sift through ashes and find the shape of what survives."
+  ]
 };
 
 
