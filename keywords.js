@@ -3888,4 +3888,104 @@ sourdough: {
     positive: "Retreat, simplicity, reconnection.",
     negative: "Isolation, escape, regression."
   },
+  celadon: {
+  emoji: "🍃",
+  positive: "Healing, inner peace, gentle growth.",
+  negative: "Emotional stagnation, passivity, hesitation."
+  },
+  eggplant: {
+    emoji: "🍆",
+    positive: "Mystery, sensuality, inner depth.",
+    negative: "Obsession, secrecy, overindulgence."
+  },
+  fog: {
+    emoji: "🌫️",
+    positive: "Intuition, surrender, quiet transformation.",
+    negative: "Confusion, lack of clarity, emotional detachment."
+  },
+  fern: {
+    emoji: "🌿",
+    positive: "Instinct, resilience, ancestral wisdom.",
+    negative: "Withdrawal, over-caution, resistance to change."
+  },
+  ink: {
+    emoji: "🖋️",
+    positive: "Creativity, memory, emotional truth.",
+    negative: "Fixation, rigidity, overthinking."
+  },
+  mustard: {
+    emoji: "🌶️",
+    positive: "Courage, rebellion, catalytic change.",
+    negative: "Bitterness, agitation, misdirected passion."
+  },
+  sapphire: {
+    emoji: "🔷",
+    positive: "Clarity, loyalty, intuitive strength.",
+    negative: "Coldness, rigidity, emotional repression."
+  },
+  storm: {
+    emoji: "🌩️",
+    positive: "Breakthrough, transformation, fierce honesty.",
+    negative: "Turmoil, restlessness, emotional overload."
+  },
+  tangerine: {
+    emoji: "🍊",
+    positive: "Joy, urgency, fearless expression.",
+    negative: "Impulsiveness, fleeting desire, lack of focus."
+  },
+  rosewood: {
+    emoji: "🌹",
+    positive: "Depth, ancestral love, earned wisdom.",
+    negative: "Grief, emotional burden, dwelling in the past."
+  },
+  zaffre: {
+    emoji: "🔵",
+    positive: "Solitude, depth, reflection.",
+    negative: "Isolation, overthinking, melancholia."
+  },
+  twilight: {
+    emoji: "🌆",
+    positive: "Transition, mystery, potential.",
+    negative: "Uncertainty, fear of change, lost direction."
+  },
+  meadow: {
+    emoji: "🏞️",
+    positive: "Peace, innocence, connection to nature.",
+    negative: "Avoidance, stagnation, longing for escape."
+  },
+  alabaster: {
+    emoji: "🕊️",
+    positive: "Purity, discipline, spiritual clarity.",
+    negative: "Emotional distance, self-denial, rigidity."
+  },
+  pewter: {
+    emoji: "⚙️",
+    positive: "Resilience, humility, experience.",
+    negative: "Dullness, resignation, emotional fatigue."
+  },
+  denim: {
+    emoji: "👖",
+    positive: "Authenticity, strength, comfort in self.",
+    negative: "Routine, inflexibility, worn-out roles."
+  },
+  opal: {
+    emoji: "🌈",
+    positive: "Multiplicity, mysticism, emotional depth.",
+    negative: "Instability, confusion, shifting identity."
+  },
+  shadow: {
+    emoji: "🌑",
+    positive: "Integration, self-awareness, hidden wisdom.",
+    negative: "Repression, denial, unresolved fear."
+  },
+  dandelion: {
+    emoji: "🌼",
+    positive: "Hope, simplicity, graceful release.",
+    negative: "Fragility, naïveté, fleeting desire."
+  },
+  charcoal: {
+    emoji: "🪨",
+    positive: "Wisdom, transformation, strength in endings.",
+    negative: "Loss, numbness, lingering grief."
+  }
 };
