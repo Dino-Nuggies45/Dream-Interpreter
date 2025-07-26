@@ -3987,5 +3987,6 @@ sourdough: {
     emoji: "🪨",
     positive: "Wisdom, transformation, strength in endings.",
     negative: "Loss, numbness, lingering grief."
-  }
+  },
+  
 };
